@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "slug": "atheis-rennes",
     "template": "expert-comptable",
@@ -14,71 +14,73 @@
     "sourceOpportunity": "Site à réparer",
     "primaryColor": "#172238",
     "accentColor": "#c7a15a",
-    "tagline": "Une présence plus claire pour transformer les visiteurs en demandes de contact.",
-    "proof": "Clarifier une présence existante difficile à exploiter ou trop peu lisible.",
-    "intro": "J'ai vu que la présence web de ATHEIS existe, mais qu'elle pourrait être plus claire et plus directement orientée contact. J'ai préparé une maquette courte pour montrer une piste concrète.",
+    "tagline": "Comptabilité, fiscalité et conseil pour accompagner les dirigeants dans la durée.",
+    "proof": "Un cabinet d’expertise comptable à Rennes pour sécuriser les obligations, anticiper les échéances et donner une lecture claire des chiffres.",
+    "intro": "ATHEIS accompagne les dirigeants, indépendants et entreprises dans le suivi comptable, fiscal et social de leur activité.",
     "heroTitle": "ATHEIS, expertise comptable et accompagnement des dirigeants à Rennes",
-    "heroSummary": "Une page d’accueil plus claire pour présenter les missions du cabinet, rassurer les dirigeants et simplifier la prise de contact.",
+    "heroSummary": "Comptabilité, fiscalité, paie et conseil : un accompagnement structuré pour suivre vos obligations, sécuriser vos échéances et piloter votre activité.",
     "heroStats": [
       {
-        "title": "TPE & dirigeants",
-        "text": "Des missions formulées pour les entrepreneurs et entreprises locales."
+        "title": "TPE, PME & dirigeants",
+        "text": "Un suivi adapté aux besoins quotidiens des entrepreneurs et entreprises locales."
       },
       {
-        "title": "Vitrine à clarifier",
-        "text": "Conserver les informations utiles et rendre le parcours plus direct."
+        "title": "Échéances sécurisées",
+        "text": "Comptes annuels, TVA, fiscalité et paie suivis avec méthode."
       },
       {
         "title": "Rennes et alentours",
-        "text": "Des coordonnées locales visibles dès les premières secondes."
+        "text": "Un accompagnement de proximité pour avancer avec des chiffres fiables."
       }
     ],
     "services": [
       "Expertise comptable",
       "Fiscalité",
       "Paie & social",
-      "Création d’entreprise"
+      "Création d’entreprise",
+      "Pilotage",
+      "Conseil dirigeant"
     ],
     "serviceCards": [
       {
         "title": "Expertise comptable",
         "label": "Tenue, révision, bilans",
-        "text": "Une présentation claire des missions comptables pour aider les dirigeants à comprendre rapidement le périmètre d’accompagnement.",
+        "text": "Tenue comptable, révision, comptes annuels et suivi régulier pour disposer de chiffres fiables tout au long de l’année.",
         "image": "https://images.pexels.com/photos/8296970/pexels-photo-8296970.jpeg?auto=compress&cs=tinysrgb&w=1400",
         "featured": true
       },
       {
         "title": "Fiscalité",
-        "label": "Déclarations & conseil",
-        "text": "Des repères simples pour expliquer les obligations fiscales, les échéances et les décisions à anticiper.",
+        "label": "Déclarations & échéances",
+        "text": "Préparation des déclarations, suivi des échéances et conseils pour anticiper les obligations fiscales importantes.",
         "image": "",
         "featured": false
       },
       {
         "title": "Paie & social",
         "label": "Bulletins, charges, suivi RH",
-        "text": "Un suivi clair pour sécuriser les bulletins, les charges et les obligations courantes de l’employeur.",
+        "text": "Gestion des bulletins, déclarations sociales et obligations courantes de l’employeur avec un suivi structuré.",
         "image": "",
         "featured": false
       },
       {
         "title": "Création d’entreprise",
         "label": "Choix, lancement, premiers outils",
-        "text": "Des repères pour créer, reprendre ou structurer une activité avec une base comptable propre.",
+        "text": "Accompagnement des créateurs et repreneurs pour poser des bases comptables, fiscales et administratives solides.",
         "image": "",
         "featured": false
       },
       {
         "title": "Pilotage",
         "label": "Trésorerie, marges, tableaux de bord",
-        "text": "Des points de suivi pour comprendre la rentabilité, la trésorerie et les priorités de gestion.",
+        "text": "Indicateurs simples pour suivre la trésorerie, comprendre les marges et prioriser les décisions de gestion.",
         "image": "https://images.pexels.com/photos/8297220/pexels-photo-8297220.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "featured": false
       },
       {
-        "title": "Contact local",
-        "label": "Téléphone, email, adresse",
-        "text": "Des coordonnées visibles rapidement pour réduire les frictions avant la prise de contact.",
+        "title": "Conseil dirigeant",
+        "label": "Suivi, décisions, organisation",
+        "text": "Échanges réguliers pour anticiper les échéances, sécuriser les décisions et accompagner les moments clés de l’entreprise.",
         "image": "https://images.pexels.com/photos/8439661/pexels-photo-8439661.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "featured": false
       }
@@ -89,39 +91,39 @@
       "Métropole",
       "Région"
     ],
-    "review": "Une présentation claire, rassurante et directement orientée vers la prise de contact.",
+    "review": "Un accompagnement clair, régulier et utile pour suivre les chiffres de l’entreprise avec sérénité.",
     "ctaLabel": "Envoyer un message",
     "highlights": [
-      "Site à réparer",
-      "généraliste",
-      "Angle fort + email disponible"
+      "Expertise comptable",
+      "Fiscalité et paie",
+      "Conseil dirigeant"
     ],
-    "trustIntro": "Les dirigeants veulent comprendre rapidement le périmètre d’accompagnement, les interlocuteurs possibles et la façon de lancer un premier échange.",
+    "trustIntro": "Dirigeants, indépendants et PME ont besoin d’un partenaire qui comprend les obligations, anticipe les échéances et transforme la comptabilité en information utile.",
     "trustPoints": [
-      "Offre présentée clairement",
-      "Coordonnées visibles et utilisables",
-      "Parcours pensé pour qualifier les demandes",
-      "Message adapté au positionnement du cabinet"
+      "Expertise comptable confirmée",
+      "Suivi personnalisé de chaque mandat",
+      "Échéances fiscales et sociales anticipées",
+      "Conseils clairs pour les dirigeants"
     ],
-    "contactTitle": "Contacter ATHEIS",
-    "contactIntro": "Un premier message permet de présenter la situation, le besoin comptable et les échéances à traiter.",
-    "footerSlogan": "Une vitrine plus claire pour présenter les missions, rassurer les dirigeants et simplifier la prise de contact.",
+    "contactTitle": "Échanger avec ATHEIS sur votre comptabilité, votre fiscalité ou vos prochains enjeux.",
+    "contactIntro": "Décrivez votre situation, vos échéances et le niveau d’accompagnement recherché afin de préparer un premier échange utile.",
+    "footerSlogan": "Comptabilité, fiscalité, paie et conseil pour avancer avec des chiffres fiables et des décisions plus claires.",
     "faqs": [
       {
         "question": "Quels besoins comptables peut-on évoquer lors d’un premier échange ?",
-        "answer": "Comptabilité, fiscalité, paie, création ou pilotage : l’objectif est de clarifier le besoin et d’orienter vers le bon accompagnement."
+        "answer": "Comptabilité, fiscalité, paie, création d’entreprise ou pilotage : l’échange permet de comprendre la situation et de définir le niveau de suivi adapté."
       },
       {
         "question": "Le cabinet accompagne-t-il les créateurs et dirigeants de TPE ?",
-        "answer": "Le parcours met en avant les demandes fréquentes des dirigeants : création, obligations comptables, échéances fiscales et suivi de gestion."
+        "answer": "Oui. L’accompagnement peut commencer dès la création puis se poursuivre avec la tenue comptable, les déclarations, la paie et les comptes annuels."
       },
       {
-        "question": "Comment se passe le premier contact ?",
-        "answer": "Vous pouvez appeler, envoyer un email ou décrire votre situation via le formulaire afin de préparer un échange utile."
+        "question": "Pouvons-nous reprendre une comptabilité déjà existante ?",
+        "answer": "Oui. Un premier diagnostic permet d’identifier les documents disponibles, les échéances proches et les points à sécuriser en priorité."
       },
       {
-        "question": "Quels éléments préparer avant un rendez-vous ?",
-        "answer": "Le contexte de l’entreprise, les échéances proches, les documents disponibles et le motif de la demande suffisent pour démarrer."
+        "question": "Comment se passe le premier entretien ?",
+        "answer": "Nous clarifions votre activité, vos obligations, vos outils actuels et le niveau d’accompagnement attendu afin de proposer un cadre de mission adapté."
       }
     ],
     "prospecting": {
@@ -131,7 +133,8 @@
       "confidence": "Moyenne",
       "verdict": "Site à réparer - à prospecter",
       "sources": "LinkedIn indique http://atheis.fr ; Webrate signale le site offline ; Pappers confirmé activités comptables/CAC. https://www.linkedin.com/company/atheis | https://webrate.org/site/atheis.fr/ | https://www.pappers.fr/entreprise/atheis-817403793"
-    }
+    },
+    "heroImage": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=2400"
   },
   {
     "slug": "cabinet-pauthier-rennes",
@@ -148,71 +151,73 @@
     "sourceOpportunity": "Sans site confirmé",
     "primaryColor": "#172238",
     "accentColor": "#c7a15a",
-    "tagline": "Une première présence web claire, crédible et facile à contacter.",
-    "proof": "Créer une présence web locale crédible à partir des informations publiques.",
-    "intro": "Je n'ai pas trouvé de site officiel clair pour Cabinet Pauthier. J'ai préparé une maquette simple à partir de vos informations publiques pour montrer ce que pourrait donner une présence web plus lisible.",
+    "tagline": "Comptabilité, fiscalité et conseil pour accompagner les dirigeants dans la durée.",
+    "proof": "Un cabinet d’expertise comptable à Rennes pour sécuriser les obligations, anticiper les échéances et donner une lecture claire des chiffres.",
+    "intro": "Cabinet Pauthier accompagne les dirigeants, indépendants et entreprises dans le suivi comptable, fiscal et social de leur activité.",
     "heroTitle": "Cabinet Pauthier, expertise comptable et accompagnement des dirigeants à Rennes",
-    "heroSummary": "Une présence web simple pour présenter le cabinet, rassurer les dirigeants et faciliter la prise de contact.",
+    "heroSummary": "Comptabilité, fiscalité, paie et conseil : un accompagnement structuré pour suivre vos obligations, sécuriser vos échéances et piloter votre activité.",
     "heroStats": [
       {
-        "title": "TPE & dirigeants",
-        "text": "Des missions formulées pour les entrepreneurs et entreprises locales."
+        "title": "TPE, PME & dirigeants",
+        "text": "Un suivi adapté aux besoins quotidiens des entrepreneurs et entreprises locales."
       },
       {
-        "title": "Présence locale",
-        "text": "Une page autonome pour ne plus dépendre uniquement des annuaires."
+        "title": "Échéances sécurisées",
+        "text": "Comptes annuels, TVA, fiscalité et paie suivis avec méthode."
       },
       {
         "title": "Rennes et alentours",
-        "text": "Des coordonnées locales visibles dès les premières secondes."
+        "text": "Un accompagnement de proximité pour avancer avec des chiffres fiables."
       }
     ],
     "services": [
       "Expertise comptable",
       "Fiscalité",
       "Paie & social",
-      "Création d’entreprise"
+      "Création d’entreprise",
+      "Pilotage",
+      "Conseil dirigeant"
     ],
     "serviceCards": [
       {
         "title": "Expertise comptable",
         "label": "Tenue, révision, bilans",
-        "text": "Une présentation claire des missions comptables pour aider les dirigeants à comprendre rapidement le périmètre d’accompagnement.",
+        "text": "Tenue comptable, révision, comptes annuels et suivi régulier pour disposer de chiffres fiables tout au long de l’année.",
         "image": "https://images.pexels.com/photos/8296970/pexels-photo-8296970.jpeg?auto=compress&cs=tinysrgb&w=1400",
         "featured": true
       },
       {
         "title": "Fiscalité",
-        "label": "Déclarations & conseil",
-        "text": "Des repères simples pour expliquer les obligations fiscales, les échéances et les décisions à anticiper.",
+        "label": "Déclarations & échéances",
+        "text": "Préparation des déclarations, suivi des échéances et conseils pour anticiper les obligations fiscales importantes.",
         "image": "",
         "featured": false
       },
       {
         "title": "Paie & social",
         "label": "Bulletins, charges, suivi RH",
-        "text": "Un suivi clair pour sécuriser les bulletins, les charges et les obligations courantes de l’employeur.",
+        "text": "Gestion des bulletins, déclarations sociales et obligations courantes de l’employeur avec un suivi structuré.",
         "image": "",
         "featured": false
       },
       {
         "title": "Création d’entreprise",
         "label": "Choix, lancement, premiers outils",
-        "text": "Des repères pour créer, reprendre ou structurer une activité avec une base comptable propre.",
+        "text": "Accompagnement des créateurs et repreneurs pour poser des bases comptables, fiscales et administratives solides.",
         "image": "",
         "featured": false
       },
       {
         "title": "Pilotage",
         "label": "Trésorerie, marges, tableaux de bord",
-        "text": "Des points de suivi pour comprendre la rentabilité, la trésorerie et les priorités de gestion.",
+        "text": "Indicateurs simples pour suivre la trésorerie, comprendre les marges et prioriser les décisions de gestion.",
         "image": "https://images.pexels.com/photos/8297220/pexels-photo-8297220.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "featured": false
       },
       {
-        "title": "Contact local",
-        "label": "Téléphone, email, adresse",
-        "text": "Des coordonnées visibles rapidement pour réduire les frictions avant la prise de contact.",
+        "title": "Conseil dirigeant",
+        "label": "Suivi, décisions, organisation",
+        "text": "Échanges réguliers pour anticiper les échéances, sécuriser les décisions et accompagner les moments clés de l’entreprise.",
         "image": "https://images.pexels.com/photos/8439661/pexels-photo-8439661.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "featured": false
       }
@@ -223,39 +228,39 @@
       "Métropole",
       "Région"
     ],
-    "review": "Une présentation claire, rassurante et directement orientée vers la prise de contact.",
+    "review": "Un accompagnement clair, régulier et utile pour suivre les chiffres de l’entreprise avec sérénité.",
     "ctaLabel": "Envoyer un message",
     "highlights": [
-      "Sans site confirmé",
-      "généraliste",
-      "Angle fort + email disponible"
+      "Expertise comptable",
+      "Fiscalité et paie",
+      "Conseil dirigeant"
     ],
-    "trustIntro": "Les dirigeants veulent comprendre rapidement le périmètre d’accompagnement, les interlocuteurs possibles et la façon de lancer un premier échange.",
+    "trustIntro": "Dirigeants, indépendants et PME ont besoin d’un partenaire qui comprend les obligations, anticipe les échéances et transforme la comptabilité en information utile.",
     "trustPoints": [
-      "Offre présentée clairement",
-      "Coordonnées visibles et utilisables",
-      "Parcours pensé pour qualifier les demandes",
-      "Message adapté au positionnement du cabinet"
+      "Expertise comptable confirmée",
+      "Suivi personnalisé de chaque mandat",
+      "Échéances fiscales et sociales anticipées",
+      "Conseils clairs pour les dirigeants"
     ],
-    "contactTitle": "Contacter Cabinet Pauthier",
-    "contactIntro": "Un premier message permet de présenter la situation, le besoin comptable et les échéances à traiter.",
-    "footerSlogan": "Une présence web claire pour présenter le cabinet, rassurer les dirigeants et faciliter la prise de contact.",
+    "contactTitle": "Échanger avec Cabinet Pauthier sur votre comptabilité, votre fiscalité ou vos prochains enjeux.",
+    "contactIntro": "Décrivez votre situation, vos échéances et le niveau d’accompagnement recherché afin de préparer un premier échange utile.",
+    "footerSlogan": "Comptabilité, fiscalité, paie et conseil pour avancer avec des chiffres fiables et des décisions plus claires.",
     "faqs": [
       {
         "question": "Quels besoins comptables peut-on évoquer lors d’un premier échange ?",
-        "answer": "Comptabilité, fiscalité, paie, création ou pilotage : l’objectif est de clarifier le besoin et d’orienter vers le bon accompagnement."
+        "answer": "Comptabilité, fiscalité, paie, création d’entreprise ou pilotage : l’échange permet de comprendre la situation et de définir le niveau de suivi adapté."
       },
       {
         "question": "Le cabinet accompagne-t-il les créateurs et dirigeants de TPE ?",
-        "answer": "Le parcours met en avant les demandes fréquentes des dirigeants : création, obligations comptables, échéances fiscales et suivi de gestion."
+        "answer": "Oui. L’accompagnement peut commencer dès la création puis se poursuivre avec la tenue comptable, les déclarations, la paie et les comptes annuels."
       },
       {
-        "question": "Comment se passe le premier contact ?",
-        "answer": "Vous pouvez appeler, envoyer un email ou décrire votre situation via le formulaire afin de préparer un échange utile."
+        "question": "Pouvons-nous reprendre une comptabilité déjà existante ?",
+        "answer": "Oui. Un premier diagnostic permet d’identifier les documents disponibles, les échéances proches et les points à sécuriser en priorité."
       },
       {
-        "question": "Quels éléments préparer avant un rendez-vous ?",
-        "answer": "Le contexte de l’entreprise, les échéances proches, les documents disponibles et le motif de la demande suffisent pour démarrer."
+        "question": "Comment se passe le premier entretien ?",
+        "answer": "Nous clarifions votre activité, vos obligations, vos outils actuels et le niveau d’accompagnement attendu afin de proposer un cadre de mission adapté."
       }
     ],
     "prospecting": {
@@ -265,7 +270,8 @@
       "confidence": "Moyenne",
       "verdict": "Sans site confirmé - à prospecter",
       "sources": "Az-France indique site n.d. ; rapports Pappers citent lpr@cabinet-pauthier.fr ; OEC mentionne Pauthier Loic. https://www.az-france.com/entreprises/cabinet-pauthier-rennes-8-allee-rene-perrault | https://annuaire.experts-comptables.org/"
-    }
+    },
+    "heroImage": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=2400"
   },
   {
     "slug": "christophe-juteau-rennes",
@@ -282,71 +288,73 @@
     "sourceOpportunity": "Sans site confirmé",
     "primaryColor": "#172238",
     "accentColor": "#c7a15a",
-    "tagline": "Une première présence web claire, crédible et facile à contacter.",
-    "proof": "Créer une présence web locale crédible à partir des informations publiques.",
-    "intro": "Je n'ai pas trouvé de site officiel clair pour Christophe JUTEAU. J'ai préparé une maquette simple à partir de vos informations publiques pour montrer ce que pourrait donner une présence web plus lisible.",
+    "tagline": "Comptabilité, fiscalité et conseil pour accompagner les dirigeants dans la durée.",
+    "proof": "Un cabinet d’expertise comptable à Rennes pour sécuriser les obligations, anticiper les échéances et donner une lecture claire des chiffres.",
+    "intro": "Christophe JUTEAU accompagne les dirigeants, indépendants et entreprises dans le suivi comptable, fiscal et social de leur activité.",
     "heroTitle": "Christophe JUTEAU, expertise comptable et accompagnement des dirigeants à Rennes",
-    "heroSummary": "Une présence web simple pour présenter le cabinet, rassurer les dirigeants et faciliter la prise de contact.",
+    "heroSummary": "Comptabilité, fiscalité, paie et conseil : un accompagnement structuré pour suivre vos obligations, sécuriser vos échéances et piloter votre activité.",
     "heroStats": [
       {
-        "title": "TPE & dirigeants",
-        "text": "Des missions formulées pour les entrepreneurs et entreprises locales."
+        "title": "TPE, PME & dirigeants",
+        "text": "Un suivi adapté aux besoins quotidiens des entrepreneurs et entreprises locales."
       },
       {
-        "title": "Présence locale",
-        "text": "Une page autonome pour ne plus dépendre uniquement des annuaires."
+        "title": "Échéances sécurisées",
+        "text": "Comptes annuels, TVA, fiscalité et paie suivis avec méthode."
       },
       {
         "title": "Rennes et alentours",
-        "text": "Des coordonnées locales visibles dès les premières secondes."
+        "text": "Un accompagnement de proximité pour avancer avec des chiffres fiables."
       }
     ],
     "services": [
       "Expertise comptable",
       "Fiscalité",
       "Paie & social",
-      "Création d’entreprise"
+      "Création d’entreprise",
+      "Pilotage",
+      "Conseil dirigeant"
     ],
     "serviceCards": [
       {
         "title": "Expertise comptable",
         "label": "Tenue, révision, bilans",
-        "text": "Une présentation claire des missions comptables pour aider les dirigeants à comprendre rapidement le périmètre d’accompagnement.",
+        "text": "Tenue comptable, révision, comptes annuels et suivi régulier pour disposer de chiffres fiables tout au long de l’année.",
         "image": "https://images.pexels.com/photos/8296970/pexels-photo-8296970.jpeg?auto=compress&cs=tinysrgb&w=1400",
         "featured": true
       },
       {
         "title": "Fiscalité",
-        "label": "Déclarations & conseil",
-        "text": "Des repères simples pour expliquer les obligations fiscales, les échéances et les décisions à anticiper.",
+        "label": "Déclarations & échéances",
+        "text": "Préparation des déclarations, suivi des échéances et conseils pour anticiper les obligations fiscales importantes.",
         "image": "",
         "featured": false
       },
       {
         "title": "Paie & social",
         "label": "Bulletins, charges, suivi RH",
-        "text": "Un suivi clair pour sécuriser les bulletins, les charges et les obligations courantes de l’employeur.",
+        "text": "Gestion des bulletins, déclarations sociales et obligations courantes de l’employeur avec un suivi structuré.",
         "image": "",
         "featured": false
       },
       {
         "title": "Création d’entreprise",
         "label": "Choix, lancement, premiers outils",
-        "text": "Des repères pour créer, reprendre ou structurer une activité avec une base comptable propre.",
+        "text": "Accompagnement des créateurs et repreneurs pour poser des bases comptables, fiscales et administratives solides.",
         "image": "",
         "featured": false
       },
       {
         "title": "Pilotage",
         "label": "Trésorerie, marges, tableaux de bord",
-        "text": "Des points de suivi pour comprendre la rentabilité, la trésorerie et les priorités de gestion.",
+        "text": "Indicateurs simples pour suivre la trésorerie, comprendre les marges et prioriser les décisions de gestion.",
         "image": "https://images.pexels.com/photos/8297220/pexels-photo-8297220.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "featured": false
       },
       {
-        "title": "Contact local",
-        "label": "Téléphone, email, adresse",
-        "text": "Des coordonnées visibles rapidement pour réduire les frictions avant la prise de contact.",
+        "title": "Conseil dirigeant",
+        "label": "Suivi, décisions, organisation",
+        "text": "Échanges réguliers pour anticiper les échéances, sécuriser les décisions et accompagner les moments clés de l’entreprise.",
         "image": "https://images.pexels.com/photos/8439661/pexels-photo-8439661.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "featured": false
       }
@@ -357,39 +365,39 @@
       "Métropole",
       "Région"
     ],
-    "review": "Une présentation claire, rassurante et directement orientée vers la prise de contact.",
+    "review": "Un accompagnement clair, régulier et utile pour suivre les chiffres de l’entreprise avec sérénité.",
     "ctaLabel": "Envoyer un message",
     "highlights": [
-      "Sans site confirmé",
-      "généraliste",
-      "Angle fort + email disponible"
+      "Expertise comptable",
+      "Fiscalité et paie",
+      "Conseil dirigeant"
     ],
-    "trustIntro": "Les dirigeants veulent comprendre rapidement le périmètre d’accompagnement, les interlocuteurs possibles et la façon de lancer un premier échange.",
+    "trustIntro": "Dirigeants, indépendants et PME ont besoin d’un partenaire qui comprend les obligations, anticipe les échéances et transforme la comptabilité en information utile.",
     "trustPoints": [
-      "Offre présentée clairement",
-      "Coordonnées visibles et utilisables",
-      "Parcours pensé pour qualifier les demandes",
-      "Message adapté au positionnement du cabinet"
+      "Expertise comptable confirmée",
+      "Suivi personnalisé de chaque mandat",
+      "Échéances fiscales et sociales anticipées",
+      "Conseils clairs pour les dirigeants"
     ],
-    "contactTitle": "Contacter Christophe JUTEAU",
-    "contactIntro": "Un premier message permet de présenter la situation, le besoin comptable et les échéances à traiter.",
-    "footerSlogan": "Une présence web claire pour présenter le cabinet, rassurer les dirigeants et faciliter la prise de contact.",
+    "contactTitle": "Échanger avec Christophe JUTEAU sur votre comptabilité, votre fiscalité ou vos prochains enjeux.",
+    "contactIntro": "Décrivez votre situation, vos échéances et le niveau d’accompagnement recherché afin de préparer un premier échange utile.",
+    "footerSlogan": "Comptabilité, fiscalité, paie et conseil pour avancer avec des chiffres fiables et des décisions plus claires.",
     "faqs": [
       {
         "question": "Quels besoins comptables peut-on évoquer lors d’un premier échange ?",
-        "answer": "Comptabilité, fiscalité, paie, création ou pilotage : l’objectif est de clarifier le besoin et d’orienter vers le bon accompagnement."
+        "answer": "Comptabilité, fiscalité, paie, création d’entreprise ou pilotage : l’échange permet de comprendre la situation et de définir le niveau de suivi adapté."
       },
       {
         "question": "Le cabinet accompagne-t-il les créateurs et dirigeants de TPE ?",
-        "answer": "Le parcours met en avant les demandes fréquentes des dirigeants : création, obligations comptables, échéances fiscales et suivi de gestion."
+        "answer": "Oui. L’accompagnement peut commencer dès la création puis se poursuivre avec la tenue comptable, les déclarations, la paie et les comptes annuels."
       },
       {
-        "question": "Comment se passe le premier contact ?",
-        "answer": "Vous pouvez appeler, envoyer un email ou décrire votre situation via le formulaire afin de préparer un échange utile."
+        "question": "Pouvons-nous reprendre une comptabilité déjà existante ?",
+        "answer": "Oui. Un premier diagnostic permet d’identifier les documents disponibles, les échéances proches et les points à sécuriser en priorité."
       },
       {
-        "question": "Quels éléments préparer avant un rendez-vous ?",
-        "answer": "Le contexte de l’entreprise, les échéances proches, les documents disponibles et le motif de la demande suffisent pour démarrer."
+        "question": "Comment se passe le premier entretien ?",
+        "answer": "Nous clarifions votre activité, vos obligations, vos outils actuels et le niveau d’accompagnement attendu afin de proposer un cadre de mission adapté."
       }
     ],
     "prospecting": {
@@ -399,7 +407,8 @@
       "confidence": "Moyenne",
       "verdict": "Sans site confirmé - à prospecter",
       "sources": "OEC et Pappers confirment adresse, activité et statut actif. https://annuaire.experts-comptables.org/expert-comptable/28521-juteau-christophe-rennes-35000 | https://www.pappers.fr/entreprise/juteau-christophe-423557834"
-    }
+    },
+    "heroImage": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=2400"
   },
   {
     "slug": "cmj-expertise-comptable-rennes",
@@ -416,71 +425,73 @@
     "sourceOpportunity": "Sans site confirmé",
     "primaryColor": "#172238",
     "accentColor": "#c7a15a",
-    "tagline": "Une première présence web claire, crédible et facile à contacter.",
-    "proof": "Créer une présence web locale crédible à partir des informations publiques.",
-    "intro": "Je n'ai pas trouvé de site officiel clair pour CMJ Expertise Comptable. J'ai préparé une maquette simple à partir de vos informations publiques pour montrer ce que pourrait donner une présence web plus lisible.",
+    "tagline": "Comptabilité, fiscalité et conseil pour accompagner les dirigeants dans la durée.",
+    "proof": "Un cabinet d’expertise comptable à Rennes pour sécuriser les obligations, anticiper les échéances et donner une lecture claire des chiffres.",
+    "intro": "CMJ Expertise Comptable accompagne les dirigeants, indépendants et entreprises dans le suivi comptable, fiscal et social de leur activité.",
     "heroTitle": "CMJ Expertise Comptable, expertise comptable et accompagnement des dirigeants à Rennes",
-    "heroSummary": "Une présence web simple pour présenter le cabinet, rassurer les dirigeants et faciliter la prise de contact.",
+    "heroSummary": "Comptabilité, fiscalité, paie et conseil : un accompagnement structuré pour suivre vos obligations, sécuriser vos échéances et piloter votre activité.",
     "heroStats": [
       {
-        "title": "TPE & dirigeants",
-        "text": "Des missions formulées pour les entrepreneurs et entreprises locales."
+        "title": "TPE, PME & dirigeants",
+        "text": "Un suivi adapté aux besoins quotidiens des entrepreneurs et entreprises locales."
       },
       {
-        "title": "Présence locale",
-        "text": "Une page autonome pour ne plus dépendre uniquement des annuaires."
+        "title": "Échéances sécurisées",
+        "text": "Comptes annuels, TVA, fiscalité et paie suivis avec méthode."
       },
       {
         "title": "Rennes et alentours",
-        "text": "Des coordonnées locales visibles dès les premières secondes."
+        "text": "Un accompagnement de proximité pour avancer avec des chiffres fiables."
       }
     ],
     "services": [
       "Expertise comptable",
       "Fiscalité",
       "Paie & social",
-      "Création d’entreprise"
+      "Création d’entreprise",
+      "Pilotage",
+      "Conseil dirigeant"
     ],
     "serviceCards": [
       {
         "title": "Expertise comptable",
         "label": "Tenue, révision, bilans",
-        "text": "Une présentation claire des missions comptables pour aider les dirigeants à comprendre rapidement le périmètre d’accompagnement.",
+        "text": "Tenue comptable, révision, comptes annuels et suivi régulier pour disposer de chiffres fiables tout au long de l’année.",
         "image": "https://images.pexels.com/photos/8296970/pexels-photo-8296970.jpeg?auto=compress&cs=tinysrgb&w=1400",
         "featured": true
       },
       {
         "title": "Fiscalité",
-        "label": "Déclarations & conseil",
-        "text": "Des repères simples pour expliquer les obligations fiscales, les échéances et les décisions à anticiper.",
+        "label": "Déclarations & échéances",
+        "text": "Préparation des déclarations, suivi des échéances et conseils pour anticiper les obligations fiscales importantes.",
         "image": "",
         "featured": false
       },
       {
         "title": "Paie & social",
         "label": "Bulletins, charges, suivi RH",
-        "text": "Un suivi clair pour sécuriser les bulletins, les charges et les obligations courantes de l’employeur.",
+        "text": "Gestion des bulletins, déclarations sociales et obligations courantes de l’employeur avec un suivi structuré.",
         "image": "",
         "featured": false
       },
       {
         "title": "Création d’entreprise",
         "label": "Choix, lancement, premiers outils",
-        "text": "Des repères pour créer, reprendre ou structurer une activité avec une base comptable propre.",
+        "text": "Accompagnement des créateurs et repreneurs pour poser des bases comptables, fiscales et administratives solides.",
         "image": "",
         "featured": false
       },
       {
         "title": "Pilotage",
         "label": "Trésorerie, marges, tableaux de bord",
-        "text": "Des points de suivi pour comprendre la rentabilité, la trésorerie et les priorités de gestion.",
+        "text": "Indicateurs simples pour suivre la trésorerie, comprendre les marges et prioriser les décisions de gestion.",
         "image": "https://images.pexels.com/photos/8297220/pexels-photo-8297220.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "featured": false
       },
       {
-        "title": "Contact local",
-        "label": "Téléphone, email, adresse",
-        "text": "Des coordonnées visibles rapidement pour réduire les frictions avant la prise de contact.",
+        "title": "Conseil dirigeant",
+        "label": "Suivi, décisions, organisation",
+        "text": "Échanges réguliers pour anticiper les échéances, sécuriser les décisions et accompagner les moments clés de l’entreprise.",
         "image": "https://images.pexels.com/photos/8439661/pexels-photo-8439661.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "featured": false
       }
@@ -491,39 +502,39 @@
       "Métropole",
       "Région"
     ],
-    "review": "Une présentation claire, rassurante et directement orientée vers la prise de contact.",
+    "review": "Un accompagnement clair, régulier et utile pour suivre les chiffres de l’entreprise avec sérénité.",
     "ctaLabel": "Envoyer un message",
     "highlights": [
-      "Sans site confirmé",
-      "généraliste",
-      "Angle fort + email disponible"
+      "Expertise comptable",
+      "Fiscalité et paie",
+      "Conseil dirigeant"
     ],
-    "trustIntro": "Les dirigeants veulent comprendre rapidement le périmètre d’accompagnement, les interlocuteurs possibles et la façon de lancer un premier échange.",
+    "trustIntro": "Dirigeants, indépendants et PME ont besoin d’un partenaire qui comprend les obligations, anticipe les échéances et transforme la comptabilité en information utile.",
     "trustPoints": [
-      "Offre présentée clairement",
-      "Coordonnées visibles et utilisables",
-      "Parcours pensé pour qualifier les demandes",
-      "Message adapté au positionnement du cabinet"
+      "Expertise comptable confirmée",
+      "Suivi personnalisé de chaque mandat",
+      "Échéances fiscales et sociales anticipées",
+      "Conseils clairs pour les dirigeants"
     ],
-    "contactTitle": "Contacter CMJ Expertise Comptable",
-    "contactIntro": "Un premier message permet de présenter la situation, le besoin comptable et les échéances à traiter.",
-    "footerSlogan": "Une présence web claire pour présenter le cabinet, rassurer les dirigeants et faciliter la prise de contact.",
+    "contactTitle": "Échanger avec CMJ Expertise Comptable sur votre comptabilité, votre fiscalité ou vos prochains enjeux.",
+    "contactIntro": "Décrivez votre situation, vos échéances et le niveau d’accompagnement recherché afin de préparer un premier échange utile.",
+    "footerSlogan": "Comptabilité, fiscalité, paie et conseil pour avancer avec des chiffres fiables et des décisions plus claires.",
     "faqs": [
       {
         "question": "Quels besoins comptables peut-on évoquer lors d’un premier échange ?",
-        "answer": "Comptabilité, fiscalité, paie, création ou pilotage : l’objectif est de clarifier le besoin et d’orienter vers le bon accompagnement."
+        "answer": "Comptabilité, fiscalité, paie, création d’entreprise ou pilotage : l’échange permet de comprendre la situation et de définir le niveau de suivi adapté."
       },
       {
         "question": "Le cabinet accompagne-t-il les créateurs et dirigeants de TPE ?",
-        "answer": "Le parcours met en avant les demandes fréquentes des dirigeants : création, obligations comptables, échéances fiscales et suivi de gestion."
+        "answer": "Oui. L’accompagnement peut commencer dès la création puis se poursuivre avec la tenue comptable, les déclarations, la paie et les comptes annuels."
       },
       {
-        "question": "Comment se passe le premier contact ?",
-        "answer": "Vous pouvez appeler, envoyer un email ou décrire votre situation via le formulaire afin de préparer un échange utile."
+        "question": "Pouvons-nous reprendre une comptabilité déjà existante ?",
+        "answer": "Oui. Un premier diagnostic permet d’identifier les documents disponibles, les échéances proches et les points à sécuriser en priorité."
       },
       {
-        "question": "Quels éléments préparer avant un rendez-vous ?",
-        "answer": "Le contexte de l’entreprise, les échéances proches, les documents disponibles et le motif de la demande suffisent pour démarrer."
+        "question": "Comment se passe le premier entretien ?",
+        "answer": "Nous clarifions votre activité, vos obligations, vos outils actuels et le niveau d’accompagnement attendu afin de proposer un cadre de mission adapté."
       }
     ],
     "prospecting": {
@@ -533,7 +544,8 @@
       "confidence": "Moyenne",
       "verdict": "Sans site confirmé - à prospecter",
       "sources": "Allbiz, 36comptables et Compteo confirment cabinet, adresse, téléphone, email/services. https://www.allbiz.fr/cmj-expertise-comptable-02-23-30-03-40 | https://36comptables.com/annuaire/cmj-expertise-comptable | https://www.compteo.fr/expert-comptable/cmjexpertisecomptable-15962"
-    }
+    },
+    "heroImage": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=2400"
   },
   {
     "slug": "cabinet-farah-lyon",
@@ -550,71 +562,73 @@
     "sourceOpportunity": "Site trouvé après vérification",
     "primaryColor": "#172238",
     "accentColor": "#9b6a2f",
-    "tagline": "Une vitrine comptable plus lisible, plus crédible et plus orientée contact.",
-    "proof": "Moderniser la présentation du cabinet sans changer son positionnement.",
-    "intro": "J'ai regardé la présence web de CABINET FARAH. J'ai préparé une maquette courte pour montrer comment rendre l'offre plus lisible, plus rassurante et plus simple à contacter.",
+    "tagline": "Expertise comptable, audit et conseil pour sécuriser les décisions des dirigeants.",
+    "proof": "Un cabinet à Lyon pour fiabiliser les comptes, sécuriser les obligations et accompagner les décisions financières.",
+    "intro": "CABINET FARAH accompagne les entreprises et leurs dirigeants dans leurs missions d’expertise comptable, d’audit, de fiscalité et de conseil.",
     "heroTitle": "CABINET FARAH, expertise comptable, audit et conseil à Lyon",
-    "heroSummary": "Une page structurée pour présenter expertise comptable, audit, conseil et faciliter la prise de contact.",
+    "heroSummary": "Expertise comptable, audit, fiscalité et conseil : un accompagnement structuré pour fiabiliser les comptes, anticiper les échéances et éclairer les décisions.",
     "heroStats": [
       {
         "title": "Audit & conseil",
-        "text": "Une présentation adaptée aux missions d’audit, de conseil et d’expertise comptable."
+        "text": "Des missions structurées pour fiabiliser les comptes et accompagner les décisions."
       },
       {
-        "title": "Parcours simplifié",
-        "text": "Des services, preuves et coordonnées plus faciles à trouver."
+        "title": "Échéances sécurisées",
+        "text": "Un suivi attentif des obligations comptables, fiscales et sociales."
       },
       {
         "title": "Lyon et alentours",
-        "text": "Des coordonnées locales visibles dès les premières secondes."
+        "text": "Un accompagnement de proximité pour les dirigeants et entreprises du territoire."
       }
     ],
     "services": [
       "Expertise comptable",
       "Audit & conformité",
-      "Conseil dirigeant",
-      "Fiscalité"
+      "Fiscalité",
+      "Paie & social",
+      "Pilotage",
+      "Conseil dirigeant"
     ],
     "serviceCards": [
       {
         "title": "Expertise comptable",
         "label": "Tenue, révision, bilans",
-        "text": "Une présentation claire des missions comptables pour aider les dirigeants à comprendre rapidement le périmètre d’accompagnement.",
+        "text": "Tenue comptable, révision, comptes annuels et suivi régulier pour disposer de chiffres fiables tout au long de l’année.",
         "image": "https://images.pexels.com/photos/8296970/pexels-photo-8296970.jpeg?auto=compress&cs=tinysrgb&w=1400",
         "featured": true
       },
       {
         "title": "Audit & conformité",
         "label": "Fiabilité, contrôle, sécurisation",
-        "text": "Un espace pour valoriser les missions d’audit, de commissariat aux comptes et de sécurisation financière.",
-        "image": "",
-        "featured": false
-      },
-      {
-        "title": "Conseil dirigeant",
-        "label": "Décisions, organisation, suivi",
-        "text": "Des repères utiles pour accompagner les choix de gestion, structurer les priorités et préparer les échanges importants.",
+        "text": "Missions d’audit, contrôle des comptes et sécurisation des informations financières pour renforcer la confiance.",
         "image": "",
         "featured": false
       },
       {
         "title": "Fiscalité",
         "label": "Déclarations & échéances",
-        "text": "Des informations compréhensibles sur les obligations fiscales et les échéances à anticiper.",
+        "text": "Préparation des déclarations, suivi des échéances et conseils pour anticiper les obligations fiscales importantes.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Paie & social",
+        "label": "Bulletins, charges, suivi RH",
+        "text": "Gestion des bulletins, déclarations sociales et obligations courantes de l’employeur avec un suivi structuré.",
         "image": "",
         "featured": false
       },
       {
         "title": "Pilotage",
         "label": "Trésorerie, marges, tableaux de bord",
-        "text": "Des points de suivi pour comprendre la rentabilité, la trésorerie et les priorités de gestion.",
+        "text": "Indicateurs simples pour suivre la trésorerie, comprendre les marges et prioriser les décisions de gestion.",
         "image": "https://images.pexels.com/photos/8297220/pexels-photo-8297220.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "featured": false
       },
       {
-        "title": "Contact local",
-        "label": "Téléphone, email, adresse",
-        "text": "Des coordonnées visibles rapidement pour réduire les frictions avant la prise de contact.",
+        "title": "Conseil dirigeant",
+        "label": "Suivi, décisions, organisation",
+        "text": "Échanges réguliers pour anticiper les échéances, sécuriser les décisions et accompagner les moments clés de l’entreprise.",
         "image": "https://images.pexels.com/photos/8439661/pexels-photo-8439661.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "featured": false
       }
@@ -625,39 +639,39 @@
       "Métropole",
       "Région"
     ],
-    "review": "Une présentation claire, rassurante et directement orientée vers la prise de contact.",
+    "review": "Un accompagnement rigoureux pour fiabiliser les comptes et aborder les décisions financières avec plus de sérénité.",
     "ctaLabel": "Envoyer un message",
     "highlights": [
-      "Site trouvé après vérification",
-      "conseil / audit",
-      "Angle fort + email disponible"
+      "Expertise comptable",
+      "Audit & conformité",
+      "Conseil dirigeant"
     ],
-    "trustIntro": "Les dirigeants veulent comprendre rapidement le périmètre d’accompagnement, les interlocuteurs possibles et la façon de lancer un premier échange.",
+    "trustIntro": "Les entreprises ont besoin d’un partenaire capable de fiabiliser les comptes, d’anticiper les obligations et d’apporter une lecture utile des données financières.",
     "trustPoints": [
-      "Offre présentée clairement",
-      "Coordonnées visibles et utilisables",
-      "Parcours pensé pour qualifier les demandes",
-      "Message adapté au positionnement du cabinet"
+      "Expertise comptable confirmée",
+      "Missions d’audit structurées",
+      "Échéances fiscales et sociales anticipées",
+      "Conseils clairs pour les dirigeants"
     ],
-    "contactTitle": "Contacter CABINET FARAH",
-    "contactIntro": "Un premier message permet de présenter la situation, le besoin comptable et les échéances à traiter.",
-    "footerSlogan": "Un accompagnement comptable clair, accessible et pensé pour les dirigeants qui veulent avancer sereinement.",
+    "contactTitle": "Échanger avec CABINET FARAH sur vos comptes, vos obligations ou vos enjeux d’audit.",
+    "contactIntro": "Décrivez votre situation, vos échéances et le niveau d’accompagnement recherché afin de préparer un premier échange utile.",
+    "footerSlogan": "Expertise comptable, audit et conseil pour avancer avec des comptes fiables et des décisions mieux éclairées.",
     "faqs": [
       {
         "question": "Quels sujets peut-on évoquer lors d’un premier échange ?",
-        "answer": "Expertise comptable, audit, conseil, échéances ou organisation interne : l’objectif est de clarifier le besoin et d’orienter vers le bon accompagnement."
+        "answer": "Expertise comptable, audit, fiscalité, paie, pilotage ou organisation financière : l’objectif est de comprendre la situation et de cadrer l’accompagnement utile."
       },
       {
         "question": "Le cabinet accompagne-t-il les dirigeants de TPE et PME ?",
-        "answer": "Le parcours met en avant les demandes fréquentes des dirigeants : suivi comptable, fiscalité, pilotage, sécurisation et décisions de gestion."
+        "answer": "Oui. Le suivi peut couvrir les obligations comptables et fiscales, les comptes annuels, les indicateurs de gestion et les décisions structurantes."
       },
       {
-        "question": "Comment se passe le premier contact ?",
-        "answer": "Vous pouvez appeler, envoyer un email ou décrire votre situation via le formulaire afin de préparer un échange utile."
+        "question": "Comment se déroule une mission d’audit ou de contrôle ?",
+        "answer": "La mission s’appuie sur une analyse des documents, des procédures et des risques afin de fiabiliser les comptes et de formuler des recommandations claires."
       },
       {
         "question": "Quels éléments préparer avant un rendez-vous ?",
-        "answer": "Le contexte de l’entreprise, les échéances proches, les documents disponibles et le motif de la demande suffisent pour démarrer."
+        "answer": "Le contexte de l’entreprise, les échéances proches, les documents disponibles et les questions prioritaires suffisent pour préparer un échange efficace."
       }
     ],
     "prospecting": {
@@ -667,7 +681,8 @@
       "confidence": "Forte",
       "verdict": "Site trouvé après vérification - à prospecter",
       "sources": "Site officiel, page coordonnées et mentions légales confirment adresse, téléphone, email et activité. https://www.cabinet-farah.fr/ | https://www.cabinet-farah.fr/coordonnées/ | https://www.cabinet-farah.fr/mentions_legales/"
-    }
+    },
+    "heroImage": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=2400"
   },
   {
     "slug": "bms-societe-d-expertise-comptable-rennes",
@@ -684,71 +699,73 @@
     "sourceOpportunity": "Site trouvé après vérification",
     "primaryColor": "#172238",
     "accentColor": "#c7a15a",
-    "tagline": "Une vitrine comptable plus lisible, plus crédible et plus orientée contact.",
-    "proof": "Moderniser la présentation du cabinet sans changer son positionnement.",
-    "intro": "J'ai regardé la présence web de BMS Société d'Expertise Comptable. J'ai préparé une maquette courte pour montrer comment rendre l'offre plus lisible, plus rassurante et plus simple à contacter.",
+    "tagline": "Comptabilité, fiscalité et conseil pour accompagner les dirigeants dans la durée.",
+    "proof": "Un cabinet d’expertise comptable à Rennes pour sécuriser les obligations, anticiper les échéances et donner une lecture claire des chiffres.",
+    "intro": "BMS Société d'Expertise Comptable accompagne les dirigeants, indépendants et entreprises dans le suivi comptable, fiscal et social de leur activité.",
     "heroTitle": "BMS Société d'Expertise Comptable, expertise comptable et accompagnement des dirigeants à Rennes",
-    "heroSummary": "Une page d’accueil plus claire pour présenter les missions du cabinet, rassurer les dirigeants et simplifier la prise de contact.",
+    "heroSummary": "Comptabilité, fiscalité, paie et conseil : un accompagnement structuré pour suivre vos obligations, sécuriser vos échéances et piloter votre activité.",
     "heroStats": [
       {
-        "title": "TPE & dirigeants",
-        "text": "Des missions formulées pour les entrepreneurs et entreprises locales."
+        "title": "TPE, PME & dirigeants",
+        "text": "Un suivi adapté aux besoins quotidiens des entrepreneurs et entreprises locales."
       },
       {
-        "title": "Parcours simplifié",
-        "text": "Des services, preuves et coordonnées plus faciles à trouver."
+        "title": "Échéances sécurisées",
+        "text": "Comptes annuels, TVA, fiscalité et paie suivis avec méthode."
       },
       {
         "title": "Rennes et alentours",
-        "text": "Des coordonnées locales visibles dès les premières secondes."
+        "text": "Un accompagnement de proximité pour avancer avec des chiffres fiables."
       }
     ],
     "services": [
       "Expertise comptable",
       "Fiscalité",
       "Paie & social",
-      "Création d’entreprise"
+      "Création d’entreprise",
+      "Pilotage",
+      "Conseil dirigeant"
     ],
     "serviceCards": [
       {
         "title": "Expertise comptable",
         "label": "Tenue, révision, bilans",
-        "text": "Une présentation claire des missions comptables pour aider les dirigeants à comprendre rapidement le périmètre d’accompagnement.",
+        "text": "Tenue comptable, révision, comptes annuels et suivi régulier pour disposer de chiffres fiables tout au long de l’année.",
         "image": "https://images.pexels.com/photos/8296970/pexels-photo-8296970.jpeg?auto=compress&cs=tinysrgb&w=1400",
         "featured": true
       },
       {
         "title": "Fiscalité",
-        "label": "Déclarations & conseil",
-        "text": "Des repères simples pour expliquer les obligations fiscales, les échéances et les décisions à anticiper.",
+        "label": "Déclarations & échéances",
+        "text": "Préparation des déclarations, suivi des échéances et conseils pour anticiper les obligations fiscales importantes.",
         "image": "",
         "featured": false
       },
       {
         "title": "Paie & social",
         "label": "Bulletins, charges, suivi RH",
-        "text": "Un suivi clair pour sécuriser les bulletins, les charges et les obligations courantes de l’employeur.",
+        "text": "Gestion des bulletins, déclarations sociales et obligations courantes de l’employeur avec un suivi structuré.",
         "image": "",
         "featured": false
       },
       {
         "title": "Création d’entreprise",
         "label": "Choix, lancement, premiers outils",
-        "text": "Des repères pour créer, reprendre ou structurer une activité avec une base comptable propre.",
+        "text": "Accompagnement des créateurs et repreneurs pour poser des bases comptables, fiscales et administratives solides.",
         "image": "",
         "featured": false
       },
       {
         "title": "Pilotage",
         "label": "Trésorerie, marges, tableaux de bord",
-        "text": "Des points de suivi pour comprendre la rentabilité, la trésorerie et les priorités de gestion.",
+        "text": "Indicateurs simples pour suivre la trésorerie, comprendre les marges et prioriser les décisions de gestion.",
         "image": "https://images.pexels.com/photos/8297220/pexels-photo-8297220.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "featured": false
       },
       {
-        "title": "Contact local",
-        "label": "Téléphone, email, adresse",
-        "text": "Des coordonnées visibles rapidement pour réduire les frictions avant la prise de contact.",
+        "title": "Conseil dirigeant",
+        "label": "Suivi, décisions, organisation",
+        "text": "Échanges réguliers pour anticiper les échéances, sécuriser les décisions et accompagner les moments clés de l’entreprise.",
         "image": "https://images.pexels.com/photos/8439661/pexels-photo-8439661.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "featured": false
       }
@@ -759,39 +776,39 @@
       "Métropole",
       "Région"
     ],
-    "review": "Une présentation claire, rassurante et directement orientée vers la prise de contact.",
+    "review": "Un accompagnement clair, régulier et utile pour suivre les chiffres de l’entreprise avec sérénité.",
     "ctaLabel": "Envoyer un message",
     "highlights": [
-      "Site trouvé après vérification",
-      "généraliste",
-      "Angle fort + email disponible"
+      "Expertise comptable",
+      "Fiscalité et paie",
+      "Conseil dirigeant"
     ],
-    "trustIntro": "Les dirigeants veulent comprendre rapidement le périmètre d’accompagnement, les interlocuteurs possibles et la façon de lancer un premier échange.",
+    "trustIntro": "Dirigeants, indépendants et PME ont besoin d’un partenaire qui comprend les obligations, anticipe les échéances et transforme la comptabilité en information utile.",
     "trustPoints": [
-      "Offre présentée clairement",
-      "Coordonnées visibles et utilisables",
-      "Parcours pensé pour qualifier les demandes",
-      "Message adapté au positionnement du cabinet"
+      "Expertise comptable confirmée",
+      "Suivi personnalisé de chaque mandat",
+      "Échéances fiscales et sociales anticipées",
+      "Conseils clairs pour les dirigeants"
     ],
-    "contactTitle": "Contacter BMS Société d'Expertise Comptable",
-    "contactIntro": "Un premier message permet de présenter la situation, le besoin comptable et les échéances à traiter.",
-    "footerSlogan": "Un accompagnement comptable clair, accessible et pensé pour les dirigeants qui veulent avancer sereinement.",
+    "contactTitle": "Échanger avec BMS Société d'Expertise Comptable sur votre comptabilité, votre fiscalité ou vos prochains enjeux.",
+    "contactIntro": "Décrivez votre situation, vos échéances et le niveau d’accompagnement recherché afin de préparer un premier échange utile.",
+    "footerSlogan": "Comptabilité, fiscalité, paie et conseil pour avancer avec des chiffres fiables et des décisions plus claires.",
     "faqs": [
       {
         "question": "Quels besoins comptables peut-on évoquer lors d’un premier échange ?",
-        "answer": "Comptabilité, fiscalité, paie, création ou pilotage : l’objectif est de clarifier le besoin et d’orienter vers le bon accompagnement."
+        "answer": "Comptabilité, fiscalité, paie, création d’entreprise ou pilotage : l’échange permet de comprendre la situation et de définir le niveau de suivi adapté."
       },
       {
         "question": "Le cabinet accompagne-t-il les créateurs et dirigeants de TPE ?",
-        "answer": "Le parcours met en avant les demandes fréquentes des dirigeants : création, obligations comptables, échéances fiscales et suivi de gestion."
+        "answer": "Oui. L’accompagnement peut commencer dès la création puis se poursuivre avec la tenue comptable, les déclarations, la paie et les comptes annuels."
       },
       {
-        "question": "Comment se passe le premier contact ?",
-        "answer": "Vous pouvez appeler, envoyer un email ou décrire votre situation via le formulaire afin de préparer un échange utile."
+        "question": "Pouvons-nous reprendre une comptabilité déjà existante ?",
+        "answer": "Oui. Un premier diagnostic permet d’identifier les documents disponibles, les échéances proches et les points à sécuriser en priorité."
       },
       {
-        "question": "Quels éléments préparer avant un rendez-vous ?",
-        "answer": "Le contexte de l’entreprise, les échéances proches, les documents disponibles et le motif de la demande suffisent pour démarrer."
+        "question": "Comment se passe le premier entretien ?",
+        "answer": "Nous clarifions votre activité, vos obligations, vos outils actuels et le niveau d’accompagnement attendu afin de proposer un cadre de mission adapté."
       }
     ],
     "prospecting": {
@@ -801,7 +818,8 @@
       "confidence": "Forte",
       "verdict": "Site trouvé après vérification - à prospecter",
       "sources": "Site officiel BMS et Allbiz confirment site/adresse ; contact indique chavagne@sabms.eu. https://www.sabms.eu/ | https://www.allbiz.fr/bms-soci%C3%A9t%C3%A9-dexpertise-comptable-02-99-60-99-60"
-    }
+    },
+    "heroImage": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=2400"
   },
   {
     "slug": "lf-experts-la-fiduciaire-de-l-entreprise-lyon",
@@ -818,71 +836,73 @@
     "sourceOpportunity": "Site sous annuaire / vitrine faible",
     "primaryColor": "#172238",
     "accentColor": "#c7a15a",
-    "tagline": "Une présence plus claire pour transformer les visiteurs en demandes de contact.",
-    "proof": "Clarifier une présence existante difficile à exploiter ou trop peu lisible.",
-    "intro": "J'ai vu que la présence web de LF Experts - La Fiduciaire de l'Entreprise existe, mais qu'elle pourrait être plus claire et plus directement orientée contact. J'ai préparé une maquette courte pour montrer une piste concrète.",
+    "tagline": "Comptabilité, fiscalité et conseil pour accompagner les dirigeants dans la durée.",
+    "proof": "Un cabinet d’expertise comptable à Lyon pour sécuriser les obligations, anticiper les échéances et donner une lecture claire des chiffres.",
+    "intro": "LF Experts - La Fiduciaire de l'Entreprise accompagne les dirigeants, indépendants et entreprises dans le suivi comptable, fiscal et social de leur activité.",
     "heroTitle": "LF Experts - La Fiduciaire de l'Entreprise, expertise comptable et accompagnement des dirigeants à Lyon",
-    "heroSummary": "Une page d’accueil plus claire pour présenter les missions du cabinet, rassurer les dirigeants et simplifier la prise de contact.",
+    "heroSummary": "Comptabilité, fiscalité, paie et conseil : un accompagnement structuré pour suivre vos obligations, sécuriser vos échéances et piloter votre activité.",
     "heroStats": [
       {
-        "title": "TPE & dirigeants",
-        "text": "Des missions formulées pour les entrepreneurs et entreprises locales."
+        "title": "TPE, PME & dirigeants",
+        "text": "Un suivi adapté aux besoins quotidiens des entrepreneurs et entreprises locales."
       },
       {
-        "title": "Vitrine à clarifier",
-        "text": "Conserver les informations utiles et rendre le parcours plus direct."
+        "title": "Échéances sécurisées",
+        "text": "Comptes annuels, TVA, fiscalité et paie suivis avec méthode."
       },
       {
         "title": "Lyon et alentours",
-        "text": "Des coordonnées locales visibles dès les premières secondes."
+        "text": "Un accompagnement de proximité pour avancer avec des chiffres fiables."
       }
     ],
     "services": [
       "Expertise comptable",
       "Fiscalité",
       "Paie & social",
-      "Création d’entreprise"
+      "Création d’entreprise",
+      "Pilotage",
+      "Conseil dirigeant"
     ],
     "serviceCards": [
       {
         "title": "Expertise comptable",
         "label": "Tenue, révision, bilans",
-        "text": "Une présentation claire des missions comptables pour aider les dirigeants à comprendre rapidement le périmètre d’accompagnement.",
+        "text": "Tenue comptable, révision, comptes annuels et suivi régulier pour disposer de chiffres fiables tout au long de l’année.",
         "image": "https://images.pexels.com/photos/8296970/pexels-photo-8296970.jpeg?auto=compress&cs=tinysrgb&w=1400",
         "featured": true
       },
       {
         "title": "Fiscalité",
-        "label": "Déclarations & conseil",
-        "text": "Des repères simples pour expliquer les obligations fiscales, les échéances et les décisions à anticiper.",
+        "label": "Déclarations & échéances",
+        "text": "Préparation des déclarations, suivi des échéances et conseils pour anticiper les obligations fiscales importantes.",
         "image": "",
         "featured": false
       },
       {
         "title": "Paie & social",
         "label": "Bulletins, charges, suivi RH",
-        "text": "Un suivi clair pour sécuriser les bulletins, les charges et les obligations courantes de l’employeur.",
+        "text": "Gestion des bulletins, déclarations sociales et obligations courantes de l’employeur avec un suivi structuré.",
         "image": "",
         "featured": false
       },
       {
         "title": "Création d’entreprise",
         "label": "Choix, lancement, premiers outils",
-        "text": "Des repères pour créer, reprendre ou structurer une activité avec une base comptable propre.",
+        "text": "Accompagnement des créateurs et repreneurs pour poser des bases comptables, fiscales et administratives solides.",
         "image": "",
         "featured": false
       },
       {
         "title": "Pilotage",
         "label": "Trésorerie, marges, tableaux de bord",
-        "text": "Des points de suivi pour comprendre la rentabilité, la trésorerie et les priorités de gestion.",
+        "text": "Indicateurs simples pour suivre la trésorerie, comprendre les marges et prioriser les décisions de gestion.",
         "image": "https://images.pexels.com/photos/8297220/pexels-photo-8297220.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "featured": false
       },
       {
-        "title": "Contact local",
-        "label": "Téléphone, email, adresse",
-        "text": "Des coordonnées visibles rapidement pour réduire les frictions avant la prise de contact.",
+        "title": "Conseil dirigeant",
+        "label": "Suivi, décisions, organisation",
+        "text": "Échanges réguliers pour anticiper les échéances, sécuriser les décisions et accompagner les moments clés de l’entreprise.",
         "image": "https://images.pexels.com/photos/8439661/pexels-photo-8439661.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "featured": false
       }
@@ -893,39 +913,39 @@
       "Métropole",
       "Région"
     ],
-    "review": "Une présentation claire, rassurante et directement orientée vers la prise de contact.",
+    "review": "Un accompagnement clair, régulier et utile pour suivre les chiffres de l’entreprise avec sérénité.",
     "ctaLabel": "Envoyer un message",
     "highlights": [
-      "Site sous annuaire / vitrine faible",
-      "généraliste",
-      "Angle fort + email disponible"
+      "Expertise comptable",
+      "Fiscalité et paie",
+      "Conseil dirigeant"
     ],
-    "trustIntro": "Les dirigeants veulent comprendre rapidement le périmètre d’accompagnement, les interlocuteurs possibles et la façon de lancer un premier échange.",
+    "trustIntro": "Dirigeants, indépendants et PME ont besoin d’un partenaire qui comprend les obligations, anticipe les échéances et transforme la comptabilité en information utile.",
     "trustPoints": [
-      "Offre présentée clairement",
-      "Coordonnées visibles et utilisables",
-      "Parcours pensé pour qualifier les demandes",
-      "Message adapté au positionnement du cabinet"
+      "Expertise comptable confirmée",
+      "Suivi personnalisé de chaque mandat",
+      "Échéances fiscales et sociales anticipées",
+      "Conseils clairs pour les dirigeants"
     ],
-    "contactTitle": "Contacter LF Experts - La Fiduciaire de l'Entreprise",
-    "contactIntro": "Un premier message permet de présenter la situation, le besoin comptable et les échéances à traiter.",
-    "footerSlogan": "Une vitrine plus claire pour présenter les missions, rassurer les dirigeants et simplifier la prise de contact.",
+    "contactTitle": "Échanger avec LF Experts - La Fiduciaire de l'Entreprise sur votre comptabilité, votre fiscalité ou vos prochains enjeux.",
+    "contactIntro": "Décrivez votre situation, vos échéances et le niveau d’accompagnement recherché afin de préparer un premier échange utile.",
+    "footerSlogan": "Comptabilité, fiscalité, paie et conseil pour avancer avec des chiffres fiables et des décisions plus claires.",
     "faqs": [
       {
         "question": "Quels besoins comptables peut-on évoquer lors d’un premier échange ?",
-        "answer": "Comptabilité, fiscalité, paie, création ou pilotage : l’objectif est de clarifier le besoin et d’orienter vers le bon accompagnement."
+        "answer": "Comptabilité, fiscalité, paie, création d’entreprise ou pilotage : l’échange permet de comprendre la situation et de définir le niveau de suivi adapté."
       },
       {
         "question": "Le cabinet accompagne-t-il les créateurs et dirigeants de TPE ?",
-        "answer": "Le parcours met en avant les demandes fréquentes des dirigeants : création, obligations comptables, échéances fiscales et suivi de gestion."
+        "answer": "Oui. L’accompagnement peut commencer dès la création puis se poursuivre avec la tenue comptable, les déclarations, la paie et les comptes annuels."
       },
       {
-        "question": "Comment se passe le premier contact ?",
-        "answer": "Vous pouvez appeler, envoyer un email ou décrire votre situation via le formulaire afin de préparer un échange utile."
+        "question": "Pouvons-nous reprendre une comptabilité déjà existante ?",
+        "answer": "Oui. Un premier diagnostic permet d’identifier les documents disponibles, les échéances proches et les points à sécuriser en priorité."
       },
       {
-        "question": "Quels éléments préparer avant un rendez-vous ?",
-        "answer": "Le contexte de l’entreprise, les échéances proches, les documents disponibles et le motif de la demande suffisent pour démarrer."
+        "question": "Comment se passe le premier entretien ?",
+        "answer": "Nous clarifions votre activité, vos obligations, vos outils actuels et le niveau d’accompagnement attendu afin de proposer un cadre de mission adapté."
       }
     ],
     "prospecting": {
@@ -935,7 +955,8 @@
       "confidence": "Moyenne",
       "verdict": "Site sous annuaire / vitrine faible - à prospecter",
       "sources": "Page officielle probable : https://infos.votrexpert.com/FIDUCIAIRE_ENTREPRISE/qui_sommes_nous/"
-    }
+    },
+    "heroImage": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=2400"
   },
   {
     "slug": "sigma-expertise-rennes",
@@ -952,71 +973,73 @@
     "sourceOpportunity": "Site ancien ou technique à vérifier",
     "primaryColor": "#172238",
     "accentColor": "#c7a15a",
-    "tagline": "Une présence plus claire pour transformer les visiteurs en demandes de contact.",
-    "proof": "Clarifier une présence existante difficile à exploiter ou trop peu lisible.",
-    "intro": "J'ai vu que la présence web de SIGMA EXPERTISE existe, mais qu'elle pourrait être plus claire et plus directement orientée contact. J'ai préparé une maquette courte pour montrer une piste concrète.",
+    "tagline": "Comptabilité, fiscalité et conseil pour accompagner les dirigeants dans la durée.",
+    "proof": "Un cabinet d’expertise comptable à Rennes pour sécuriser les obligations, anticiper les échéances et donner une lecture claire des chiffres.",
+    "intro": "SIGMA EXPERTISE accompagne les dirigeants, indépendants et entreprises dans le suivi comptable, fiscal et social de leur activité.",
     "heroTitle": "SIGMA EXPERTISE, expertise comptable et accompagnement des dirigeants à Rennes",
-    "heroSummary": "Une page d’accueil plus claire pour présenter les missions du cabinet, rassurer les dirigeants et simplifier la prise de contact.",
+    "heroSummary": "Comptabilité, fiscalité, paie et conseil : un accompagnement structuré pour suivre vos obligations, sécuriser vos échéances et piloter votre activité.",
     "heroStats": [
       {
-        "title": "TPE & dirigeants",
-        "text": "Des missions formulées pour les entrepreneurs et entreprises locales."
+        "title": "TPE, PME & dirigeants",
+        "text": "Un suivi adapté aux besoins quotidiens des entrepreneurs et entreprises locales."
       },
       {
-        "title": "Vitrine à clarifier",
-        "text": "Conserver les informations utiles et rendre le parcours plus direct."
+        "title": "Échéances sécurisées",
+        "text": "Comptes annuels, TVA, fiscalité et paie suivis avec méthode."
       },
       {
         "title": "Rennes et alentours",
-        "text": "Des coordonnées locales visibles dès les premières secondes."
+        "text": "Un accompagnement de proximité pour avancer avec des chiffres fiables."
       }
     ],
     "services": [
       "Expertise comptable",
       "Fiscalité",
       "Paie & social",
-      "Création d’entreprise"
+      "Création d’entreprise",
+      "Pilotage",
+      "Conseil dirigeant"
     ],
     "serviceCards": [
       {
         "title": "Expertise comptable",
         "label": "Tenue, révision, bilans",
-        "text": "Une présentation claire des missions comptables pour aider les dirigeants à comprendre rapidement le périmètre d’accompagnement.",
+        "text": "Tenue comptable, révision, comptes annuels et suivi régulier pour disposer de chiffres fiables tout au long de l’année.",
         "image": "https://images.pexels.com/photos/8296970/pexels-photo-8296970.jpeg?auto=compress&cs=tinysrgb&w=1400",
         "featured": true
       },
       {
         "title": "Fiscalité",
-        "label": "Déclarations & conseil",
-        "text": "Des repères simples pour expliquer les obligations fiscales, les échéances et les décisions à anticiper.",
+        "label": "Déclarations & échéances",
+        "text": "Préparation des déclarations, suivi des échéances et conseils pour anticiper les obligations fiscales importantes.",
         "image": "",
         "featured": false
       },
       {
         "title": "Paie & social",
         "label": "Bulletins, charges, suivi RH",
-        "text": "Un suivi clair pour sécuriser les bulletins, les charges et les obligations courantes de l’employeur.",
+        "text": "Gestion des bulletins, déclarations sociales et obligations courantes de l’employeur avec un suivi structuré.",
         "image": "",
         "featured": false
       },
       {
         "title": "Création d’entreprise",
         "label": "Choix, lancement, premiers outils",
-        "text": "Des repères pour créer, reprendre ou structurer une activité avec une base comptable propre.",
+        "text": "Accompagnement des créateurs et repreneurs pour poser des bases comptables, fiscales et administratives solides.",
         "image": "",
         "featured": false
       },
       {
         "title": "Pilotage",
         "label": "Trésorerie, marges, tableaux de bord",
-        "text": "Des points de suivi pour comprendre la rentabilité, la trésorerie et les priorités de gestion.",
+        "text": "Indicateurs simples pour suivre la trésorerie, comprendre les marges et prioriser les décisions de gestion.",
         "image": "https://images.pexels.com/photos/8297220/pexels-photo-8297220.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "featured": false
       },
       {
-        "title": "Contact local",
-        "label": "Téléphone, email, adresse",
-        "text": "Des coordonnées visibles rapidement pour réduire les frictions avant la prise de contact.",
+        "title": "Conseil dirigeant",
+        "label": "Suivi, décisions, organisation",
+        "text": "Échanges réguliers pour anticiper les échéances, sécuriser les décisions et accompagner les moments clés de l’entreprise.",
         "image": "https://images.pexels.com/photos/8439661/pexels-photo-8439661.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "featured": false
       }
@@ -1027,39 +1050,39 @@
       "Métropole",
       "Région"
     ],
-    "review": "Une présentation claire, rassurante et directement orientée vers la prise de contact.",
+    "review": "Un accompagnement clair, régulier et utile pour suivre les chiffres de l’entreprise avec sérénité.",
     "ctaLabel": "Envoyer un message",
     "highlights": [
-      "Site ancien ou technique à vérifier",
-      "généraliste",
-      "Angle fort + email disponible"
+      "Expertise comptable",
+      "Fiscalité et paie",
+      "Conseil dirigeant"
     ],
-    "trustIntro": "Les dirigeants veulent comprendre rapidement le périmètre d’accompagnement, les interlocuteurs possibles et la façon de lancer un premier échange.",
+    "trustIntro": "Dirigeants, indépendants et PME ont besoin d’un partenaire qui comprend les obligations, anticipe les échéances et transforme la comptabilité en information utile.",
     "trustPoints": [
-      "Offre présentée clairement",
-      "Coordonnées visibles et utilisables",
-      "Parcours pensé pour qualifier les demandes",
-      "Message adapté au positionnement du cabinet"
+      "Expertise comptable confirmée",
+      "Suivi personnalisé de chaque mandat",
+      "Échéances fiscales et sociales anticipées",
+      "Conseils clairs pour les dirigeants"
     ],
-    "contactTitle": "Contacter SIGMA EXPERTISE",
-    "contactIntro": "Un premier message permet de présenter la situation, le besoin comptable et les échéances à traiter.",
-    "footerSlogan": "Une vitrine plus claire pour présenter les missions, rassurer les dirigeants et simplifier la prise de contact.",
+    "contactTitle": "Échanger avec SIGMA EXPERTISE sur votre comptabilité, votre fiscalité ou vos prochains enjeux.",
+    "contactIntro": "Décrivez votre situation, vos échéances et le niveau d’accompagnement recherché afin de préparer un premier échange utile.",
+    "footerSlogan": "Comptabilité, fiscalité, paie et conseil pour avancer avec des chiffres fiables et des décisions plus claires.",
     "faqs": [
       {
         "question": "Quels besoins comptables peut-on évoquer lors d’un premier échange ?",
-        "answer": "Comptabilité, fiscalité, paie, création ou pilotage : l’objectif est de clarifier le besoin et d’orienter vers le bon accompagnement."
+        "answer": "Comptabilité, fiscalité, paie, création d’entreprise ou pilotage : l’échange permet de comprendre la situation et de définir le niveau de suivi adapté."
       },
       {
         "question": "Le cabinet accompagne-t-il les créateurs et dirigeants de TPE ?",
-        "answer": "Le parcours met en avant les demandes fréquentes des dirigeants : création, obligations comptables, échéances fiscales et suivi de gestion."
+        "answer": "Oui. L’accompagnement peut commencer dès la création puis se poursuivre avec la tenue comptable, les déclarations, la paie et les comptes annuels."
       },
       {
-        "question": "Comment se passe le premier contact ?",
-        "answer": "Vous pouvez appeler, envoyer un email ou décrire votre situation via le formulaire afin de préparer un échange utile."
+        "question": "Pouvons-nous reprendre une comptabilité déjà existante ?",
+        "answer": "Oui. Un premier diagnostic permet d’identifier les documents disponibles, les échéances proches et les points à sécuriser en priorité."
       },
       {
-        "question": "Quels éléments préparer avant un rendez-vous ?",
-        "answer": "Le contexte de l’entreprise, les échéances proches, les documents disponibles et le motif de la demande suffisent pour démarrer."
+        "question": "Comment se passe le premier entretien ?",
+        "answer": "Nous clarifions votre activité, vos obligations, vos outils actuels et le niveau d’accompagnement attendu afin de proposer un cadre de mission adapté."
       }
     ],
     "prospecting": {
@@ -1069,7 +1092,8 @@
       "confidence": "Moyenne",
       "verdict": "Site ancien ou technique à vérifier - à prospecter",
       "sources": "Site officiel probable : http://www.sigma-expertise.com/"
-    }
+    },
+    "heroImage": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=2400"
   },
   {
     "slug": "premium-expertise-lyon",
@@ -1086,71 +1110,73 @@
     "sourceOpportunity": "Site existant à auditer",
     "primaryColor": "#172238",
     "accentColor": "#c7a15a",
-    "tagline": "Une vitrine comptable plus lisible, plus crédible et plus orientée contact.",
-    "proof": "Moderniser la présentation du cabinet sans changer son positionnement.",
-    "intro": "J'ai regardé la présence web de Premium Expertise. J'ai préparé une maquette courte pour montrer comment rendre l'offre plus lisible, plus rassurante et plus simple à contacter.",
+    "tagline": "Comptabilité, fiscalité et conseil pour accompagner les dirigeants dans la durée.",
+    "proof": "Un cabinet d’expertise comptable à Lyon pour sécuriser les obligations, anticiper les échéances et donner une lecture claire des chiffres.",
+    "intro": "Premium Expertise accompagne les dirigeants, indépendants et entreprises dans le suivi comptable, fiscal et social de leur activité.",
     "heroTitle": "Premium Expertise, expertise comptable et accompagnement des dirigeants à Lyon",
-    "heroSummary": "Une page d’accueil plus claire pour présenter les missions du cabinet, rassurer les dirigeants et simplifier la prise de contact.",
+    "heroSummary": "Comptabilité, fiscalité, paie et conseil : un accompagnement structuré pour suivre vos obligations, sécuriser vos échéances et piloter votre activité.",
     "heroStats": [
       {
-        "title": "TPE & dirigeants",
-        "text": "Des missions formulées pour les entrepreneurs et entreprises locales."
+        "title": "TPE, PME & dirigeants",
+        "text": "Un suivi adapté aux besoins quotidiens des entrepreneurs et entreprises locales."
       },
       {
-        "title": "Parcours simplifié",
-        "text": "Des services, preuves et coordonnées plus faciles à trouver."
+        "title": "Échéances sécurisées",
+        "text": "Comptes annuels, TVA, fiscalité et paie suivis avec méthode."
       },
       {
         "title": "Lyon et alentours",
-        "text": "Des coordonnées locales visibles dès les premières secondes."
+        "text": "Un accompagnement de proximité pour avancer avec des chiffres fiables."
       }
     ],
     "services": [
       "Expertise comptable",
       "Fiscalité",
       "Paie & social",
-      "Création d’entreprise"
+      "Création d’entreprise",
+      "Pilotage",
+      "Conseil dirigeant"
     ],
     "serviceCards": [
       {
         "title": "Expertise comptable",
         "label": "Tenue, révision, bilans",
-        "text": "Une présentation claire des missions comptables pour aider les dirigeants à comprendre rapidement le périmètre d’accompagnement.",
+        "text": "Tenue comptable, révision, comptes annuels et suivi régulier pour disposer de chiffres fiables tout au long de l’année.",
         "image": "https://images.pexels.com/photos/8296970/pexels-photo-8296970.jpeg?auto=compress&cs=tinysrgb&w=1400",
         "featured": true
       },
       {
         "title": "Fiscalité",
-        "label": "Déclarations & conseil",
-        "text": "Des repères simples pour expliquer les obligations fiscales, les échéances et les décisions à anticiper.",
+        "label": "Déclarations & échéances",
+        "text": "Préparation des déclarations, suivi des échéances et conseils pour anticiper les obligations fiscales importantes.",
         "image": "",
         "featured": false
       },
       {
         "title": "Paie & social",
         "label": "Bulletins, charges, suivi RH",
-        "text": "Un suivi clair pour sécuriser les bulletins, les charges et les obligations courantes de l’employeur.",
+        "text": "Gestion des bulletins, déclarations sociales et obligations courantes de l’employeur avec un suivi structuré.",
         "image": "",
         "featured": false
       },
       {
         "title": "Création d’entreprise",
         "label": "Choix, lancement, premiers outils",
-        "text": "Des repères pour créer, reprendre ou structurer une activité avec une base comptable propre.",
+        "text": "Accompagnement des créateurs et repreneurs pour poser des bases comptables, fiscales et administratives solides.",
         "image": "",
         "featured": false
       },
       {
         "title": "Pilotage",
         "label": "Trésorerie, marges, tableaux de bord",
-        "text": "Des points de suivi pour comprendre la rentabilité, la trésorerie et les priorités de gestion.",
+        "text": "Indicateurs simples pour suivre la trésorerie, comprendre les marges et prioriser les décisions de gestion.",
         "image": "https://images.pexels.com/photos/8297220/pexels-photo-8297220.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "featured": false
       },
       {
-        "title": "Contact local",
-        "label": "Téléphone, email, adresse",
-        "text": "Des coordonnées visibles rapidement pour réduire les frictions avant la prise de contact.",
+        "title": "Conseil dirigeant",
+        "label": "Suivi, décisions, organisation",
+        "text": "Échanges réguliers pour anticiper les échéances, sécuriser les décisions et accompagner les moments clés de l’entreprise.",
         "image": "https://images.pexels.com/photos/8439661/pexels-photo-8439661.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "featured": false
       }
@@ -1161,39 +1187,39 @@
       "Métropole",
       "Région"
     ],
-    "review": "Une présentation claire, rassurante et directement orientée vers la prise de contact.",
+    "review": "Un accompagnement clair, régulier et utile pour suivre les chiffres de l’entreprise avec sérénité.",
     "ctaLabel": "Envoyer un message",
     "highlights": [
-      "Site existant à auditer",
-      "généraliste",
-      "Angle fort + email disponible"
+      "Expertise comptable",
+      "Fiscalité et paie",
+      "Conseil dirigeant"
     ],
-    "trustIntro": "Les dirigeants veulent comprendre rapidement le périmètre d’accompagnement, les interlocuteurs possibles et la façon de lancer un premier échange.",
+    "trustIntro": "Dirigeants, indépendants et PME ont besoin d’un partenaire qui comprend les obligations, anticipe les échéances et transforme la comptabilité en information utile.",
     "trustPoints": [
-      "Offre présentée clairement",
-      "Coordonnées visibles et utilisables",
-      "Parcours pensé pour qualifier les demandes",
-      "Message adapté au positionnement du cabinet"
+      "Expertise comptable confirmée",
+      "Suivi personnalisé de chaque mandat",
+      "Échéances fiscales et sociales anticipées",
+      "Conseils clairs pour les dirigeants"
     ],
-    "contactTitle": "Contacter Premium Expertise",
-    "contactIntro": "Un premier message permet de présenter la situation, le besoin comptable et les échéances à traiter.",
-    "footerSlogan": "Un accompagnement comptable clair, accessible et pensé pour les dirigeants qui veulent avancer sereinement.",
+    "contactTitle": "Échanger avec Premium Expertise sur votre comptabilité, votre fiscalité ou vos prochains enjeux.",
+    "contactIntro": "Décrivez votre situation, vos échéances et le niveau d’accompagnement recherché afin de préparer un premier échange utile.",
+    "footerSlogan": "Comptabilité, fiscalité, paie et conseil pour avancer avec des chiffres fiables et des décisions plus claires.",
     "faqs": [
       {
         "question": "Quels besoins comptables peut-on évoquer lors d’un premier échange ?",
-        "answer": "Comptabilité, fiscalité, paie, création ou pilotage : l’objectif est de clarifier le besoin et d’orienter vers le bon accompagnement."
+        "answer": "Comptabilité, fiscalité, paie, création d’entreprise ou pilotage : l’échange permet de comprendre la situation et de définir le niveau de suivi adapté."
       },
       {
         "question": "Le cabinet accompagne-t-il les créateurs et dirigeants de TPE ?",
-        "answer": "Le parcours met en avant les demandes fréquentes des dirigeants : création, obligations comptables, échéances fiscales et suivi de gestion."
+        "answer": "Oui. L’accompagnement peut commencer dès la création puis se poursuivre avec la tenue comptable, les déclarations, la paie et les comptes annuels."
       },
       {
-        "question": "Comment se passe le premier contact ?",
-        "answer": "Vous pouvez appeler, envoyer un email ou décrire votre situation via le formulaire afin de préparer un échange utile."
+        "question": "Pouvons-nous reprendre une comptabilité déjà existante ?",
+        "answer": "Oui. Un premier diagnostic permet d’identifier les documents disponibles, les échéances proches et les points à sécuriser en priorité."
       },
       {
-        "question": "Quels éléments préparer avant un rendez-vous ?",
-        "answer": "Le contexte de l’entreprise, les échéances proches, les documents disponibles et le motif de la demande suffisent pour démarrer."
+        "question": "Comment se passe le premier entretien ?",
+        "answer": "Nous clarifions votre activité, vos obligations, vos outils actuels et le niveau d’accompagnement attendu afin de proposer un cadre de mission adapté."
       }
     ],
     "prospecting": {
@@ -1203,7 +1229,8 @@
       "confidence": "Moyenne",
       "verdict": "Site existant à auditer - à prospecter",
       "sources": "Site probable : https://abscisse-compta.fr/contact/"
-    }
+    },
+    "heroImage": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=2400"
   },
   {
     "slug": "ac2f-cabinet-d-expertise-comptable-rennes",
@@ -1220,71 +1247,73 @@
     "sourceOpportunity": "Site existant à auditer",
     "primaryColor": "#172238",
     "accentColor": "#c7a15a",
-    "tagline": "Une vitrine comptable plus lisible, plus crédible et plus orientée contact.",
-    "proof": "Moderniser la présentation du cabinet sans changer son positionnement.",
-    "intro": "J'ai regardé la présence web de AC2F | Cabinet d'expertise comptable. J'ai préparé une maquette courte pour montrer comment rendre l'offre plus lisible, plus rassurante et plus simple à contacter.",
+    "tagline": "Comptabilité, fiscalité et conseil pour accompagner les dirigeants dans la durée.",
+    "proof": "Un cabinet d’expertise comptable à Rennes pour sécuriser les obligations, anticiper les échéances et donner une lecture claire des chiffres.",
+    "intro": "AC2F | Cabinet d'expertise comptable accompagne les dirigeants, indépendants et entreprises dans le suivi comptable, fiscal et social de leur activité.",
     "heroTitle": "AC2F | Cabinet d'expertise comptable, expertise comptable et accompagnement des dirigeants à Rennes",
-    "heroSummary": "Une page d’accueil plus claire pour présenter les missions du cabinet, rassurer les dirigeants et simplifier la prise de contact.",
+    "heroSummary": "Comptabilité, fiscalité, paie et conseil : un accompagnement structuré pour suivre vos obligations, sécuriser vos échéances et piloter votre activité.",
     "heroStats": [
       {
-        "title": "TPE & dirigeants",
-        "text": "Des missions formulées pour les entrepreneurs et entreprises locales."
+        "title": "TPE, PME & dirigeants",
+        "text": "Un suivi adapté aux besoins quotidiens des entrepreneurs et entreprises locales."
       },
       {
-        "title": "Parcours simplifié",
-        "text": "Des services, preuves et coordonnées plus faciles à trouver."
+        "title": "Échéances sécurisées",
+        "text": "Comptes annuels, TVA, fiscalité et paie suivis avec méthode."
       },
       {
         "title": "Rennes et alentours",
-        "text": "Des coordonnées locales visibles dès les premières secondes."
+        "text": "Un accompagnement de proximité pour avancer avec des chiffres fiables."
       }
     ],
     "services": [
       "Expertise comptable",
       "Fiscalité",
       "Paie & social",
-      "Création d’entreprise"
+      "Création d’entreprise",
+      "Pilotage",
+      "Conseil dirigeant"
     ],
     "serviceCards": [
       {
         "title": "Expertise comptable",
         "label": "Tenue, révision, bilans",
-        "text": "Une présentation claire des missions comptables pour aider les dirigeants à comprendre rapidement le périmètre d’accompagnement.",
+        "text": "Tenue comptable, révision, comptes annuels et suivi régulier pour disposer de chiffres fiables tout au long de l’année.",
         "image": "https://images.pexels.com/photos/8296970/pexels-photo-8296970.jpeg?auto=compress&cs=tinysrgb&w=1400",
         "featured": true
       },
       {
         "title": "Fiscalité",
-        "label": "Déclarations & conseil",
-        "text": "Des repères simples pour expliquer les obligations fiscales, les échéances et les décisions à anticiper.",
+        "label": "Déclarations & échéances",
+        "text": "Préparation des déclarations, suivi des échéances et conseils pour anticiper les obligations fiscales importantes.",
         "image": "",
         "featured": false
       },
       {
         "title": "Paie & social",
         "label": "Bulletins, charges, suivi RH",
-        "text": "Un suivi clair pour sécuriser les bulletins, les charges et les obligations courantes de l’employeur.",
+        "text": "Gestion des bulletins, déclarations sociales et obligations courantes de l’employeur avec un suivi structuré.",
         "image": "",
         "featured": false
       },
       {
         "title": "Création d’entreprise",
         "label": "Choix, lancement, premiers outils",
-        "text": "Des repères pour créer, reprendre ou structurer une activité avec une base comptable propre.",
+        "text": "Accompagnement des créateurs et repreneurs pour poser des bases comptables, fiscales et administratives solides.",
         "image": "",
         "featured": false
       },
       {
         "title": "Pilotage",
         "label": "Trésorerie, marges, tableaux de bord",
-        "text": "Des points de suivi pour comprendre la rentabilité, la trésorerie et les priorités de gestion.",
+        "text": "Indicateurs simples pour suivre la trésorerie, comprendre les marges et prioriser les décisions de gestion.",
         "image": "https://images.pexels.com/photos/8297220/pexels-photo-8297220.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "featured": false
       },
       {
-        "title": "Contact local",
-        "label": "Téléphone, email, adresse",
-        "text": "Des coordonnées visibles rapidement pour réduire les frictions avant la prise de contact.",
+        "title": "Conseil dirigeant",
+        "label": "Suivi, décisions, organisation",
+        "text": "Échanges réguliers pour anticiper les échéances, sécuriser les décisions et accompagner les moments clés de l’entreprise.",
         "image": "https://images.pexels.com/photos/8439661/pexels-photo-8439661.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "featured": false
       }
@@ -1295,39 +1324,39 @@
       "Métropole",
       "Région"
     ],
-    "review": "Une présentation claire, rassurante et directement orientée vers la prise de contact.",
+    "review": "Un accompagnement clair, régulier et utile pour suivre les chiffres de l’entreprise avec sérénité.",
     "ctaLabel": "Envoyer un message",
     "highlights": [
-      "Site existant à auditer",
-      "généraliste",
-      "Angle fort + email disponible"
+      "Expertise comptable",
+      "Fiscalité et paie",
+      "Conseil dirigeant"
     ],
-    "trustIntro": "Les dirigeants veulent comprendre rapidement le périmètre d’accompagnement, les interlocuteurs possibles et la façon de lancer un premier échange.",
+    "trustIntro": "Dirigeants, indépendants et PME ont besoin d’un partenaire qui comprend les obligations, anticipe les échéances et transforme la comptabilité en information utile.",
     "trustPoints": [
-      "Offre présentée clairement",
-      "Coordonnées visibles et utilisables",
-      "Parcours pensé pour qualifier les demandes",
-      "Message adapté au positionnement du cabinet"
+      "Expertise comptable confirmée",
+      "Suivi personnalisé de chaque mandat",
+      "Échéances fiscales et sociales anticipées",
+      "Conseils clairs pour les dirigeants"
     ],
-    "contactTitle": "Contacter AC2F | Cabinet d'expertise comptable",
-    "contactIntro": "Un premier message permet de présenter la situation, le besoin comptable et les échéances à traiter.",
-    "footerSlogan": "Un accompagnement comptable clair, accessible et pensé pour les dirigeants qui veulent avancer sereinement.",
+    "contactTitle": "Échanger avec AC2F | Cabinet d'expertise comptable sur votre comptabilité, votre fiscalité ou vos prochains enjeux.",
+    "contactIntro": "Décrivez votre situation, vos échéances et le niveau d’accompagnement recherché afin de préparer un premier échange utile.",
+    "footerSlogan": "Comptabilité, fiscalité, paie et conseil pour avancer avec des chiffres fiables et des décisions plus claires.",
     "faqs": [
       {
         "question": "Quels besoins comptables peut-on évoquer lors d’un premier échange ?",
-        "answer": "Comptabilité, fiscalité, paie, création ou pilotage : l’objectif est de clarifier le besoin et d’orienter vers le bon accompagnement."
+        "answer": "Comptabilité, fiscalité, paie, création d’entreprise ou pilotage : l’échange permet de comprendre la situation et de définir le niveau de suivi adapté."
       },
       {
         "question": "Le cabinet accompagne-t-il les créateurs et dirigeants de TPE ?",
-        "answer": "Le parcours met en avant les demandes fréquentes des dirigeants : création, obligations comptables, échéances fiscales et suivi de gestion."
+        "answer": "Oui. L’accompagnement peut commencer dès la création puis se poursuivre avec la tenue comptable, les déclarations, la paie et les comptes annuels."
       },
       {
-        "question": "Comment se passe le premier contact ?",
-        "answer": "Vous pouvez appeler, envoyer un email ou décrire votre situation via le formulaire afin de préparer un échange utile."
+        "question": "Pouvons-nous reprendre une comptabilité déjà existante ?",
+        "answer": "Oui. Un premier diagnostic permet d’identifier les documents disponibles, les échéances proches et les points à sécuriser en priorité."
       },
       {
-        "question": "Quels éléments préparer avant un rendez-vous ?",
-        "answer": "Le contexte de l’entreprise, les échéances proches, les documents disponibles et le motif de la demande suffisent pour démarrer."
+        "question": "Comment se passe le premier entretien ?",
+        "answer": "Nous clarifions votre activité, vos obligations, vos outils actuels et le niveau d’accompagnement attendu afin de proposer un cadre de mission adapté."
       }
     ],
     "prospecting": {
@@ -1337,7 +1366,8 @@
       "confidence": "Moyenne",
       "verdict": "Site existant à auditer - à prospecter",
       "sources": "Site officiel probable : https://ac2f-ec.fr/"
-    }
+    },
+    "heroImage": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=2400"
   },
   {
     "slug": "cabinet-delouis-expert-comptable-lyon-lyon",
@@ -1354,71 +1384,73 @@
     "sourceOpportunity": "Sans site confirmé",
     "primaryColor": "#172238",
     "accentColor": "#c7a15a",
-    "tagline": "Une première présence web claire, crédible et facile à contacter.",
-    "proof": "Créer une présence web locale crédible à partir des informations publiques.",
-    "intro": "Je n'ai pas trouvé de site officiel clair pour Cabinet Delouis - Expert comptable Lyon. J'ai préparé une maquette simple à partir de vos informations publiques pour montrer ce que pourrait donner une présence web plus lisible.",
+    "tagline": "Comptabilité, fiscalité et conseil pour accompagner les dirigeants dans la durée.",
+    "proof": "Un cabinet d’expertise comptable à Lyon pour sécuriser les obligations, anticiper les échéances et donner une lecture claire des chiffres.",
+    "intro": "Cabinet Delouis - Expert comptable Lyon accompagne les dirigeants, indépendants et entreprises dans le suivi comptable, fiscal et social de leur activité.",
     "heroTitle": "Cabinet Delouis - Expert comptable Lyon, expertise comptable et accompagnement des dirigeants à Lyon",
-    "heroSummary": "Une présence web simple pour présenter le cabinet, rassurer les dirigeants et faciliter la prise de contact.",
+    "heroSummary": "Comptabilité, fiscalité, paie et conseil : un accompagnement structuré pour suivre vos obligations, sécuriser vos échéances et piloter votre activité.",
     "heroStats": [
       {
-        "title": "TPE & dirigeants",
-        "text": "Des missions formulées pour les entrepreneurs et entreprises locales."
+        "title": "TPE, PME & dirigeants",
+        "text": "Un suivi adapté aux besoins quotidiens des entrepreneurs et entreprises locales."
       },
       {
-        "title": "Présence locale",
-        "text": "Une page autonome pour ne plus dépendre uniquement des annuaires."
+        "title": "Échéances sécurisées",
+        "text": "Comptes annuels, TVA, fiscalité et paie suivis avec méthode."
       },
       {
         "title": "Lyon et alentours",
-        "text": "Des coordonnées locales visibles dès les premières secondes."
+        "text": "Un accompagnement de proximité pour avancer avec des chiffres fiables."
       }
     ],
     "services": [
       "Expertise comptable",
       "Fiscalité",
       "Paie & social",
-      "Création d’entreprise"
+      "Création d’entreprise",
+      "Pilotage",
+      "Conseil dirigeant"
     ],
     "serviceCards": [
       {
         "title": "Expertise comptable",
         "label": "Tenue, révision, bilans",
-        "text": "Une présentation claire des missions comptables pour aider les dirigeants à comprendre rapidement le périmètre d’accompagnement.",
+        "text": "Tenue comptable, révision, comptes annuels et suivi régulier pour disposer de chiffres fiables tout au long de l’année.",
         "image": "https://images.pexels.com/photos/8296970/pexels-photo-8296970.jpeg?auto=compress&cs=tinysrgb&w=1400",
         "featured": true
       },
       {
         "title": "Fiscalité",
-        "label": "Déclarations & conseil",
-        "text": "Des repères simples pour expliquer les obligations fiscales, les échéances et les décisions à anticiper.",
+        "label": "Déclarations & échéances",
+        "text": "Préparation des déclarations, suivi des échéances et conseils pour anticiper les obligations fiscales importantes.",
         "image": "",
         "featured": false
       },
       {
         "title": "Paie & social",
         "label": "Bulletins, charges, suivi RH",
-        "text": "Un suivi clair pour sécuriser les bulletins, les charges et les obligations courantes de l’employeur.",
+        "text": "Gestion des bulletins, déclarations sociales et obligations courantes de l’employeur avec un suivi structuré.",
         "image": "",
         "featured": false
       },
       {
         "title": "Création d’entreprise",
         "label": "Choix, lancement, premiers outils",
-        "text": "Des repères pour créer, reprendre ou structurer une activité avec une base comptable propre.",
+        "text": "Accompagnement des créateurs et repreneurs pour poser des bases comptables, fiscales et administratives solides.",
         "image": "",
         "featured": false
       },
       {
         "title": "Pilotage",
         "label": "Trésorerie, marges, tableaux de bord",
-        "text": "Des points de suivi pour comprendre la rentabilité, la trésorerie et les priorités de gestion.",
+        "text": "Indicateurs simples pour suivre la trésorerie, comprendre les marges et prioriser les décisions de gestion.",
         "image": "https://images.pexels.com/photos/8297220/pexels-photo-8297220.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "featured": false
       },
       {
-        "title": "Contact local",
-        "label": "Téléphone, email, adresse",
-        "text": "Des coordonnées visibles rapidement pour réduire les frictions avant la prise de contact.",
+        "title": "Conseil dirigeant",
+        "label": "Suivi, décisions, organisation",
+        "text": "Échanges réguliers pour anticiper les échéances, sécuriser les décisions et accompagner les moments clés de l’entreprise.",
         "image": "https://images.pexels.com/photos/8439661/pexels-photo-8439661.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "featured": false
       }
@@ -1429,39 +1461,39 @@
       "Métropole",
       "Région"
     ],
-    "review": "Une présentation claire, rassurante et directement orientée vers la prise de contact.",
+    "review": "Un accompagnement clair, régulier et utile pour suivre les chiffres de l’entreprise avec sérénité.",
     "ctaLabel": "Appeler le cabinet",
     "highlights": [
-      "Sans site confirmé",
-      "généraliste",
-      "Très bon angle, appel nécessaire"
+      "Expertise comptable",
+      "Fiscalité et paie",
+      "Conseil dirigeant"
     ],
-    "trustIntro": "Les dirigeants veulent comprendre rapidement le périmètre d’accompagnement, les interlocuteurs possibles et la façon de lancer un premier échange.",
+    "trustIntro": "Dirigeants, indépendants et PME ont besoin d’un partenaire qui comprend les obligations, anticipe les échéances et transforme la comptabilité en information utile.",
     "trustPoints": [
-      "Offre présentée clairement",
-      "Coordonnées visibles et utilisables",
-      "Parcours pensé pour qualifier les demandes",
-      "Message adapté au positionnement du cabinet"
+      "Expertise comptable confirmée",
+      "Suivi personnalisé de chaque mandat",
+      "Échéances fiscales et sociales anticipées",
+      "Conseils clairs pour les dirigeants"
     ],
-    "contactTitle": "Contacter Cabinet Delouis - Expert comptable Lyon",
-    "contactIntro": "Un premier message permet de présenter la situation, le besoin comptable et les échéances à traiter.",
-    "footerSlogan": "Une présence web claire pour présenter le cabinet, rassurer les dirigeants et faciliter la prise de contact.",
+    "contactTitle": "Échanger avec Cabinet Delouis - Expert comptable Lyon sur votre comptabilité, votre fiscalité ou vos prochains enjeux.",
+    "contactIntro": "Décrivez votre situation, vos échéances et le niveau d’accompagnement recherché afin de préparer un premier échange utile.",
+    "footerSlogan": "Comptabilité, fiscalité, paie et conseil pour avancer avec des chiffres fiables et des décisions plus claires.",
     "faqs": [
       {
         "question": "Quels besoins comptables peut-on évoquer lors d’un premier échange ?",
-        "answer": "Comptabilité, fiscalité, paie, création ou pilotage : l’objectif est de clarifier le besoin et d’orienter vers le bon accompagnement."
+        "answer": "Comptabilité, fiscalité, paie, création d’entreprise ou pilotage : l’échange permet de comprendre la situation et de définir le niveau de suivi adapté."
       },
       {
         "question": "Le cabinet accompagne-t-il les créateurs et dirigeants de TPE ?",
-        "answer": "Le parcours met en avant les demandes fréquentes des dirigeants : création, obligations comptables, échéances fiscales et suivi de gestion."
+        "answer": "Oui. L’accompagnement peut commencer dès la création puis se poursuivre avec la tenue comptable, les déclarations, la paie et les comptes annuels."
       },
       {
-        "question": "Comment se passe le premier contact ?",
-        "answer": "Vous pouvez appeler, envoyer un email ou décrire votre situation via le formulaire afin de préparer un échange utile."
+        "question": "Pouvons-nous reprendre une comptabilité déjà existante ?",
+        "answer": "Oui. Un premier diagnostic permet d’identifier les documents disponibles, les échéances proches et les points à sécuriser en priorité."
       },
       {
-        "question": "Quels éléments préparer avant un rendez-vous ?",
-        "answer": "Le contexte de l’entreprise, les échéances proches, les documents disponibles et le motif de la demande suffisent pour démarrer."
+        "question": "Comment se passe le premier entretien ?",
+        "answer": "Nous clarifions votre activité, vos obligations, vos outils actuels et le niveau d’accompagnement attendu afin de proposer un cadre de mission adapté."
       }
     ],
     "prospecting": {
@@ -1471,7 +1503,8 @@
       "confidence": "Moyenne",
       "verdict": "Sans site confirmé - à prospecter",
       "sources": "Pappers indique site non disponible ; Compteo/OEC confirment l'activité. https://www.pappers.fr/entreprise/cabinet-herve-delouis-393510607 | https://www.compteo.fr/expert-comptable/cabinetdelouis-19723"
-    }
+    },
+    "heroImage": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=2400"
   },
   {
     "slug": "expr-cab-expert-comptable-lyon",
@@ -1488,71 +1521,73 @@
     "sourceOpportunity": "Sans site confirmé",
     "primaryColor": "#172238",
     "accentColor": "#c7a15a",
-    "tagline": "Une première présence web claire, crédible et facile à contacter.",
-    "proof": "Créer une présence web locale crédible à partir des informations publiques.",
-    "intro": "Je n'ai pas trouvé de site officiel clair pour EXPR CAB' - Expert-comptable. J'ai préparé une maquette simple à partir de vos informations publiques pour montrer ce que pourrait donner une présence web plus lisible.",
+    "tagline": "Comptabilité, fiscalité et conseil pour accompagner les dirigeants dans la durée.",
+    "proof": "Un cabinet d’expertise comptable à Lyon pour sécuriser les obligations, anticiper les échéances et donner une lecture claire des chiffres.",
+    "intro": "EXPR CAB' - Expert-comptable accompagne les dirigeants, indépendants et entreprises dans le suivi comptable, fiscal et social de leur activité.",
     "heroTitle": "EXPR CAB' - Expert-comptable, expertise comptable et accompagnement des dirigeants à Lyon",
-    "heroSummary": "Une présence web simple pour présenter le cabinet, rassurer les dirigeants et faciliter la prise de contact.",
+    "heroSummary": "Comptabilité, fiscalité, paie et conseil : un accompagnement structuré pour suivre vos obligations, sécuriser vos échéances et piloter votre activité.",
     "heroStats": [
       {
-        "title": "TPE & dirigeants",
-        "text": "Des missions formulées pour les entrepreneurs et entreprises locales."
+        "title": "TPE, PME & dirigeants",
+        "text": "Un suivi adapté aux besoins quotidiens des entrepreneurs et entreprises locales."
       },
       {
-        "title": "Présence locale",
-        "text": "Une page autonome pour ne plus dépendre uniquement des annuaires."
+        "title": "Échéances sécurisées",
+        "text": "Comptes annuels, TVA, fiscalité et paie suivis avec méthode."
       },
       {
         "title": "Lyon et alentours",
-        "text": "Des coordonnées locales visibles dès les premières secondes."
+        "text": "Un accompagnement de proximité pour avancer avec des chiffres fiables."
       }
     ],
     "services": [
       "Expertise comptable",
       "Fiscalité",
       "Paie & social",
-      "Création d’entreprise"
+      "Création d’entreprise",
+      "Pilotage",
+      "Conseil dirigeant"
     ],
     "serviceCards": [
       {
         "title": "Expertise comptable",
         "label": "Tenue, révision, bilans",
-        "text": "Une présentation claire des missions comptables pour aider les dirigeants à comprendre rapidement le périmètre d’accompagnement.",
+        "text": "Tenue comptable, révision, comptes annuels et suivi régulier pour disposer de chiffres fiables tout au long de l’année.",
         "image": "https://images.pexels.com/photos/8296970/pexels-photo-8296970.jpeg?auto=compress&cs=tinysrgb&w=1400",
         "featured": true
       },
       {
         "title": "Fiscalité",
-        "label": "Déclarations & conseil",
-        "text": "Des repères simples pour expliquer les obligations fiscales, les échéances et les décisions à anticiper.",
+        "label": "Déclarations & échéances",
+        "text": "Préparation des déclarations, suivi des échéances et conseils pour anticiper les obligations fiscales importantes.",
         "image": "",
         "featured": false
       },
       {
         "title": "Paie & social",
         "label": "Bulletins, charges, suivi RH",
-        "text": "Un suivi clair pour sécuriser les bulletins, les charges et les obligations courantes de l’employeur.",
+        "text": "Gestion des bulletins, déclarations sociales et obligations courantes de l’employeur avec un suivi structuré.",
         "image": "",
         "featured": false
       },
       {
         "title": "Création d’entreprise",
         "label": "Choix, lancement, premiers outils",
-        "text": "Des repères pour créer, reprendre ou structurer une activité avec une base comptable propre.",
+        "text": "Accompagnement des créateurs et repreneurs pour poser des bases comptables, fiscales et administratives solides.",
         "image": "",
         "featured": false
       },
       {
         "title": "Pilotage",
         "label": "Trésorerie, marges, tableaux de bord",
-        "text": "Des points de suivi pour comprendre la rentabilité, la trésorerie et les priorités de gestion.",
+        "text": "Indicateurs simples pour suivre la trésorerie, comprendre les marges et prioriser les décisions de gestion.",
         "image": "https://images.pexels.com/photos/8297220/pexels-photo-8297220.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "featured": false
       },
       {
-        "title": "Contact local",
-        "label": "Téléphone, email, adresse",
-        "text": "Des coordonnées visibles rapidement pour réduire les frictions avant la prise de contact.",
+        "title": "Conseil dirigeant",
+        "label": "Suivi, décisions, organisation",
+        "text": "Échanges réguliers pour anticiper les échéances, sécuriser les décisions et accompagner les moments clés de l’entreprise.",
         "image": "https://images.pexels.com/photos/8439661/pexels-photo-8439661.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "featured": false
       }
@@ -1563,39 +1598,39 @@
       "Métropole",
       "Région"
     ],
-    "review": "Une présentation claire, rassurante et directement orientée vers la prise de contact.",
+    "review": "Un accompagnement clair, régulier et utile pour suivre les chiffres de l’entreprise avec sérénité.",
     "ctaLabel": "Appeler le cabinet",
     "highlights": [
-      "Sans site confirmé",
-      "généraliste",
-      "Très bon angle, appel nécessaire"
+      "Expertise comptable",
+      "Fiscalité et paie",
+      "Conseil dirigeant"
     ],
-    "trustIntro": "Les dirigeants veulent comprendre rapidement le périmètre d’accompagnement, les interlocuteurs possibles et la façon de lancer un premier échange.",
+    "trustIntro": "Dirigeants, indépendants et PME ont besoin d’un partenaire qui comprend les obligations, anticipe les échéances et transforme la comptabilité en information utile.",
     "trustPoints": [
-      "Offre présentée clairement",
-      "Coordonnées visibles et utilisables",
-      "Parcours pensé pour qualifier les demandes",
-      "Message adapté au positionnement du cabinet"
+      "Expertise comptable confirmée",
+      "Suivi personnalisé de chaque mandat",
+      "Échéances fiscales et sociales anticipées",
+      "Conseils clairs pour les dirigeants"
     ],
-    "contactTitle": "Contacter EXPR CAB' - Expert-comptable",
-    "contactIntro": "Un premier message permet de présenter la situation, le besoin comptable et les échéances à traiter.",
-    "footerSlogan": "Une présence web claire pour présenter le cabinet, rassurer les dirigeants et faciliter la prise de contact.",
+    "contactTitle": "Échanger avec EXPR CAB' - Expert-comptable sur votre comptabilité, votre fiscalité ou vos prochains enjeux.",
+    "contactIntro": "Décrivez votre situation, vos échéances et le niveau d’accompagnement recherché afin de préparer un premier échange utile.",
+    "footerSlogan": "Comptabilité, fiscalité, paie et conseil pour avancer avec des chiffres fiables et des décisions plus claires.",
     "faqs": [
       {
         "question": "Quels besoins comptables peut-on évoquer lors d’un premier échange ?",
-        "answer": "Comptabilité, fiscalité, paie, création ou pilotage : l’objectif est de clarifier le besoin et d’orienter vers le bon accompagnement."
+        "answer": "Comptabilité, fiscalité, paie, création d’entreprise ou pilotage : l’échange permet de comprendre la situation et de définir le niveau de suivi adapté."
       },
       {
         "question": "Le cabinet accompagne-t-il les créateurs et dirigeants de TPE ?",
-        "answer": "Le parcours met en avant les demandes fréquentes des dirigeants : création, obligations comptables, échéances fiscales et suivi de gestion."
+        "answer": "Oui. L’accompagnement peut commencer dès la création puis se poursuivre avec la tenue comptable, les déclarations, la paie et les comptes annuels."
       },
       {
-        "question": "Comment se passe le premier contact ?",
-        "answer": "Vous pouvez appeler, envoyer un email ou décrire votre situation via le formulaire afin de préparer un échange utile."
+        "question": "Pouvons-nous reprendre une comptabilité déjà existante ?",
+        "answer": "Oui. Un premier diagnostic permet d’identifier les documents disponibles, les échéances proches et les points à sécuriser en priorité."
       },
       {
-        "question": "Quels éléments préparer avant un rendez-vous ?",
-        "answer": "Le contexte de l’entreprise, les échéances proches, les documents disponibles et le motif de la demande suffisent pour démarrer."
+        "question": "Comment se passe le premier entretien ?",
+        "answer": "Nous clarifions votre activité, vos obligations, vos outils actuels et le niveau d’accompagnement attendu afin de proposer un cadre de mission adapté."
       }
     ],
     "prospecting": {
@@ -1605,7 +1640,8 @@
       "confidence": "Moyenne",
       "verdict": "Sans site confirmé - à prospecter",
       "sources": "Pappers et OEC confirment EURL active, adresse et expert-comptable. https://www.pappers.fr/entreprise/expr-cab-952644995 | https://annuaire.experts-comptables.org/expert-comptable/33000-expr-cab-lyon-69006"
-    }
+    },
+    "heroImage": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=2400"
   },
   {
     "slug": "hl-accounting-lyon",
@@ -1622,71 +1658,73 @@
     "sourceOpportunity": "Sans site confirmé",
     "primaryColor": "#172238",
     "accentColor": "#c7a15a",
-    "tagline": "Une première présence web claire, crédible et facile à contacter.",
-    "proof": "Créer une présence web locale crédible à partir des informations publiques.",
-    "intro": "Je n'ai pas trouvé de site officiel clair pour HL ACCOUNTING. J'ai préparé une maquette simple à partir de vos informations publiques pour montrer ce que pourrait donner une présence web plus lisible.",
+    "tagline": "Comptabilité, fiscalité et conseil pour accompagner les dirigeants dans la durée.",
+    "proof": "Un cabinet d’expertise comptable à Lyon pour sécuriser les obligations, anticiper les échéances et donner une lecture claire des chiffres.",
+    "intro": "HL ACCOUNTING accompagne les dirigeants, indépendants et entreprises dans le suivi comptable, fiscal et social de leur activité.",
     "heroTitle": "HL ACCOUNTING, expertise comptable et accompagnement des dirigeants à Lyon",
-    "heroSummary": "Une présence web simple pour présenter le cabinet, rassurer les dirigeants et faciliter la prise de contact.",
+    "heroSummary": "Comptabilité, fiscalité, paie et conseil : un accompagnement structuré pour suivre vos obligations, sécuriser vos échéances et piloter votre activité.",
     "heroStats": [
       {
-        "title": "TPE & dirigeants",
-        "text": "Des missions formulées pour les entrepreneurs et entreprises locales."
+        "title": "TPE, PME & dirigeants",
+        "text": "Un suivi adapté aux besoins quotidiens des entrepreneurs et entreprises locales."
       },
       {
-        "title": "Présence locale",
-        "text": "Une page autonome pour ne plus dépendre uniquement des annuaires."
+        "title": "Échéances sécurisées",
+        "text": "Comptes annuels, TVA, fiscalité et paie suivis avec méthode."
       },
       {
         "title": "Lyon et alentours",
-        "text": "Des coordonnées locales visibles dès les premières secondes."
+        "text": "Un accompagnement de proximité pour avancer avec des chiffres fiables."
       }
     ],
     "services": [
       "Expertise comptable",
       "Fiscalité",
       "Paie & social",
-      "Création d’entreprise"
+      "Création d’entreprise",
+      "Pilotage",
+      "Conseil dirigeant"
     ],
     "serviceCards": [
       {
         "title": "Expertise comptable",
         "label": "Tenue, révision, bilans",
-        "text": "Une présentation claire des missions comptables pour aider les dirigeants à comprendre rapidement le périmètre d’accompagnement.",
+        "text": "Tenue comptable, révision, comptes annuels et suivi régulier pour disposer de chiffres fiables tout au long de l’année.",
         "image": "https://images.pexels.com/photos/8296970/pexels-photo-8296970.jpeg?auto=compress&cs=tinysrgb&w=1400",
         "featured": true
       },
       {
         "title": "Fiscalité",
-        "label": "Déclarations & conseil",
-        "text": "Des repères simples pour expliquer les obligations fiscales, les échéances et les décisions à anticiper.",
+        "label": "Déclarations & échéances",
+        "text": "Préparation des déclarations, suivi des échéances et conseils pour anticiper les obligations fiscales importantes.",
         "image": "",
         "featured": false
       },
       {
         "title": "Paie & social",
         "label": "Bulletins, charges, suivi RH",
-        "text": "Un suivi clair pour sécuriser les bulletins, les charges et les obligations courantes de l’employeur.",
+        "text": "Gestion des bulletins, déclarations sociales et obligations courantes de l’employeur avec un suivi structuré.",
         "image": "",
         "featured": false
       },
       {
         "title": "Création d’entreprise",
         "label": "Choix, lancement, premiers outils",
-        "text": "Des repères pour créer, reprendre ou structurer une activité avec une base comptable propre.",
+        "text": "Accompagnement des créateurs et repreneurs pour poser des bases comptables, fiscales et administratives solides.",
         "image": "",
         "featured": false
       },
       {
         "title": "Pilotage",
         "label": "Trésorerie, marges, tableaux de bord",
-        "text": "Des points de suivi pour comprendre la rentabilité, la trésorerie et les priorités de gestion.",
+        "text": "Indicateurs simples pour suivre la trésorerie, comprendre les marges et prioriser les décisions de gestion.",
         "image": "https://images.pexels.com/photos/8297220/pexels-photo-8297220.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "featured": false
       },
       {
-        "title": "Contact local",
-        "label": "Téléphone, email, adresse",
-        "text": "Des coordonnées visibles rapidement pour réduire les frictions avant la prise de contact.",
+        "title": "Conseil dirigeant",
+        "label": "Suivi, décisions, organisation",
+        "text": "Échanges réguliers pour anticiper les échéances, sécuriser les décisions et accompagner les moments clés de l’entreprise.",
         "image": "https://images.pexels.com/photos/8439661/pexels-photo-8439661.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "featured": false
       }
@@ -1697,39 +1735,39 @@
       "Métropole",
       "Région"
     ],
-    "review": "Une présentation claire, rassurante et directement orientée vers la prise de contact.",
+    "review": "Un accompagnement clair, régulier et utile pour suivre les chiffres de l’entreprise avec sérénité.",
     "ctaLabel": "Appeler le cabinet",
     "highlights": [
-      "Sans site confirmé",
-      "généraliste",
-      "Très bon angle, appel nécessaire"
+      "Expertise comptable",
+      "Fiscalité et paie",
+      "Conseil dirigeant"
     ],
-    "trustIntro": "Les dirigeants veulent comprendre rapidement le périmètre d’accompagnement, les interlocuteurs possibles et la façon de lancer un premier échange.",
+    "trustIntro": "Dirigeants, indépendants et PME ont besoin d’un partenaire qui comprend les obligations, anticipe les échéances et transforme la comptabilité en information utile.",
     "trustPoints": [
-      "Offre présentée clairement",
-      "Coordonnées visibles et utilisables",
-      "Parcours pensé pour qualifier les demandes",
-      "Message adapté au positionnement du cabinet"
+      "Expertise comptable confirmée",
+      "Suivi personnalisé de chaque mandat",
+      "Échéances fiscales et sociales anticipées",
+      "Conseils clairs pour les dirigeants"
     ],
-    "contactTitle": "Contacter HL ACCOUNTING",
-    "contactIntro": "Un premier message permet de présenter la situation, le besoin comptable et les échéances à traiter.",
-    "footerSlogan": "Une présence web claire pour présenter le cabinet, rassurer les dirigeants et faciliter la prise de contact.",
+    "contactTitle": "Échanger avec HL ACCOUNTING sur votre comptabilité, votre fiscalité ou vos prochains enjeux.",
+    "contactIntro": "Décrivez votre situation, vos échéances et le niveau d’accompagnement recherché afin de préparer un premier échange utile.",
+    "footerSlogan": "Comptabilité, fiscalité, paie et conseil pour avancer avec des chiffres fiables et des décisions plus claires.",
     "faqs": [
       {
         "question": "Quels besoins comptables peut-on évoquer lors d’un premier échange ?",
-        "answer": "Comptabilité, fiscalité, paie, création ou pilotage : l’objectif est de clarifier le besoin et d’orienter vers le bon accompagnement."
+        "answer": "Comptabilité, fiscalité, paie, création d’entreprise ou pilotage : l’échange permet de comprendre la situation et de définir le niveau de suivi adapté."
       },
       {
         "question": "Le cabinet accompagne-t-il les créateurs et dirigeants de TPE ?",
-        "answer": "Le parcours met en avant les demandes fréquentes des dirigeants : création, obligations comptables, échéances fiscales et suivi de gestion."
+        "answer": "Oui. L’accompagnement peut commencer dès la création puis se poursuivre avec la tenue comptable, les déclarations, la paie et les comptes annuels."
       },
       {
-        "question": "Comment se passe le premier contact ?",
-        "answer": "Vous pouvez appeler, envoyer un email ou décrire votre situation via le formulaire afin de préparer un échange utile."
+        "question": "Pouvons-nous reprendre une comptabilité déjà existante ?",
+        "answer": "Oui. Un premier diagnostic permet d’identifier les documents disponibles, les échéances proches et les points à sécuriser en priorité."
       },
       {
-        "question": "Quels éléments préparer avant un rendez-vous ?",
-        "answer": "Le contexte de l’entreprise, les échéances proches, les documents disponibles et le motif de la demande suffisent pour démarrer."
+        "question": "Comment se passe le premier entretien ?",
+        "answer": "Nous clarifions votre activité, vos obligations, vos outils actuels et le niveau d’accompagnement attendu afin de proposer un cadre de mission adapté."
       }
     ],
     "prospecting": {
@@ -1739,7 +1777,8 @@
       "confidence": "Moyenne",
       "verdict": "Sans site confirmé - à prospecter",
       "sources": "Pappers et Compteo confirment profession d'expert-comptable et services. https://www.pappers.fr/entreprise/hl-accounting-843517731 | https://www.compteo.fr/expert-comptable/hlaccounting-19555"
-    }
+    },
+    "heroImage": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=2400"
   },
   {
     "slug": "agexio-rennes",
@@ -1756,71 +1795,73 @@
     "sourceOpportunity": "Sans site confirmé",
     "primaryColor": "#172238",
     "accentColor": "#c7a15a",
-    "tagline": "Une première présence web claire, crédible et facile à contacter.",
-    "proof": "Créer une présence web locale crédible à partir des informations publiques.",
-    "intro": "Je n'ai pas trouvé de site officiel clair pour Agexio. J'ai préparé une maquette simple à partir de vos informations publiques pour montrer ce que pourrait donner une présence web plus lisible.",
+    "tagline": "Comptabilité, fiscalité et conseil pour accompagner les dirigeants dans la durée.",
+    "proof": "Un cabinet d’expertise comptable à Rennes pour sécuriser les obligations, anticiper les échéances et donner une lecture claire des chiffres.",
+    "intro": "Agexio accompagne les dirigeants, indépendants et entreprises dans le suivi comptable, fiscal et social de leur activité.",
     "heroTitle": "Agexio, expertise comptable et accompagnement des dirigeants à Rennes",
-    "heroSummary": "Une présence web simple pour présenter le cabinet, rassurer les dirigeants et faciliter la prise de contact.",
+    "heroSummary": "Comptabilité, fiscalité, paie et conseil : un accompagnement structuré pour suivre vos obligations, sécuriser vos échéances et piloter votre activité.",
     "heroStats": [
       {
-        "title": "TPE & dirigeants",
-        "text": "Des missions formulées pour les entrepreneurs et entreprises locales."
+        "title": "TPE, PME & dirigeants",
+        "text": "Un suivi adapté aux besoins quotidiens des entrepreneurs et entreprises locales."
       },
       {
-        "title": "Présence locale",
-        "text": "Une page autonome pour ne plus dépendre uniquement des annuaires."
+        "title": "Échéances sécurisées",
+        "text": "Comptes annuels, TVA, fiscalité et paie suivis avec méthode."
       },
       {
         "title": "Rennes et alentours",
-        "text": "Des coordonnées locales visibles dès les premières secondes."
+        "text": "Un accompagnement de proximité pour avancer avec des chiffres fiables."
       }
     ],
     "services": [
       "Expertise comptable",
       "Fiscalité",
       "Paie & social",
-      "Création d’entreprise"
+      "Création d’entreprise",
+      "Pilotage",
+      "Conseil dirigeant"
     ],
     "serviceCards": [
       {
         "title": "Expertise comptable",
         "label": "Tenue, révision, bilans",
-        "text": "Une présentation claire des missions comptables pour aider les dirigeants à comprendre rapidement le périmètre d’accompagnement.",
+        "text": "Tenue comptable, révision, comptes annuels et suivi régulier pour disposer de chiffres fiables tout au long de l’année.",
         "image": "https://images.pexels.com/photos/8296970/pexels-photo-8296970.jpeg?auto=compress&cs=tinysrgb&w=1400",
         "featured": true
       },
       {
         "title": "Fiscalité",
-        "label": "Déclarations & conseil",
-        "text": "Des repères simples pour expliquer les obligations fiscales, les échéances et les décisions à anticiper.",
+        "label": "Déclarations & échéances",
+        "text": "Préparation des déclarations, suivi des échéances et conseils pour anticiper les obligations fiscales importantes.",
         "image": "",
         "featured": false
       },
       {
         "title": "Paie & social",
         "label": "Bulletins, charges, suivi RH",
-        "text": "Un suivi clair pour sécuriser les bulletins, les charges et les obligations courantes de l’employeur.",
+        "text": "Gestion des bulletins, déclarations sociales et obligations courantes de l’employeur avec un suivi structuré.",
         "image": "",
         "featured": false
       },
       {
         "title": "Création d’entreprise",
         "label": "Choix, lancement, premiers outils",
-        "text": "Des repères pour créer, reprendre ou structurer une activité avec une base comptable propre.",
+        "text": "Accompagnement des créateurs et repreneurs pour poser des bases comptables, fiscales et administratives solides.",
         "image": "",
         "featured": false
       },
       {
         "title": "Pilotage",
         "label": "Trésorerie, marges, tableaux de bord",
-        "text": "Des points de suivi pour comprendre la rentabilité, la trésorerie et les priorités de gestion.",
+        "text": "Indicateurs simples pour suivre la trésorerie, comprendre les marges et prioriser les décisions de gestion.",
         "image": "https://images.pexels.com/photos/8297220/pexels-photo-8297220.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "featured": false
       },
       {
-        "title": "Contact local",
-        "label": "Téléphone, email, adresse",
-        "text": "Des coordonnées visibles rapidement pour réduire les frictions avant la prise de contact.",
+        "title": "Conseil dirigeant",
+        "label": "Suivi, décisions, organisation",
+        "text": "Échanges réguliers pour anticiper les échéances, sécuriser les décisions et accompagner les moments clés de l’entreprise.",
         "image": "https://images.pexels.com/photos/8439661/pexels-photo-8439661.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "featured": false
       }
@@ -1831,39 +1872,39 @@
       "Métropole",
       "Région"
     ],
-    "review": "Une présentation claire, rassurante et directement orientée vers la prise de contact.",
+    "review": "Un accompagnement clair, régulier et utile pour suivre les chiffres de l’entreprise avec sérénité.",
     "ctaLabel": "Appeler le cabinet",
     "highlights": [
-      "Sans site confirmé",
-      "généraliste",
-      "Très bon angle, appel nécessaire"
+      "Expertise comptable",
+      "Fiscalité et paie",
+      "Conseil dirigeant"
     ],
-    "trustIntro": "Les dirigeants veulent comprendre rapidement le périmètre d’accompagnement, les interlocuteurs possibles et la façon de lancer un premier échange.",
+    "trustIntro": "Dirigeants, indépendants et PME ont besoin d’un partenaire qui comprend les obligations, anticipe les échéances et transforme la comptabilité en information utile.",
     "trustPoints": [
-      "Offre présentée clairement",
-      "Coordonnées visibles et utilisables",
-      "Parcours pensé pour qualifier les demandes",
-      "Message adapté au positionnement du cabinet"
+      "Expertise comptable confirmée",
+      "Suivi personnalisé de chaque mandat",
+      "Échéances fiscales et sociales anticipées",
+      "Conseils clairs pour les dirigeants"
     ],
-    "contactTitle": "Contacter Agexio",
-    "contactIntro": "Un premier message permet de présenter la situation, le besoin comptable et les échéances à traiter.",
-    "footerSlogan": "Une présence web claire pour présenter le cabinet, rassurer les dirigeants et faciliter la prise de contact.",
+    "contactTitle": "Échanger avec Agexio sur votre comptabilité, votre fiscalité ou vos prochains enjeux.",
+    "contactIntro": "Décrivez votre situation, vos échéances et le niveau d’accompagnement recherché afin de préparer un premier échange utile.",
+    "footerSlogan": "Comptabilité, fiscalité, paie et conseil pour avancer avec des chiffres fiables et des décisions plus claires.",
     "faqs": [
       {
         "question": "Quels besoins comptables peut-on évoquer lors d’un premier échange ?",
-        "answer": "Comptabilité, fiscalité, paie, création ou pilotage : l’objectif est de clarifier le besoin et d’orienter vers le bon accompagnement."
+        "answer": "Comptabilité, fiscalité, paie, création d’entreprise ou pilotage : l’échange permet de comprendre la situation et de définir le niveau de suivi adapté."
       },
       {
         "question": "Le cabinet accompagne-t-il les créateurs et dirigeants de TPE ?",
-        "answer": "Le parcours met en avant les demandes fréquentes des dirigeants : création, obligations comptables, échéances fiscales et suivi de gestion."
+        "answer": "Oui. L’accompagnement peut commencer dès la création puis se poursuivre avec la tenue comptable, les déclarations, la paie et les comptes annuels."
       },
       {
-        "question": "Comment se passe le premier contact ?",
-        "answer": "Vous pouvez appeler, envoyer un email ou décrire votre situation via le formulaire afin de préparer un échange utile."
+        "question": "Pouvons-nous reprendre une comptabilité déjà existante ?",
+        "answer": "Oui. Un premier diagnostic permet d’identifier les documents disponibles, les échéances proches et les points à sécuriser en priorité."
       },
       {
-        "question": "Quels éléments préparer avant un rendez-vous ?",
-        "answer": "Le contexte de l’entreprise, les échéances proches, les documents disponibles et le motif de la demande suffisent pour démarrer."
+        "question": "Comment se passe le premier entretien ?",
+        "answer": "Nous clarifions votre activité, vos obligations, vos outils actuels et le niveau d’accompagnement attendu afin de proposer un cadre de mission adapté."
       }
     ],
     "prospecting": {
@@ -1873,7 +1914,8 @@
       "confidence": "Moyenne",
       "verdict": "Sans site confirmé - à prospecter",
       "sources": "Pappers et OEC confirment activité comptable active. https://www.pappers.fr/entreprise/agexio-820776979 | https://annuaire.experts-comptables.org/expert-comptable/21775-agexio-rennes-35700"
-    }
+    },
+    "heroImage": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=2400"
   },
   {
     "slug": "ouest-audit-rennes",
@@ -1890,71 +1932,73 @@
     "sourceOpportunity": "Sans site confirmé",
     "primaryColor": "#172238",
     "accentColor": "#9b6a2f",
-    "tagline": "Une première présence web claire, crédible et facile à contacter.",
-    "proof": "Créer une présence web locale crédible à partir des informations publiques.",
-    "intro": "Je n'ai pas trouvé de site officiel clair pour Ouest Audit. J'ai préparé une maquette simple à partir de vos informations publiques pour montrer ce que pourrait donner une présence web plus lisible.",
+    "tagline": "Expertise comptable, audit et conseil pour sécuriser les décisions des dirigeants.",
+    "proof": "Un cabinet à Rennes pour fiabiliser les comptes, sécuriser les obligations et accompagner les décisions financières.",
+    "intro": "Ouest Audit accompagne les entreprises et leurs dirigeants dans leurs missions d’expertise comptable, d’audit, de fiscalité et de conseil.",
     "heroTitle": "Ouest Audit, expertise comptable, audit et conseil à Rennes",
-    "heroSummary": "Une page structurée pour présenter expertise comptable, audit, conseil et faciliter la prise de contact.",
+    "heroSummary": "Expertise comptable, audit, fiscalité et conseil : un accompagnement structuré pour fiabiliser les comptes, anticiper les échéances et éclairer les décisions.",
     "heroStats": [
       {
         "title": "Audit & conseil",
-        "text": "Une présentation adaptée aux missions d’audit, de conseil et d’expertise comptable."
+        "text": "Des missions structurées pour fiabiliser les comptes et accompagner les décisions."
       },
       {
-        "title": "Présence locale",
-        "text": "Une page autonome pour ne plus dépendre uniquement des annuaires."
+        "title": "Échéances sécurisées",
+        "text": "Un suivi attentif des obligations comptables, fiscales et sociales."
       },
       {
         "title": "Rennes et alentours",
-        "text": "Des coordonnées locales visibles dès les premières secondes."
+        "text": "Un accompagnement de proximité pour les dirigeants et entreprises du territoire."
       }
     ],
     "services": [
       "Expertise comptable",
       "Audit & conformité",
-      "Conseil dirigeant",
-      "Fiscalité"
+      "Fiscalité",
+      "Paie & social",
+      "Pilotage",
+      "Conseil dirigeant"
     ],
     "serviceCards": [
       {
         "title": "Expertise comptable",
         "label": "Tenue, révision, bilans",
-        "text": "Une présentation claire des missions comptables pour aider les dirigeants à comprendre rapidement le périmètre d’accompagnement.",
+        "text": "Tenue comptable, révision, comptes annuels et suivi régulier pour disposer de chiffres fiables tout au long de l’année.",
         "image": "https://images.pexels.com/photos/8296970/pexels-photo-8296970.jpeg?auto=compress&cs=tinysrgb&w=1400",
         "featured": true
       },
       {
         "title": "Audit & conformité",
         "label": "Fiabilité, contrôle, sécurisation",
-        "text": "Un espace pour valoriser les missions d’audit, de commissariat aux comptes et de sécurisation financière.",
-        "image": "",
-        "featured": false
-      },
-      {
-        "title": "Conseil dirigeant",
-        "label": "Décisions, organisation, suivi",
-        "text": "Des repères utiles pour accompagner les choix de gestion, structurer les priorités et préparer les échanges importants.",
+        "text": "Missions d’audit, contrôle des comptes et sécurisation des informations financières pour renforcer la confiance.",
         "image": "",
         "featured": false
       },
       {
         "title": "Fiscalité",
         "label": "Déclarations & échéances",
-        "text": "Des informations compréhensibles sur les obligations fiscales et les échéances à anticiper.",
+        "text": "Préparation des déclarations, suivi des échéances et conseils pour anticiper les obligations fiscales importantes.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Paie & social",
+        "label": "Bulletins, charges, suivi RH",
+        "text": "Gestion des bulletins, déclarations sociales et obligations courantes de l’employeur avec un suivi structuré.",
         "image": "",
         "featured": false
       },
       {
         "title": "Pilotage",
         "label": "Trésorerie, marges, tableaux de bord",
-        "text": "Des points de suivi pour comprendre la rentabilité, la trésorerie et les priorités de gestion.",
+        "text": "Indicateurs simples pour suivre la trésorerie, comprendre les marges et prioriser les décisions de gestion.",
         "image": "https://images.pexels.com/photos/8297220/pexels-photo-8297220.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "featured": false
       },
       {
-        "title": "Contact local",
-        "label": "Téléphone, email, adresse",
-        "text": "Des coordonnées visibles rapidement pour réduire les frictions avant la prise de contact.",
+        "title": "Conseil dirigeant",
+        "label": "Suivi, décisions, organisation",
+        "text": "Échanges réguliers pour anticiper les échéances, sécuriser les décisions et accompagner les moments clés de l’entreprise.",
         "image": "https://images.pexels.com/photos/8439661/pexels-photo-8439661.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "featured": false
       }
@@ -1965,39 +2009,39 @@
       "Métropole",
       "Région"
     ],
-    "review": "Une présentation claire, rassurante et directement orientée vers la prise de contact.",
+    "review": "Un accompagnement rigoureux pour fiabiliser les comptes et aborder les décisions financières avec plus de sérénité.",
     "ctaLabel": "Appeler le cabinet",
     "highlights": [
-      "Sans site confirmé",
-      "conseil / audit",
-      "Très bon angle, appel nécessaire"
+      "Expertise comptable",
+      "Audit & conformité",
+      "Conseil dirigeant"
     ],
-    "trustIntro": "Les dirigeants veulent comprendre rapidement le périmètre d’accompagnement, les interlocuteurs possibles et la façon de lancer un premier échange.",
+    "trustIntro": "Les entreprises ont besoin d’un partenaire capable de fiabiliser les comptes, d’anticiper les obligations et d’apporter une lecture utile des données financières.",
     "trustPoints": [
-      "Offre présentée clairement",
-      "Coordonnées visibles et utilisables",
-      "Parcours pensé pour qualifier les demandes",
-      "Message adapté au positionnement du cabinet"
+      "Expertise comptable confirmée",
+      "Missions d’audit structurées",
+      "Échéances fiscales et sociales anticipées",
+      "Conseils clairs pour les dirigeants"
     ],
-    "contactTitle": "Contacter Ouest Audit",
-    "contactIntro": "Un premier message permet de présenter la situation, le besoin comptable et les échéances à traiter.",
-    "footerSlogan": "Une présence web claire pour présenter le cabinet, rassurer les dirigeants et faciliter la prise de contact.",
+    "contactTitle": "Échanger avec Ouest Audit sur vos comptes, vos obligations ou vos enjeux d’audit.",
+    "contactIntro": "Décrivez votre situation, vos échéances et le niveau d’accompagnement recherché afin de préparer un premier échange utile.",
+    "footerSlogan": "Expertise comptable, audit et conseil pour avancer avec des comptes fiables et des décisions mieux éclairées.",
     "faqs": [
       {
         "question": "Quels sujets peut-on évoquer lors d’un premier échange ?",
-        "answer": "Expertise comptable, audit, conseil, échéances ou organisation interne : l’objectif est de clarifier le besoin et d’orienter vers le bon accompagnement."
+        "answer": "Expertise comptable, audit, fiscalité, paie, pilotage ou organisation financière : l’objectif est de comprendre la situation et de cadrer l’accompagnement utile."
       },
       {
         "question": "Le cabinet accompagne-t-il les dirigeants de TPE et PME ?",
-        "answer": "Le parcours met en avant les demandes fréquentes des dirigeants : suivi comptable, fiscalité, pilotage, sécurisation et décisions de gestion."
+        "answer": "Oui. Le suivi peut couvrir les obligations comptables et fiscales, les comptes annuels, les indicateurs de gestion et les décisions structurantes."
       },
       {
-        "question": "Comment se passe le premier contact ?",
-        "answer": "Vous pouvez appeler, envoyer un email ou décrire votre situation via le formulaire afin de préparer un échange utile."
+        "question": "Comment se déroule une mission d’audit ou de contrôle ?",
+        "answer": "La mission s’appuie sur une analyse des documents, des procédures et des risques afin de fiabiliser les comptes et de formuler des recommandations claires."
       },
       {
         "question": "Quels éléments préparer avant un rendez-vous ?",
-        "answer": "Le contexte de l’entreprise, les échéances proches, les documents disponibles et le motif de la demande suffisent pour démarrer."
+        "answer": "Le contexte de l’entreprise, les échéances proches, les documents disponibles et les questions prioritaires suffisent pour préparer un échange efficace."
       }
     ],
     "prospecting": {
@@ -2007,6 +2051,7 @@
       "confidence": "Moyenne",
       "verdict": "Sans site confirmé - à prospecter",
       "sources": "Pappers, Société.com et OEC confirment activité/adresse. https://www.pappers.fr/entreprise/ouest-audit-448165027 | https://annuaire.experts-comptables.org/expert-comptable/514-ouest-audit-rennes-35000"
-    }
+    },
+    "heroImage": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=2400"
   }
 ]
