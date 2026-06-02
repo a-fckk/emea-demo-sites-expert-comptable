@@ -1,0 +1,21 @@
+---
+import prospects from "../data/prospects.json";
+import ExpertComptable from "../templates/ExpertComptable.astro";
+
+export function getStaticPaths() {
+  return prospects.map((prospect) => ({
+    params: { slug: prospect.slug },
+    props: { prospect }
+  }));
+}
+
+const { prospect } = Astro.props;
+
+const templates = {
+  "expert-comptable": ExpertComptable,
+  fiduciaire: ExpertComptable
+};
+
+const Template = templates[prospect.template] ?? ExpertComptable;
+---
+<Template prospect={prospect} />

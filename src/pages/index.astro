@@ -1,0 +1,7 @@
+---
+import prospects from "../data/prospects.json";
+import ExpertComptable from "../templates/ExpertComptable.astro";
+
+const prospect = prospects.find((item) => item.template === "expert-comptable") ?? prospects[0];
+---
+<ExpertComptable prospect={prospect} />

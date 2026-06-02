@@ -1,0 +1,489 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+
+const { prospect } = Astro.props;
+const heroImage = prospect.heroImage || "https://images.pexels.com/photos/8296970/pexels-photo-8296970.jpeg?auto=compress&cs=tinysrgb&w=2400";
+const heroStyle = `--fiduciary-hero-image: url('${heroImage}')`;
+const teamImage = "https://images.pexels.com/photos/8297220/pexels-photo-8297220.jpeg?auto=compress&cs=tinysrgb&w=1400";
+const teamStyle = `--fiduciary-team-image: url('${teamImage}')`;
+const trustImage = "https://images.pexels.com/photos/8439661/pexels-photo-8439661.jpeg?auto=compress&cs=tinysrgb&w=1400";
+const trustStyle = `--fiduciary-trust-image: url('${trustImage}')`;
+const cityName = prospect.city || "votre secteur";
+const heroTitle = prospect.heroTitle || "Un cabinet d'expertise comptable clair pour les PME et dirigeants";
+const heroSummary = prospect.heroSummary || "Comptabilité, fiscalité, paie et création d'entreprise: un accompagnement clair pour piloter vos obligations sans perdre de temps.";
+const heroStats = prospect.heroStats?.length ? prospect.heroStats : [
+  {
+    title: "PME & indépendants",
+    text: "Mandats suivis avec une lecture concrète des chiffres."
+  },
+  {
+    title: "Réponse sous 24h",
+    text: "Premier retour rapide pour clarifier votre situation."
+  },
+  {
+    title: prospect.city ? `${cityName} et alentours` : "Proximité client",
+    text: "Un cabinet accessible, habitué aux besoins concrets des dirigeants."
+  }
+];
+const serviceCards = prospect.serviceCards?.length ? prospect.serviceCards : [
+  {
+    title: "Comptabilité PME",
+    label: "Mensuel / TVA / bilans",
+    text: "Tenue comptable, bilans, TVA et suivi régulier pour garder une vision fiable de votre activité.",
+    image: "https://images.pexels.com/photos/8296970/pexels-photo-8296970.jpeg?auto=compress&cs=tinysrgb&w=1400",
+    featured: true
+  },
+  {
+    title: "Fiscalité",
+    label: "Sociétés / dirigeants",
+    text: "Déclarations et conseils pour anticiper les obligations importantes sans jargon inutile.",
+    image: "",
+    featured: false
+  },
+  {
+    title: "Paie et social",
+    label: "Bulletins / charges / suivi",
+    text: "Un accompagnement structuré pour sécuriser la paie et les obligations sociales courantes.",
+    image: "",
+    featured: false
+  },
+  {
+    title: "Création d'entreprise",
+    label: "Choix / lancement / outils",
+    text: "Un cadre de départ propre pour créer, reprendre ou structurer une activité.",
+    image: "",
+    featured: false
+  },
+  {
+    title: "Pilotage",
+    label: "Tableaux de bord / marges",
+    text: "Des indicateurs simples pour comprendre la trésorerie, les marges et les priorités.",
+    image: "https://images.pexels.com/photos/8297220/pexels-photo-8297220.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    featured: false
+  },
+  {
+    title: "Conseil dirigeant",
+    label: "Suivi / décisions",
+    text: "Des points de suivi pour anticiper les échéances et sécuriser les décisions.",
+    image: "https://images.pexels.com/photos/8439661/pexels-photo-8439661.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    featured: false
+  }
+];
+const trustIntro = prospect.trustIntro || "Dirigeants, indépendants et PME ont besoin d'un partenaire qui comprend les obligations, anticipe les échéances et transforme la comptabilité en information utile.";
+const trustPoints = prospect.trustPoints?.length ? prospect.trustPoints : [
+  "Expertise comptable confirmée",
+  "Suivi personnalisé de chaque mandat",
+  "Honoraires clairs et prévisibles",
+  "Communication proactive toute l'année"
+];
+const faqItems = prospect.faqs?.length ? prospect.faqs : [
+  {
+    question: "Le cabinet accompagne-t-il les nouvelles sociétés ?",
+    answer: "Oui. Nous pouvons intervenir dès la création pour structurer les bases comptables, les salaires, la TVA et les premiers processus administratifs."
+  },
+  {
+    question: "Pouvons-nous reprendre une comptabilité déjà existante ?",
+    answer: "Oui. Un premier diagnostic permet d'identifier les documents disponibles, les échéances proches et les corrections à prioriser."
+  },
+  {
+    question: "Comment se passe le premier entretien ?",
+    answer: "Nous clarifions votre activité, vos obligations, vos outils actuels et le niveau de suivi attendu. L'objectif est de proposer un mandat adapté, sans jargon."
+  },
+  {
+    question: "Les honoraires sont-ils prévisibles ?",
+    answer: "Oui. Les prestations sont cadrées selon votre volume, votre complexité et la fréquence du suivi, afin d'éviter les mauvaises surprises."
+  }
+];
+const contactTitle = prospect.contactTitle || "Parlons de votre comptabilité, de vos salaires ou de votre prochain mandat.";
+const contactIntro = prospect.contactIntro || "Un premier échange permet de comprendre votre situation, vos échéances et le niveau d'accompagnement attendu.";
+const footerSlogan = prospect.footerSlogan || "Devenir le partenaire comptable de confiance des entrepreneurs qui cherchent clarté, continuité et croissance.";
+const phoneHref = prospect.phoneHref || String(prospect.phone || "").replace(/[^\d+]/g, "");
+const hasEmail = Boolean(prospect.email);
+const contactHref = hasEmail ? `mailto:${prospect.email}` : `tel:${phoneHref}`;
+const hours = prospect.hours || "Lun-Ven 9h-18h";
+---
+<BaseLayout title={`${prospect.name} | ${prospect.sector}`} description={prospect.proof} primaryColor={prospect.primaryColor} accentColor={prospect.accentColor}>
+  <main class="site fiduciary-demo">
+    <section class="fiduciary-hero-v2" style={heroStyle} id="accueil">
+      <header class="fiduciary-header">
+        <a class="fiduciary-brand" href="#accueil" aria-label={prospect.name}>
+          <span class="fiduciary-logo" aria-hidden="true">
+            <span></span>
+            <span></span>
+            <span></span>
+          </span>
+          <strong>{prospect.name}</strong>
+        </a>
+
+        <nav class="fiduciary-menu" aria-label="Navigation principale">
+          <a href="#accueil">Accueil</a>
+          <a href="#expertises">Cabinet</a>
+          <a href="#services">Services</a>
+          <a href="#mandats">Mandats</a>
+          <a href="#contact">Contact</a>
+        </nav>
+
+        <a class="fiduciary-header-cta" href={`tel:${phoneHref}`}>
+          Contactez-nous
+          <span aria-hidden="true">-&gt;</span>
+        </a>
+      </header>
+
+      <div class="fiduciary-hero-content">
+        <div class="fiduciary-hero-copy">
+          <p class="fiduciary-kicker">Bienvenue chez {prospect.name}</p>
+          <h1>{heroTitle}</h1>
+        </div>
+
+        <aside class="fiduciary-hero-panel" aria-label="Synthèse de l'accompagnement">
+          <p>{heroSummary}</p>
+          <a class="fiduciary-primary" href={contactHref}>{prospect.ctaLabel}</a>
+        </aside>
+
+        <div class="fiduciary-hero-stats" aria-label="Points forts">
+          {heroStats.map((item) => (
+            <article>
+              <strong>{item.title}</strong>
+              <span>{item.text}</span>
+            </article>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <section class="fiduciary-services" id="services">
+      <div class="fiduciary-services-heading fiduciary-reveal fiduciary-reveal-up">
+        <p>Nos expertises, votre avantage financier</p>
+        <h2>Des prestations comptables claires pour chaque &eacute;tape de votre entreprise</h2>
+      </div>
+
+      <div class="fiduciary-services-grid">
+        {serviceCards.map((card, index) => (
+          <article
+            class:list={["fiduciary-service-card", "fiduciary-reveal", "fiduciary-reveal-up", { "is-featured": card.featured, "has-image": card.image }]}
+            style={card.image ? `--service-image: url('${card.image}')` : undefined}
+          >
+            <span class="fiduciary-service-number">{String(index + 1).padStart(2, "0")}</span>
+            <strong set:html={card.title}></strong>
+            <em set:html={card.label}></em>
+            <p>{card.text}</p>
+            <a href="#contact">Voir le service <span aria-hidden="true">-&gt;</span></a>
+          </article>
+        ))}
+      </div>
+    </section>
+
+    <section class="fiduciary-about section" id="expertises">
+      <div class="fiduciary-about-inner">
+        <div class="fiduciary-about-label fiduciary-reveal fiduciary-reveal-up">Qui sommes-nous</div>
+
+        <div class="fiduciary-about-content">
+          <h2 class="fiduciary-reveal fiduciary-reveal-up">
+            Une &eacute;quipe de sp&eacute;cialistes financiers engag&eacute;e pour une comptabilit&eacute;
+            claire, pr&eacute;cise et strat&eacute;gique.
+          </h2>
+
+          <div class="fiduciary-about-actions fiduciary-reveal fiduciary-reveal-up">
+            <a class="fiduciary-about-button" href="#cabinet">En savoir plus</a>
+          </div>
+        </div>
+
+        <div class="fiduciary-about-image fiduciary-reveal fiduciary-reveal-left" style={teamStyle} role="img" aria-label="Équipe comptable réunie"></div>
+
+        <div class="fiduciary-about-content">
+          <div class="fiduciary-about-values fiduciary-reveal fiduciary-reveal-right">
+            <article>
+              <span class="fiduciary-value-icon" aria-hidden="true">*</span>
+              <strong>Notre vision</strong>
+              <p>Devenir le partenaire comptable de confiance des entrepreneurs qui cherchent clart&eacute;, continuit&eacute; et croissance.</p>
+            </article>
+            <article>
+              <span class="fiduciary-value-icon fiduciary-value-icon-mission" aria-hidden="true"></span>
+              <strong>Notre mission</strong>
+              <p>Fournir un accompagnement fiable et personnalis&eacute; pour aider chaque dirigeant &agrave; prendre de meilleures d&eacute;cisions.</p>
+            </article>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="fiduciary-trust" id="mandats">
+      <div class="fiduciary-trust-image fiduciary-reveal fiduciary-reveal-left" style={trustStyle} role="img" aria-label="Professionnels relisant des documents comptables"></div>
+
+      <div class="fiduciary-trust-content fiduciary-reveal fiduciary-reveal-right">
+        <p class="fiduciary-trust-kicker">Pourquoi choisir {prospect.name} ?</p>
+        <h2>Pourquoi les entreprises <span>nous confient</span> leurs chiffres</h2>
+        <p>{trustIntro}</p>
+
+        <ul class="fiduciary-trust-list" aria-label="Raisons de nous faire confiance">
+          {trustPoints.map((point) => <li>{point}</li>)}
+        </ul>
+
+        <a class="fiduciary-trust-button" href={contactHref}>Demander un entretien</a>
+      </div>
+    </section>
+
+    <section class="fiduciary-faq" id="questions" data-faq-accordion>
+      <div class="fiduciary-faq-heading fiduciary-reveal fiduciary-reveal-left">
+        <p>Questions fr&eacute;quentes</p>
+        <h2>Les points &agrave; clarifier avant de confier votre comptabilit&eacute;</h2>
+        <div class="fiduciary-faq-illustration" role="img" aria-label="Illustration de documents comptables et calculs"></div>
+      </div>
+
+      <div class="fiduciary-faq-list fiduciary-reveal fiduciary-reveal-right">
+        {faqItems.map((item, index) => (
+          <article class:list={["fiduciary-faq-item", { "is-open": index === 0 }]}>
+            <button type="button" aria-expanded={index === 0 ? "true" : "false"}><span>{item.question}</span><span class="fiduciary-faq-toggle" aria-hidden="true"></span></button>
+            <div class="fiduciary-faq-answer">
+              <p>{item.answer}</p>
+            </div>
+          </article>
+        ))}
+      </div>
+    </section>
+
+    <script>
+      const faqRoot = document.querySelector("[data-faq-accordion]");
+      if (faqRoot) {
+        const items = Array.from(faqRoot.querySelectorAll(".fiduciary-faq-item"));
+        const setOpenFaqItem = (targetItem) => {
+          items.forEach((item) => {
+            const button = item.querySelector("button");
+            const isTarget = item === targetItem;
+            item.classList.toggle("is-open", isTarget);
+            button?.setAttribute("aria-expanded", String(isTarget));
+          });
+        };
+
+        items.forEach((item) => {
+          const button = item.querySelector("button");
+          button?.addEventListener("click", () => {
+            setOpenFaqItem(item);
+          });
+        });
+      }
+    </script>
+
+    <section class="fiduciary-testimonials" id="cabinet" data-testimonial-carousel>
+      <div class="fiduciary-testimonials-panel fiduciary-reveal fiduciary-reveal-left">
+        <p>T&eacute;moignages</p>
+        <h2>Des entrepreneurs qui nous confient leurs chiffres avec s&eacute;r&eacute;nit&eacute;</h2>
+
+        <div class="fiduciary-testimonials-proof" aria-label="Indicateurs de satisfaction client">
+          <article>
+            <strong>4.9/5</strong>
+            <span>Satisfaction moyenne sur les mandats suivis</span>
+          </article>
+          <article>
+            <strong>120+</strong>
+            <span>Dossiers PME et ind&eacute;pendants accompagn&eacute;s</span>
+          </article>
+          <article>
+            <strong>24h</strong>
+            <span>D&eacute;lai habituel pour un premier retour</span>
+          </article>
+        </div>
+
+      </div>
+
+      <div class="fiduciary-testimonials-stage fiduciary-reveal fiduciary-reveal-right">
+        <div class="fiduciary-testimonials-track">
+          <article class="fiduciary-testimonial-card is-active">
+            <blockquote>
+              "Nous avons enfin une vision claire de nos chiffres. Les &eacute;changes sont simples, les &eacute;ch&eacute;ances sont anticip&eacute;es et les conseils sont directement actionnables."
+            </blockquote>
+            <div class="fiduciary-testimonial-author">
+              <span>ML</span>
+              <div>
+                <strong>Marc L&eacute;vy</strong>
+                <p>Directeur, L&eacute;vy Architecture</p>
+              </div>
+            </div>
+          </article>
+          <article class="fiduciary-testimonial-card">
+            <blockquote>
+              "La reprise de notre comptabilit&eacute; s'est faite sans friction. L'&eacute;quipe a remis de l'ordre, expliqu&eacute; les priorit&eacute;s et s&eacute;curis&eacute; notre suivi TVA."
+            </blockquote>
+            <div class="fiduciary-testimonial-author">
+              <span>SB</span>
+              <div>
+                <strong>Sophie Brunner</strong>
+                <p>Fondatrice, Studio Brunner</p>
+              </div>
+            </div>
+          </article>
+          <article class="fiduciary-testimonial-card">
+            <blockquote>
+              "Pour les salaires, nous avions besoin d'un partenaire fiable. Tout est plus carr&eacute;, les documents arrivent &agrave; temps et les collaborateurs savent &agrave; qui s'adresser."
+            </blockquote>
+            <div class="fiduciary-testimonial-author">
+              <span>AP</span>
+              <div>
+                <strong>Antoine Pernet</strong>
+                <p>CEO, Pernet Services</p>
+              </div>
+            </div>
+          </article>
+          <article class="fiduciary-testimonial-card">
+            <blockquote>
+              "Nous avons cr&eacute;&eacute; la soci&eacute;t&eacute; avec leur accompagnement. Les choix &eacute;taient expliqu&eacute;s clairement, sans jargon, et les bases comptables ont &eacute;t&eacute; pos&eacute;es d&egrave;s le d&eacute;part."
+            </blockquote>
+            <div class="fiduciary-testimonial-author">
+              <span>CR</span>
+              <div>
+                <strong>Claire Rochat</strong>
+                <p>Associ&eacute;e, Alp Conseil</p>
+              </div>
+            </div>
+          </article>
+        </div>
+
+        <div class="fiduciary-testimonial-dots" aria-label="Navigation des avis">
+          <button class="is-active" type="button" aria-label="Afficher l'avis 1"></button>
+          <button type="button" aria-label="Afficher l'avis 2"></button>
+          <button type="button" aria-label="Afficher l'avis 3"></button>
+          <button type="button" aria-label="Afficher l'avis 4"></button>
+        </div>
+      </div>
+    </section>
+
+    <script>
+      const testimonialRoot = document.querySelector("[data-testimonial-carousel]");
+      if (testimonialRoot) {
+        const cards = Array.from(testimonialRoot.querySelectorAll(".fiduciary-testimonial-card"));
+        const dots = Array.from(testimonialRoot.querySelectorAll(".fiduciary-testimonial-dots button"));
+        let activeIndex = 0;
+
+        const setActiveTestimonial = (nextIndex) => {
+          activeIndex = nextIndex;
+          cards.forEach((card, index) => card.classList.toggle("is-active", index === activeIndex));
+          dots.forEach((dot, index) => dot.classList.toggle("is-active", index === activeIndex));
+        };
+
+        dots.forEach((dot, index) => {
+          dot.addEventListener("click", () => setActiveTestimonial(index));
+        });
+
+        window.setInterval(() => {
+          setActiveTestimonial((activeIndex + 1) % cards.length);
+        }, 5200);
+      }
+    </script>
+
+    <section class="fiduciary-contact" id="contact">
+      <div class="fiduciary-contact-inner">
+        <div class="fiduciary-contact-copy fiduciary-reveal fiduciary-reveal-left">
+          <p>Contact</p>
+          <h2>{contactTitle}</h2>
+          <span>{contactIntro}</span>
+
+          <div class="fiduciary-contact-details" aria-label="Coordonnées du cabinet">
+            <a href={`tel:${phoneHref}`}>
+              <small>T&eacute;l&eacute;phone</small>
+              <strong>{prospect.phone}</strong>
+            </a>
+            {hasEmail && (
+              <a href={`mailto:${prospect.email}`}>
+                <small>Email</small>
+                <strong>{prospect.email}</strong>
+              </a>
+            )}
+            <article>
+              <small>Adresse</small>
+              <strong>{prospect.address}</strong>
+            </article>
+            <article>
+              <small>Horaires</small>
+              <strong>{hours}</strong>
+            </article>
+          </div>
+        </div>
+
+        <form class="fiduciary-contact-form fiduciary-reveal fiduciary-reveal-right" action={hasEmail ? `mailto:${prospect.email}` : "#contact"} method="post" enctype="text/plain">
+          <div class="fiduciary-contact-form-heading">
+            <p>Demande de contact</p>
+            <h3>D&eacute;crivez votre besoin</h3>
+          </div>
+
+          <div class="fiduciary-form-grid">
+            <label>
+              Nom
+              <input type="text" name="nom" autocomplete="name" placeholder="Votre nom" />
+            </label>
+            <label>
+              Email
+              <input type="email" name="email" autocomplete="email" placeholder="vous@entreprise.fr" />
+            </label>
+          </div>
+
+          <label>
+            Sujet
+            <select name="sujet">
+              <option>Comptabilit&eacute; PME</option>
+              <option>Fiscalit&eacute;</option>
+              <option>Salaires</option>
+              <option>Cr&eacute;ation d'entreprise</option>
+              <option>Autre demande</option>
+            </select>
+          </label>
+
+          <label class="fiduciary-message-field">
+            Message
+            <textarea name="message" rows="5" placeholder="Expliquez bri&egrave;vement votre situation"></textarea>
+          </label>
+
+          <button type="submit">Envoyer la demande</button>
+        </form>
+      </div>
+    </section>
+
+    <footer class="fiduciary-footer">
+      <div class="fiduciary-footer-inner fiduciary-reveal fiduciary-reveal-up">
+        <a class="fiduciary-footer-brand" href="#accueil" aria-label={prospect.name}>
+          <span class="fiduciary-logo" aria-hidden="true">
+            <span></span>
+            <span></span>
+            <span></span>
+          </span>
+          <strong>{prospect.name}</strong>
+        </a>
+
+        <p class="fiduciary-footer-slogan">{footerSlogan}</p>
+
+        <nav class="fiduciary-footer-links" aria-label="Navigation secondaire">
+          <a href="#services">Services</a>
+          <a href="#questions">FAQ</a>
+          <a href="#contact">Contact</a>
+        </nav>
+
+        <div class="fiduciary-footer-separator" aria-hidden="true"></div>
+        <a class="fiduciary-footer-phone" href={`tel:${phoneHref}`}>{prospect.phone}</a>
+        {hasEmail && <a class="fiduciary-footer-email" href={`mailto:${prospect.email}`}>{prospect.email}</a>}
+        <span class="fiduciary-footer-address">{prospect.address}</span>
+      </div>
+    </footer>
+
+    <script>
+      const revealRoot = document.querySelector(".fiduciary-demo");
+      if (revealRoot) {
+        const revealItems = Array.from(revealRoot.querySelectorAll(".fiduciary-reveal"));
+        revealRoot.classList.add("is-reveal-ready");
+
+        if ("IntersectionObserver" in window) {
+          const revealObserver = new IntersectionObserver((entries) => {
+            entries.forEach((entry) => {
+              if (entry.isIntersecting) {
+                entry.target.classList.add("is-visible");
+                revealObserver.unobserve(entry.target);
+              }
+            });
+          }, { threshold: 0.14, rootMargin: "0px 0px -10% 0px" });
+
+          revealItems.forEach((item) => revealObserver.observe(item));
+        } else {
+          revealItems.forEach((item) => item.classList.add("is-visible"));
+        }
+      }
+    </script>
+  </main>
+</BaseLayout>

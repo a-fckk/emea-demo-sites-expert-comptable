@@ -1,0 +1,2012 @@
+﻿[
+  {
+    "slug": "atheis-rennes",
+    "template": "expert-comptable",
+    "name": "ATHEIS",
+    "sector": "Expertise comptable",
+    "city": "Rennes",
+    "phone": "02 90 09 95 15",
+    "phoneHref": "0290099515",
+    "email": "rennes@atheis.fr",
+    "address": "ZA La Brosse",
+    "currentSite": "http://atheis.fr/",
+    "demoPath": "/demo/atheis-rennes",
+    "sourceOpportunity": "Site à réparer",
+    "primaryColor": "#172238",
+    "accentColor": "#c7a15a",
+    "tagline": "Une présence plus claire pour transformer les visiteurs en demandes de contact.",
+    "proof": "Clarifier une présence existante difficile à exploiter ou trop peu lisible.",
+    "intro": "J'ai vu que la présence web de ATHEIS existe, mais qu'elle pourrait être plus claire et plus directement orientée contact. J'ai préparé une maquette courte pour montrer une piste concrète.",
+    "heroTitle": "ATHEIS, expertise comptable et accompagnement des dirigeants à Rennes",
+    "heroSummary": "Une page d’accueil plus claire pour présenter les missions du cabinet, rassurer les dirigeants et simplifier la prise de contact.",
+    "heroStats": [
+      {
+        "title": "TPE & dirigeants",
+        "text": "Des missions formulées pour les entrepreneurs et entreprises locales."
+      },
+      {
+        "title": "Vitrine à clarifier",
+        "text": "Conserver les informations utiles et rendre le parcours plus direct."
+      },
+      {
+        "title": "Rennes et alentours",
+        "text": "Des coordonnées locales visibles dès les premières secondes."
+      }
+    ],
+    "services": [
+      "Expertise comptable",
+      "Fiscalité",
+      "Paie & social",
+      "Création d’entreprise"
+    ],
+    "serviceCards": [
+      {
+        "title": "Expertise comptable",
+        "label": "Tenue, révision, bilans",
+        "text": "Une présentation claire des missions comptables pour aider les dirigeants à comprendre rapidement le périmètre d’accompagnement.",
+        "image": "https://images.pexels.com/photos/8296970/pexels-photo-8296970.jpeg?auto=compress&cs=tinysrgb&w=1400",
+        "featured": true
+      },
+      {
+        "title": "Fiscalité",
+        "label": "Déclarations & conseil",
+        "text": "Des repères simples pour expliquer les obligations fiscales, les échéances et les décisions à anticiper.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Paie & social",
+        "label": "Bulletins, charges, suivi RH",
+        "text": "Un suivi clair pour sécuriser les bulletins, les charges et les obligations courantes de l’employeur.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Création d’entreprise",
+        "label": "Choix, lancement, premiers outils",
+        "text": "Des repères pour créer, reprendre ou structurer une activité avec une base comptable propre.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Pilotage",
+        "label": "Trésorerie, marges, tableaux de bord",
+        "text": "Des points de suivi pour comprendre la rentabilité, la trésorerie et les priorités de gestion.",
+        "image": "https://images.pexels.com/photos/8297220/pexels-photo-8297220.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "featured": false
+      },
+      {
+        "title": "Contact local",
+        "label": "Téléphone, email, adresse",
+        "text": "Des coordonnées visibles rapidement pour réduire les frictions avant la prise de contact.",
+        "image": "https://images.pexels.com/photos/8439661/pexels-photo-8439661.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "featured": false
+      }
+    ],
+    "zones": [
+      "Rennes",
+      "Centre-ville",
+      "Métropole",
+      "Région"
+    ],
+    "review": "Une présentation claire, rassurante et directement orientée vers la prise de contact.",
+    "ctaLabel": "Envoyer un message",
+    "highlights": [
+      "Site à réparer",
+      "généraliste",
+      "Angle fort + email disponible"
+    ],
+    "trustIntro": "Les dirigeants veulent comprendre rapidement le périmètre d’accompagnement, les interlocuteurs possibles et la façon de lancer un premier échange.",
+    "trustPoints": [
+      "Offre présentée clairement",
+      "Coordonnées visibles et utilisables",
+      "Parcours pensé pour qualifier les demandes",
+      "Message adapté au positionnement du cabinet"
+    ],
+    "contactTitle": "Contacter ATHEIS",
+    "contactIntro": "Un premier message permet de présenter la situation, le besoin comptable et les échéances à traiter.",
+    "footerSlogan": "Une vitrine plus claire pour présenter les missions, rassurer les dirigeants et simplifier la prise de contact.",
+    "faqs": [
+      {
+        "question": "Quels besoins comptables peut-on évoquer lors d’un premier échange ?",
+        "answer": "Comptabilité, fiscalité, paie, création ou pilotage : l’objectif est de clarifier le besoin et d’orienter vers le bon accompagnement."
+      },
+      {
+        "question": "Le cabinet accompagne-t-il les créateurs et dirigeants de TPE ?",
+        "answer": "Le parcours met en avant les demandes fréquentes des dirigeants : création, obligations comptables, échéances fiscales et suivi de gestion."
+      },
+      {
+        "question": "Comment se passe le premier contact ?",
+        "answer": "Vous pouvez appeler, envoyer un email ou décrire votre situation via le formulaire afin de préparer un échange utile."
+      },
+      {
+        "question": "Quels éléments préparer avant un rendez-vous ?",
+        "answer": "Le contexte de l’entreprise, les échéances proches, les documents disponibles et le motif de la demande suffisent pour démarrer."
+      }
+    ],
+    "prospecting": {
+      "channel": "Email",
+      "nextAction": "Générer démo + email",
+      "reason": "Angle fort + email disponible",
+      "confidence": "Moyenne",
+      "verdict": "Site à réparer - à prospecter",
+      "sources": "LinkedIn indique http://atheis.fr ; Webrate signale le site offline ; Pappers confirmé activités comptables/CAC. https://www.linkedin.com/company/atheis | https://webrate.org/site/atheis.fr/ | https://www.pappers.fr/entreprise/atheis-817403793"
+    }
+  },
+  {
+    "slug": "cabinet-pauthier-rennes",
+    "template": "expert-comptable",
+    "name": "Cabinet Pauthier",
+    "sector": "Expertise comptable",
+    "city": "Rennes",
+    "phone": "02 99 50 05 36",
+    "phoneHref": "0299500536",
+    "email": "lpr@cabinet-pauthier.fr",
+    "address": "8 Allée René Perrault",
+    "currentSite": "",
+    "demoPath": "/demo/cabinet-pauthier-rennes",
+    "sourceOpportunity": "Sans site confirmé",
+    "primaryColor": "#172238",
+    "accentColor": "#c7a15a",
+    "tagline": "Une première présence web claire, crédible et facile à contacter.",
+    "proof": "Créer une présence web locale crédible à partir des informations publiques.",
+    "intro": "Je n'ai pas trouvé de site officiel clair pour Cabinet Pauthier. J'ai préparé une maquette simple à partir de vos informations publiques pour montrer ce que pourrait donner une présence web plus lisible.",
+    "heroTitle": "Cabinet Pauthier, expertise comptable et accompagnement des dirigeants à Rennes",
+    "heroSummary": "Une présence web simple pour présenter le cabinet, rassurer les dirigeants et faciliter la prise de contact.",
+    "heroStats": [
+      {
+        "title": "TPE & dirigeants",
+        "text": "Des missions formulées pour les entrepreneurs et entreprises locales."
+      },
+      {
+        "title": "Présence locale",
+        "text": "Une page autonome pour ne plus dépendre uniquement des annuaires."
+      },
+      {
+        "title": "Rennes et alentours",
+        "text": "Des coordonnées locales visibles dès les premières secondes."
+      }
+    ],
+    "services": [
+      "Expertise comptable",
+      "Fiscalité",
+      "Paie & social",
+      "Création d’entreprise"
+    ],
+    "serviceCards": [
+      {
+        "title": "Expertise comptable",
+        "label": "Tenue, révision, bilans",
+        "text": "Une présentation claire des missions comptables pour aider les dirigeants à comprendre rapidement le périmètre d’accompagnement.",
+        "image": "https://images.pexels.com/photos/8296970/pexels-photo-8296970.jpeg?auto=compress&cs=tinysrgb&w=1400",
+        "featured": true
+      },
+      {
+        "title": "Fiscalité",
+        "label": "Déclarations & conseil",
+        "text": "Des repères simples pour expliquer les obligations fiscales, les échéances et les décisions à anticiper.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Paie & social",
+        "label": "Bulletins, charges, suivi RH",
+        "text": "Un suivi clair pour sécuriser les bulletins, les charges et les obligations courantes de l’employeur.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Création d’entreprise",
+        "label": "Choix, lancement, premiers outils",
+        "text": "Des repères pour créer, reprendre ou structurer une activité avec une base comptable propre.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Pilotage",
+        "label": "Trésorerie, marges, tableaux de bord",
+        "text": "Des points de suivi pour comprendre la rentabilité, la trésorerie et les priorités de gestion.",
+        "image": "https://images.pexels.com/photos/8297220/pexels-photo-8297220.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "featured": false
+      },
+      {
+        "title": "Contact local",
+        "label": "Téléphone, email, adresse",
+        "text": "Des coordonnées visibles rapidement pour réduire les frictions avant la prise de contact.",
+        "image": "https://images.pexels.com/photos/8439661/pexels-photo-8439661.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "featured": false
+      }
+    ],
+    "zones": [
+      "Rennes",
+      "Centre-ville",
+      "Métropole",
+      "Région"
+    ],
+    "review": "Une présentation claire, rassurante et directement orientée vers la prise de contact.",
+    "ctaLabel": "Envoyer un message",
+    "highlights": [
+      "Sans site confirmé",
+      "généraliste",
+      "Angle fort + email disponible"
+    ],
+    "trustIntro": "Les dirigeants veulent comprendre rapidement le périmètre d’accompagnement, les interlocuteurs possibles et la façon de lancer un premier échange.",
+    "trustPoints": [
+      "Offre présentée clairement",
+      "Coordonnées visibles et utilisables",
+      "Parcours pensé pour qualifier les demandes",
+      "Message adapté au positionnement du cabinet"
+    ],
+    "contactTitle": "Contacter Cabinet Pauthier",
+    "contactIntro": "Un premier message permet de présenter la situation, le besoin comptable et les échéances à traiter.",
+    "footerSlogan": "Une présence web claire pour présenter le cabinet, rassurer les dirigeants et faciliter la prise de contact.",
+    "faqs": [
+      {
+        "question": "Quels besoins comptables peut-on évoquer lors d’un premier échange ?",
+        "answer": "Comptabilité, fiscalité, paie, création ou pilotage : l’objectif est de clarifier le besoin et d’orienter vers le bon accompagnement."
+      },
+      {
+        "question": "Le cabinet accompagne-t-il les créateurs et dirigeants de TPE ?",
+        "answer": "Le parcours met en avant les demandes fréquentes des dirigeants : création, obligations comptables, échéances fiscales et suivi de gestion."
+      },
+      {
+        "question": "Comment se passe le premier contact ?",
+        "answer": "Vous pouvez appeler, envoyer un email ou décrire votre situation via le formulaire afin de préparer un échange utile."
+      },
+      {
+        "question": "Quels éléments préparer avant un rendez-vous ?",
+        "answer": "Le contexte de l’entreprise, les échéances proches, les documents disponibles et le motif de la demande suffisent pour démarrer."
+      }
+    ],
+    "prospecting": {
+      "channel": "Email",
+      "nextAction": "Générer démo + email",
+      "reason": "Angle fort + email disponible",
+      "confidence": "Moyenne",
+      "verdict": "Sans site confirmé - à prospecter",
+      "sources": "Az-France indique site n.d. ; rapports Pappers citent lpr@cabinet-pauthier.fr ; OEC mentionne Pauthier Loic. https://www.az-france.com/entreprises/cabinet-pauthier-rennes-8-allee-rene-perrault | https://annuaire.experts-comptables.org/"
+    }
+  },
+  {
+    "slug": "christophe-juteau-rennes",
+    "template": "expert-comptable",
+    "name": "Christophe JUTEAU",
+    "sector": "Expertise comptable",
+    "city": "Rennes",
+    "phone": "02 99 78 19 64",
+    "phoneHref": "0299781964",
+    "email": "c.juteau@wanadoo.fr",
+    "address": "2 Rue de Juillet",
+    "currentSite": "",
+    "demoPath": "/demo/christophe-juteau-rennes",
+    "sourceOpportunity": "Sans site confirmé",
+    "primaryColor": "#172238",
+    "accentColor": "#c7a15a",
+    "tagline": "Une première présence web claire, crédible et facile à contacter.",
+    "proof": "Créer une présence web locale crédible à partir des informations publiques.",
+    "intro": "Je n'ai pas trouvé de site officiel clair pour Christophe JUTEAU. J'ai préparé une maquette simple à partir de vos informations publiques pour montrer ce que pourrait donner une présence web plus lisible.",
+    "heroTitle": "Christophe JUTEAU, expertise comptable et accompagnement des dirigeants à Rennes",
+    "heroSummary": "Une présence web simple pour présenter le cabinet, rassurer les dirigeants et faciliter la prise de contact.",
+    "heroStats": [
+      {
+        "title": "TPE & dirigeants",
+        "text": "Des missions formulées pour les entrepreneurs et entreprises locales."
+      },
+      {
+        "title": "Présence locale",
+        "text": "Une page autonome pour ne plus dépendre uniquement des annuaires."
+      },
+      {
+        "title": "Rennes et alentours",
+        "text": "Des coordonnées locales visibles dès les premières secondes."
+      }
+    ],
+    "services": [
+      "Expertise comptable",
+      "Fiscalité",
+      "Paie & social",
+      "Création d’entreprise"
+    ],
+    "serviceCards": [
+      {
+        "title": "Expertise comptable",
+        "label": "Tenue, révision, bilans",
+        "text": "Une présentation claire des missions comptables pour aider les dirigeants à comprendre rapidement le périmètre d’accompagnement.",
+        "image": "https://images.pexels.com/photos/8296970/pexels-photo-8296970.jpeg?auto=compress&cs=tinysrgb&w=1400",
+        "featured": true
+      },
+      {
+        "title": "Fiscalité",
+        "label": "Déclarations & conseil",
+        "text": "Des repères simples pour expliquer les obligations fiscales, les échéances et les décisions à anticiper.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Paie & social",
+        "label": "Bulletins, charges, suivi RH",
+        "text": "Un suivi clair pour sécuriser les bulletins, les charges et les obligations courantes de l’employeur.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Création d’entreprise",
+        "label": "Choix, lancement, premiers outils",
+        "text": "Des repères pour créer, reprendre ou structurer une activité avec une base comptable propre.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Pilotage",
+        "label": "Trésorerie, marges, tableaux de bord",
+        "text": "Des points de suivi pour comprendre la rentabilité, la trésorerie et les priorités de gestion.",
+        "image": "https://images.pexels.com/photos/8297220/pexels-photo-8297220.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "featured": false
+      },
+      {
+        "title": "Contact local",
+        "label": "Téléphone, email, adresse",
+        "text": "Des coordonnées visibles rapidement pour réduire les frictions avant la prise de contact.",
+        "image": "https://images.pexels.com/photos/8439661/pexels-photo-8439661.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "featured": false
+      }
+    ],
+    "zones": [
+      "Rennes",
+      "Centre-ville",
+      "Métropole",
+      "Région"
+    ],
+    "review": "Une présentation claire, rassurante et directement orientée vers la prise de contact.",
+    "ctaLabel": "Envoyer un message",
+    "highlights": [
+      "Sans site confirmé",
+      "généraliste",
+      "Angle fort + email disponible"
+    ],
+    "trustIntro": "Les dirigeants veulent comprendre rapidement le périmètre d’accompagnement, les interlocuteurs possibles et la façon de lancer un premier échange.",
+    "trustPoints": [
+      "Offre présentée clairement",
+      "Coordonnées visibles et utilisables",
+      "Parcours pensé pour qualifier les demandes",
+      "Message adapté au positionnement du cabinet"
+    ],
+    "contactTitle": "Contacter Christophe JUTEAU",
+    "contactIntro": "Un premier message permet de présenter la situation, le besoin comptable et les échéances à traiter.",
+    "footerSlogan": "Une présence web claire pour présenter le cabinet, rassurer les dirigeants et faciliter la prise de contact.",
+    "faqs": [
+      {
+        "question": "Quels besoins comptables peut-on évoquer lors d’un premier échange ?",
+        "answer": "Comptabilité, fiscalité, paie, création ou pilotage : l’objectif est de clarifier le besoin et d’orienter vers le bon accompagnement."
+      },
+      {
+        "question": "Le cabinet accompagne-t-il les créateurs et dirigeants de TPE ?",
+        "answer": "Le parcours met en avant les demandes fréquentes des dirigeants : création, obligations comptables, échéances fiscales et suivi de gestion."
+      },
+      {
+        "question": "Comment se passe le premier contact ?",
+        "answer": "Vous pouvez appeler, envoyer un email ou décrire votre situation via le formulaire afin de préparer un échange utile."
+      },
+      {
+        "question": "Quels éléments préparer avant un rendez-vous ?",
+        "answer": "Le contexte de l’entreprise, les échéances proches, les documents disponibles et le motif de la demande suffisent pour démarrer."
+      }
+    ],
+    "prospecting": {
+      "channel": "Email",
+      "nextAction": "Générer démo + email",
+      "reason": "Angle fort + email disponible",
+      "confidence": "Moyenne",
+      "verdict": "Sans site confirmé - à prospecter",
+      "sources": "OEC et Pappers confirment adresse, activité et statut actif. https://annuaire.experts-comptables.org/expert-comptable/28521-juteau-christophe-rennes-35000 | https://www.pappers.fr/entreprise/juteau-christophe-423557834"
+    }
+  },
+  {
+    "slug": "cmj-expertise-comptable-rennes",
+    "template": "expert-comptable",
+    "name": "CMJ Expertise Comptable",
+    "sector": "Expertise comptable",
+    "city": "Rennes",
+    "phone": "02 23 30 03 40",
+    "phoneHref": "0223300340",
+    "email": "mjehanno@cmj-ec.fr",
+    "address": "2 Rue du Bignon",
+    "currentSite": "",
+    "demoPath": "/demo/cmj-expertise-comptable-rennes",
+    "sourceOpportunity": "Sans site confirmé",
+    "primaryColor": "#172238",
+    "accentColor": "#c7a15a",
+    "tagline": "Une première présence web claire, crédible et facile à contacter.",
+    "proof": "Créer une présence web locale crédible à partir des informations publiques.",
+    "intro": "Je n'ai pas trouvé de site officiel clair pour CMJ Expertise Comptable. J'ai préparé une maquette simple à partir de vos informations publiques pour montrer ce que pourrait donner une présence web plus lisible.",
+    "heroTitle": "CMJ Expertise Comptable, expertise comptable et accompagnement des dirigeants à Rennes",
+    "heroSummary": "Une présence web simple pour présenter le cabinet, rassurer les dirigeants et faciliter la prise de contact.",
+    "heroStats": [
+      {
+        "title": "TPE & dirigeants",
+        "text": "Des missions formulées pour les entrepreneurs et entreprises locales."
+      },
+      {
+        "title": "Présence locale",
+        "text": "Une page autonome pour ne plus dépendre uniquement des annuaires."
+      },
+      {
+        "title": "Rennes et alentours",
+        "text": "Des coordonnées locales visibles dès les premières secondes."
+      }
+    ],
+    "services": [
+      "Expertise comptable",
+      "Fiscalité",
+      "Paie & social",
+      "Création d’entreprise"
+    ],
+    "serviceCards": [
+      {
+        "title": "Expertise comptable",
+        "label": "Tenue, révision, bilans",
+        "text": "Une présentation claire des missions comptables pour aider les dirigeants à comprendre rapidement le périmètre d’accompagnement.",
+        "image": "https://images.pexels.com/photos/8296970/pexels-photo-8296970.jpeg?auto=compress&cs=tinysrgb&w=1400",
+        "featured": true
+      },
+      {
+        "title": "Fiscalité",
+        "label": "Déclarations & conseil",
+        "text": "Des repères simples pour expliquer les obligations fiscales, les échéances et les décisions à anticiper.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Paie & social",
+        "label": "Bulletins, charges, suivi RH",
+        "text": "Un suivi clair pour sécuriser les bulletins, les charges et les obligations courantes de l’employeur.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Création d’entreprise",
+        "label": "Choix, lancement, premiers outils",
+        "text": "Des repères pour créer, reprendre ou structurer une activité avec une base comptable propre.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Pilotage",
+        "label": "Trésorerie, marges, tableaux de bord",
+        "text": "Des points de suivi pour comprendre la rentabilité, la trésorerie et les priorités de gestion.",
+        "image": "https://images.pexels.com/photos/8297220/pexels-photo-8297220.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "featured": false
+      },
+      {
+        "title": "Contact local",
+        "label": "Téléphone, email, adresse",
+        "text": "Des coordonnées visibles rapidement pour réduire les frictions avant la prise de contact.",
+        "image": "https://images.pexels.com/photos/8439661/pexels-photo-8439661.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "featured": false
+      }
+    ],
+    "zones": [
+      "Rennes",
+      "Centre-ville",
+      "Métropole",
+      "Région"
+    ],
+    "review": "Une présentation claire, rassurante et directement orientée vers la prise de contact.",
+    "ctaLabel": "Envoyer un message",
+    "highlights": [
+      "Sans site confirmé",
+      "généraliste",
+      "Angle fort + email disponible"
+    ],
+    "trustIntro": "Les dirigeants veulent comprendre rapidement le périmètre d’accompagnement, les interlocuteurs possibles et la façon de lancer un premier échange.",
+    "trustPoints": [
+      "Offre présentée clairement",
+      "Coordonnées visibles et utilisables",
+      "Parcours pensé pour qualifier les demandes",
+      "Message adapté au positionnement du cabinet"
+    ],
+    "contactTitle": "Contacter CMJ Expertise Comptable",
+    "contactIntro": "Un premier message permet de présenter la situation, le besoin comptable et les échéances à traiter.",
+    "footerSlogan": "Une présence web claire pour présenter le cabinet, rassurer les dirigeants et faciliter la prise de contact.",
+    "faqs": [
+      {
+        "question": "Quels besoins comptables peut-on évoquer lors d’un premier échange ?",
+        "answer": "Comptabilité, fiscalité, paie, création ou pilotage : l’objectif est de clarifier le besoin et d’orienter vers le bon accompagnement."
+      },
+      {
+        "question": "Le cabinet accompagne-t-il les créateurs et dirigeants de TPE ?",
+        "answer": "Le parcours met en avant les demandes fréquentes des dirigeants : création, obligations comptables, échéances fiscales et suivi de gestion."
+      },
+      {
+        "question": "Comment se passe le premier contact ?",
+        "answer": "Vous pouvez appeler, envoyer un email ou décrire votre situation via le formulaire afin de préparer un échange utile."
+      },
+      {
+        "question": "Quels éléments préparer avant un rendez-vous ?",
+        "answer": "Le contexte de l’entreprise, les échéances proches, les documents disponibles et le motif de la demande suffisent pour démarrer."
+      }
+    ],
+    "prospecting": {
+      "channel": "Email",
+      "nextAction": "Générer démo + email",
+      "reason": "Angle fort + email disponible",
+      "confidence": "Moyenne",
+      "verdict": "Sans site confirmé - à prospecter",
+      "sources": "Allbiz, 36comptables et Compteo confirment cabinet, adresse, téléphone, email/services. https://www.allbiz.fr/cmj-expertise-comptable-02-23-30-03-40 | https://36comptables.com/annuaire/cmj-expertise-comptable | https://www.compteo.fr/expert-comptable/cmjexpertisecomptable-15962"
+    }
+  },
+  {
+    "slug": "cabinet-farah-lyon",
+    "template": "expert-comptable",
+    "name": "CABINET FARAH",
+    "sector": "Expertise comptable & audit",
+    "city": "Lyon",
+    "phone": "04 78 18 38 12",
+    "phoneHref": "0478183812",
+    "email": "contact@cabinet-farah.fr",
+    "address": "84 Rue de Marseille",
+    "currentSite": "https://www.cabinet-farah.fr/",
+    "demoPath": "/demo/cabinet-farah-lyon",
+    "sourceOpportunity": "Site trouvé après vérification",
+    "primaryColor": "#172238",
+    "accentColor": "#9b6a2f",
+    "tagline": "Une vitrine comptable plus lisible, plus crédible et plus orientée contact.",
+    "proof": "Moderniser la présentation du cabinet sans changer son positionnement.",
+    "intro": "J'ai regardé la présence web de CABINET FARAH. J'ai préparé une maquette courte pour montrer comment rendre l'offre plus lisible, plus rassurante et plus simple à contacter.",
+    "heroTitle": "CABINET FARAH, expertise comptable, audit et conseil à Lyon",
+    "heroSummary": "Une page structurée pour présenter expertise comptable, audit, conseil et faciliter la prise de contact.",
+    "heroStats": [
+      {
+        "title": "Audit & conseil",
+        "text": "Une présentation adaptée aux missions d’audit, de conseil et d’expertise comptable."
+      },
+      {
+        "title": "Parcours simplifié",
+        "text": "Des services, preuves et coordonnées plus faciles à trouver."
+      },
+      {
+        "title": "Lyon et alentours",
+        "text": "Des coordonnées locales visibles dès les premières secondes."
+      }
+    ],
+    "services": [
+      "Expertise comptable",
+      "Audit & conformité",
+      "Conseil dirigeant",
+      "Fiscalité"
+    ],
+    "serviceCards": [
+      {
+        "title": "Expertise comptable",
+        "label": "Tenue, révision, bilans",
+        "text": "Une présentation claire des missions comptables pour aider les dirigeants à comprendre rapidement le périmètre d’accompagnement.",
+        "image": "https://images.pexels.com/photos/8296970/pexels-photo-8296970.jpeg?auto=compress&cs=tinysrgb&w=1400",
+        "featured": true
+      },
+      {
+        "title": "Audit & conformité",
+        "label": "Fiabilité, contrôle, sécurisation",
+        "text": "Un espace pour valoriser les missions d’audit, de commissariat aux comptes et de sécurisation financière.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Conseil dirigeant",
+        "label": "Décisions, organisation, suivi",
+        "text": "Des repères utiles pour accompagner les choix de gestion, structurer les priorités et préparer les échanges importants.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Fiscalité",
+        "label": "Déclarations & échéances",
+        "text": "Des informations compréhensibles sur les obligations fiscales et les échéances à anticiper.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Pilotage",
+        "label": "Trésorerie, marges, tableaux de bord",
+        "text": "Des points de suivi pour comprendre la rentabilité, la trésorerie et les priorités de gestion.",
+        "image": "https://images.pexels.com/photos/8297220/pexels-photo-8297220.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "featured": false
+      },
+      {
+        "title": "Contact local",
+        "label": "Téléphone, email, adresse",
+        "text": "Des coordonnées visibles rapidement pour réduire les frictions avant la prise de contact.",
+        "image": "https://images.pexels.com/photos/8439661/pexels-photo-8439661.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "featured": false
+      }
+    ],
+    "zones": [
+      "Lyon",
+      "Centre-ville",
+      "Métropole",
+      "Région"
+    ],
+    "review": "Une présentation claire, rassurante et directement orientée vers la prise de contact.",
+    "ctaLabel": "Envoyer un message",
+    "highlights": [
+      "Site trouvé après vérification",
+      "conseil / audit",
+      "Angle fort + email disponible"
+    ],
+    "trustIntro": "Les dirigeants veulent comprendre rapidement le périmètre d’accompagnement, les interlocuteurs possibles et la façon de lancer un premier échange.",
+    "trustPoints": [
+      "Offre présentée clairement",
+      "Coordonnées visibles et utilisables",
+      "Parcours pensé pour qualifier les demandes",
+      "Message adapté au positionnement du cabinet"
+    ],
+    "contactTitle": "Contacter CABINET FARAH",
+    "contactIntro": "Un premier message permet de présenter la situation, le besoin comptable et les échéances à traiter.",
+    "footerSlogan": "Un accompagnement comptable clair, accessible et pensé pour les dirigeants qui veulent avancer sereinement.",
+    "faqs": [
+      {
+        "question": "Quels sujets peut-on évoquer lors d’un premier échange ?",
+        "answer": "Expertise comptable, audit, conseil, échéances ou organisation interne : l’objectif est de clarifier le besoin et d’orienter vers le bon accompagnement."
+      },
+      {
+        "question": "Le cabinet accompagne-t-il les dirigeants de TPE et PME ?",
+        "answer": "Le parcours met en avant les demandes fréquentes des dirigeants : suivi comptable, fiscalité, pilotage, sécurisation et décisions de gestion."
+      },
+      {
+        "question": "Comment se passe le premier contact ?",
+        "answer": "Vous pouvez appeler, envoyer un email ou décrire votre situation via le formulaire afin de préparer un échange utile."
+      },
+      {
+        "question": "Quels éléments préparer avant un rendez-vous ?",
+        "answer": "Le contexte de l’entreprise, les échéances proches, les documents disponibles et le motif de la demande suffisent pour démarrer."
+      }
+    ],
+    "prospecting": {
+      "channel": "Email",
+      "nextAction": "Générer démo + email",
+      "reason": "Angle fort + email disponible",
+      "confidence": "Forte",
+      "verdict": "Site trouvé après vérification - à prospecter",
+      "sources": "Site officiel, page coordonnées et mentions légales confirment adresse, téléphone, email et activité. https://www.cabinet-farah.fr/ | https://www.cabinet-farah.fr/coordonnées/ | https://www.cabinet-farah.fr/mentions_legales/"
+    }
+  },
+  {
+    "slug": "bms-societe-d-expertise-comptable-rennes",
+    "template": "expert-comptable",
+    "name": "BMS Société d'Expertise Comptable",
+    "sector": "Expertise comptable",
+    "city": "Rennes",
+    "phone": "02 99 60 99 60",
+    "phoneHref": "0299609960",
+    "email": "chavagne@sabms.eu",
+    "address": "123 Rue du Temple de Blosne",
+    "currentSite": "https://www.sabms.eu/",
+    "demoPath": "/demo/bms-societe-d-expertise-comptable-rennes",
+    "sourceOpportunity": "Site trouvé après vérification",
+    "primaryColor": "#172238",
+    "accentColor": "#c7a15a",
+    "tagline": "Une vitrine comptable plus lisible, plus crédible et plus orientée contact.",
+    "proof": "Moderniser la présentation du cabinet sans changer son positionnement.",
+    "intro": "J'ai regardé la présence web de BMS Société d'Expertise Comptable. J'ai préparé une maquette courte pour montrer comment rendre l'offre plus lisible, plus rassurante et plus simple à contacter.",
+    "heroTitle": "BMS Société d'Expertise Comptable, expertise comptable et accompagnement des dirigeants à Rennes",
+    "heroSummary": "Une page d’accueil plus claire pour présenter les missions du cabinet, rassurer les dirigeants et simplifier la prise de contact.",
+    "heroStats": [
+      {
+        "title": "TPE & dirigeants",
+        "text": "Des missions formulées pour les entrepreneurs et entreprises locales."
+      },
+      {
+        "title": "Parcours simplifié",
+        "text": "Des services, preuves et coordonnées plus faciles à trouver."
+      },
+      {
+        "title": "Rennes et alentours",
+        "text": "Des coordonnées locales visibles dès les premières secondes."
+      }
+    ],
+    "services": [
+      "Expertise comptable",
+      "Fiscalité",
+      "Paie & social",
+      "Création d’entreprise"
+    ],
+    "serviceCards": [
+      {
+        "title": "Expertise comptable",
+        "label": "Tenue, révision, bilans",
+        "text": "Une présentation claire des missions comptables pour aider les dirigeants à comprendre rapidement le périmètre d’accompagnement.",
+        "image": "https://images.pexels.com/photos/8296970/pexels-photo-8296970.jpeg?auto=compress&cs=tinysrgb&w=1400",
+        "featured": true
+      },
+      {
+        "title": "Fiscalité",
+        "label": "Déclarations & conseil",
+        "text": "Des repères simples pour expliquer les obligations fiscales, les échéances et les décisions à anticiper.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Paie & social",
+        "label": "Bulletins, charges, suivi RH",
+        "text": "Un suivi clair pour sécuriser les bulletins, les charges et les obligations courantes de l’employeur.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Création d’entreprise",
+        "label": "Choix, lancement, premiers outils",
+        "text": "Des repères pour créer, reprendre ou structurer une activité avec une base comptable propre.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Pilotage",
+        "label": "Trésorerie, marges, tableaux de bord",
+        "text": "Des points de suivi pour comprendre la rentabilité, la trésorerie et les priorités de gestion.",
+        "image": "https://images.pexels.com/photos/8297220/pexels-photo-8297220.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "featured": false
+      },
+      {
+        "title": "Contact local",
+        "label": "Téléphone, email, adresse",
+        "text": "Des coordonnées visibles rapidement pour réduire les frictions avant la prise de contact.",
+        "image": "https://images.pexels.com/photos/8439661/pexels-photo-8439661.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "featured": false
+      }
+    ],
+    "zones": [
+      "Rennes",
+      "Centre-ville",
+      "Métropole",
+      "Région"
+    ],
+    "review": "Une présentation claire, rassurante et directement orientée vers la prise de contact.",
+    "ctaLabel": "Envoyer un message",
+    "highlights": [
+      "Site trouvé après vérification",
+      "généraliste",
+      "Angle fort + email disponible"
+    ],
+    "trustIntro": "Les dirigeants veulent comprendre rapidement le périmètre d’accompagnement, les interlocuteurs possibles et la façon de lancer un premier échange.",
+    "trustPoints": [
+      "Offre présentée clairement",
+      "Coordonnées visibles et utilisables",
+      "Parcours pensé pour qualifier les demandes",
+      "Message adapté au positionnement du cabinet"
+    ],
+    "contactTitle": "Contacter BMS Société d'Expertise Comptable",
+    "contactIntro": "Un premier message permet de présenter la situation, le besoin comptable et les échéances à traiter.",
+    "footerSlogan": "Un accompagnement comptable clair, accessible et pensé pour les dirigeants qui veulent avancer sereinement.",
+    "faqs": [
+      {
+        "question": "Quels besoins comptables peut-on évoquer lors d’un premier échange ?",
+        "answer": "Comptabilité, fiscalité, paie, création ou pilotage : l’objectif est de clarifier le besoin et d’orienter vers le bon accompagnement."
+      },
+      {
+        "question": "Le cabinet accompagne-t-il les créateurs et dirigeants de TPE ?",
+        "answer": "Le parcours met en avant les demandes fréquentes des dirigeants : création, obligations comptables, échéances fiscales et suivi de gestion."
+      },
+      {
+        "question": "Comment se passe le premier contact ?",
+        "answer": "Vous pouvez appeler, envoyer un email ou décrire votre situation via le formulaire afin de préparer un échange utile."
+      },
+      {
+        "question": "Quels éléments préparer avant un rendez-vous ?",
+        "answer": "Le contexte de l’entreprise, les échéances proches, les documents disponibles et le motif de la demande suffisent pour démarrer."
+      }
+    ],
+    "prospecting": {
+      "channel": "Email",
+      "nextAction": "Générer démo + email",
+      "reason": "Angle fort + email disponible",
+      "confidence": "Forte",
+      "verdict": "Site trouvé après vérification - à prospecter",
+      "sources": "Site officiel BMS et Allbiz confirment site/adresse ; contact indique chavagne@sabms.eu. https://www.sabms.eu/ | https://www.allbiz.fr/bms-soci%C3%A9t%C3%A9-dexpertise-comptable-02-99-60-99-60"
+    }
+  },
+  {
+    "slug": "lf-experts-la-fiduciaire-de-l-entreprise-lyon",
+    "template": "expert-comptable",
+    "name": "LF Experts - La Fiduciaire de l'Entreprise",
+    "sector": "Expertise comptable",
+    "city": "Lyon",
+    "phone": "04 78 14 55 75",
+    "phoneHref": "0478145575",
+    "email": "office@lfexperts.fr",
+    "address": "124 Rue Sully",
+    "currentSite": "https://infos.votrexpert.com/FIDUCIAIRE_ENTREPRISE/qui_sommes_nous/",
+    "demoPath": "/demo/lf-experts-la-fiduciaire-de-l-entreprise-lyon",
+    "sourceOpportunity": "Site sous annuaire / vitrine faible",
+    "primaryColor": "#172238",
+    "accentColor": "#c7a15a",
+    "tagline": "Une présence plus claire pour transformer les visiteurs en demandes de contact.",
+    "proof": "Clarifier une présence existante difficile à exploiter ou trop peu lisible.",
+    "intro": "J'ai vu que la présence web de LF Experts - La Fiduciaire de l'Entreprise existe, mais qu'elle pourrait être plus claire et plus directement orientée contact. J'ai préparé une maquette courte pour montrer une piste concrète.",
+    "heroTitle": "LF Experts - La Fiduciaire de l'Entreprise, expertise comptable et accompagnement des dirigeants à Lyon",
+    "heroSummary": "Une page d’accueil plus claire pour présenter les missions du cabinet, rassurer les dirigeants et simplifier la prise de contact.",
+    "heroStats": [
+      {
+        "title": "TPE & dirigeants",
+        "text": "Des missions formulées pour les entrepreneurs et entreprises locales."
+      },
+      {
+        "title": "Vitrine à clarifier",
+        "text": "Conserver les informations utiles et rendre le parcours plus direct."
+      },
+      {
+        "title": "Lyon et alentours",
+        "text": "Des coordonnées locales visibles dès les premières secondes."
+      }
+    ],
+    "services": [
+      "Expertise comptable",
+      "Fiscalité",
+      "Paie & social",
+      "Création d’entreprise"
+    ],
+    "serviceCards": [
+      {
+        "title": "Expertise comptable",
+        "label": "Tenue, révision, bilans",
+        "text": "Une présentation claire des missions comptables pour aider les dirigeants à comprendre rapidement le périmètre d’accompagnement.",
+        "image": "https://images.pexels.com/photos/8296970/pexels-photo-8296970.jpeg?auto=compress&cs=tinysrgb&w=1400",
+        "featured": true
+      },
+      {
+        "title": "Fiscalité",
+        "label": "Déclarations & conseil",
+        "text": "Des repères simples pour expliquer les obligations fiscales, les échéances et les décisions à anticiper.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Paie & social",
+        "label": "Bulletins, charges, suivi RH",
+        "text": "Un suivi clair pour sécuriser les bulletins, les charges et les obligations courantes de l’employeur.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Création d’entreprise",
+        "label": "Choix, lancement, premiers outils",
+        "text": "Des repères pour créer, reprendre ou structurer une activité avec une base comptable propre.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Pilotage",
+        "label": "Trésorerie, marges, tableaux de bord",
+        "text": "Des points de suivi pour comprendre la rentabilité, la trésorerie et les priorités de gestion.",
+        "image": "https://images.pexels.com/photos/8297220/pexels-photo-8297220.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "featured": false
+      },
+      {
+        "title": "Contact local",
+        "label": "Téléphone, email, adresse",
+        "text": "Des coordonnées visibles rapidement pour réduire les frictions avant la prise de contact.",
+        "image": "https://images.pexels.com/photos/8439661/pexels-photo-8439661.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "featured": false
+      }
+    ],
+    "zones": [
+      "Lyon",
+      "Centre-ville",
+      "Métropole",
+      "Région"
+    ],
+    "review": "Une présentation claire, rassurante et directement orientée vers la prise de contact.",
+    "ctaLabel": "Envoyer un message",
+    "highlights": [
+      "Site sous annuaire / vitrine faible",
+      "généraliste",
+      "Angle fort + email disponible"
+    ],
+    "trustIntro": "Les dirigeants veulent comprendre rapidement le périmètre d’accompagnement, les interlocuteurs possibles et la façon de lancer un premier échange.",
+    "trustPoints": [
+      "Offre présentée clairement",
+      "Coordonnées visibles et utilisables",
+      "Parcours pensé pour qualifier les demandes",
+      "Message adapté au positionnement du cabinet"
+    ],
+    "contactTitle": "Contacter LF Experts - La Fiduciaire de l'Entreprise",
+    "contactIntro": "Un premier message permet de présenter la situation, le besoin comptable et les échéances à traiter.",
+    "footerSlogan": "Une vitrine plus claire pour présenter les missions, rassurer les dirigeants et simplifier la prise de contact.",
+    "faqs": [
+      {
+        "question": "Quels besoins comptables peut-on évoquer lors d’un premier échange ?",
+        "answer": "Comptabilité, fiscalité, paie, création ou pilotage : l’objectif est de clarifier le besoin et d’orienter vers le bon accompagnement."
+      },
+      {
+        "question": "Le cabinet accompagne-t-il les créateurs et dirigeants de TPE ?",
+        "answer": "Le parcours met en avant les demandes fréquentes des dirigeants : création, obligations comptables, échéances fiscales et suivi de gestion."
+      },
+      {
+        "question": "Comment se passe le premier contact ?",
+        "answer": "Vous pouvez appeler, envoyer un email ou décrire votre situation via le formulaire afin de préparer un échange utile."
+      },
+      {
+        "question": "Quels éléments préparer avant un rendez-vous ?",
+        "answer": "Le contexte de l’entreprise, les échéances proches, les documents disponibles et le motif de la demande suffisent pour démarrer."
+      }
+    ],
+    "prospecting": {
+      "channel": "Email",
+      "nextAction": "Générer démo + email",
+      "reason": "Angle fort + email disponible",
+      "confidence": "Moyenne",
+      "verdict": "Site sous annuaire / vitrine faible - à prospecter",
+      "sources": "Page officielle probable : https://infos.votrexpert.com/FIDUCIAIRE_ENTREPRISE/qui_sommes_nous/"
+    }
+  },
+  {
+    "slug": "sigma-expertise-rennes",
+    "template": "expert-comptable",
+    "name": "SIGMA EXPERTISE",
+    "sector": "Expertise comptable",
+    "city": "Rennes",
+    "phone": "02 99 22 03 19",
+    "phoneHref": "0299220319",
+    "email": "contact@sigma-expertise.com",
+    "address": "105 Avenue Henri Freville",
+    "currentSite": "http://www.sigma-expertise.com/",
+    "demoPath": "/demo/sigma-expertise-rennes",
+    "sourceOpportunity": "Site ancien ou technique à vérifier",
+    "primaryColor": "#172238",
+    "accentColor": "#c7a15a",
+    "tagline": "Une présence plus claire pour transformer les visiteurs en demandes de contact.",
+    "proof": "Clarifier une présence existante difficile à exploiter ou trop peu lisible.",
+    "intro": "J'ai vu que la présence web de SIGMA EXPERTISE existe, mais qu'elle pourrait être plus claire et plus directement orientée contact. J'ai préparé une maquette courte pour montrer une piste concrète.",
+    "heroTitle": "SIGMA EXPERTISE, expertise comptable et accompagnement des dirigeants à Rennes",
+    "heroSummary": "Une page d’accueil plus claire pour présenter les missions du cabinet, rassurer les dirigeants et simplifier la prise de contact.",
+    "heroStats": [
+      {
+        "title": "TPE & dirigeants",
+        "text": "Des missions formulées pour les entrepreneurs et entreprises locales."
+      },
+      {
+        "title": "Vitrine à clarifier",
+        "text": "Conserver les informations utiles et rendre le parcours plus direct."
+      },
+      {
+        "title": "Rennes et alentours",
+        "text": "Des coordonnées locales visibles dès les premières secondes."
+      }
+    ],
+    "services": [
+      "Expertise comptable",
+      "Fiscalité",
+      "Paie & social",
+      "Création d’entreprise"
+    ],
+    "serviceCards": [
+      {
+        "title": "Expertise comptable",
+        "label": "Tenue, révision, bilans",
+        "text": "Une présentation claire des missions comptables pour aider les dirigeants à comprendre rapidement le périmètre d’accompagnement.",
+        "image": "https://images.pexels.com/photos/8296970/pexels-photo-8296970.jpeg?auto=compress&cs=tinysrgb&w=1400",
+        "featured": true
+      },
+      {
+        "title": "Fiscalité",
+        "label": "Déclarations & conseil",
+        "text": "Des repères simples pour expliquer les obligations fiscales, les échéances et les décisions à anticiper.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Paie & social",
+        "label": "Bulletins, charges, suivi RH",
+        "text": "Un suivi clair pour sécuriser les bulletins, les charges et les obligations courantes de l’employeur.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Création d’entreprise",
+        "label": "Choix, lancement, premiers outils",
+        "text": "Des repères pour créer, reprendre ou structurer une activité avec une base comptable propre.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Pilotage",
+        "label": "Trésorerie, marges, tableaux de bord",
+        "text": "Des points de suivi pour comprendre la rentabilité, la trésorerie et les priorités de gestion.",
+        "image": "https://images.pexels.com/photos/8297220/pexels-photo-8297220.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "featured": false
+      },
+      {
+        "title": "Contact local",
+        "label": "Téléphone, email, adresse",
+        "text": "Des coordonnées visibles rapidement pour réduire les frictions avant la prise de contact.",
+        "image": "https://images.pexels.com/photos/8439661/pexels-photo-8439661.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "featured": false
+      }
+    ],
+    "zones": [
+      "Rennes",
+      "Centre-ville",
+      "Métropole",
+      "Région"
+    ],
+    "review": "Une présentation claire, rassurante et directement orientée vers la prise de contact.",
+    "ctaLabel": "Envoyer un message",
+    "highlights": [
+      "Site ancien ou technique à vérifier",
+      "généraliste",
+      "Angle fort + email disponible"
+    ],
+    "trustIntro": "Les dirigeants veulent comprendre rapidement le périmètre d’accompagnement, les interlocuteurs possibles et la façon de lancer un premier échange.",
+    "trustPoints": [
+      "Offre présentée clairement",
+      "Coordonnées visibles et utilisables",
+      "Parcours pensé pour qualifier les demandes",
+      "Message adapté au positionnement du cabinet"
+    ],
+    "contactTitle": "Contacter SIGMA EXPERTISE",
+    "contactIntro": "Un premier message permet de présenter la situation, le besoin comptable et les échéances à traiter.",
+    "footerSlogan": "Une vitrine plus claire pour présenter les missions, rassurer les dirigeants et simplifier la prise de contact.",
+    "faqs": [
+      {
+        "question": "Quels besoins comptables peut-on évoquer lors d’un premier échange ?",
+        "answer": "Comptabilité, fiscalité, paie, création ou pilotage : l’objectif est de clarifier le besoin et d’orienter vers le bon accompagnement."
+      },
+      {
+        "question": "Le cabinet accompagne-t-il les créateurs et dirigeants de TPE ?",
+        "answer": "Le parcours met en avant les demandes fréquentes des dirigeants : création, obligations comptables, échéances fiscales et suivi de gestion."
+      },
+      {
+        "question": "Comment se passe le premier contact ?",
+        "answer": "Vous pouvez appeler, envoyer un email ou décrire votre situation via le formulaire afin de préparer un échange utile."
+      },
+      {
+        "question": "Quels éléments préparer avant un rendez-vous ?",
+        "answer": "Le contexte de l’entreprise, les échéances proches, les documents disponibles et le motif de la demande suffisent pour démarrer."
+      }
+    ],
+    "prospecting": {
+      "channel": "Email",
+      "nextAction": "Générer démo + email",
+      "reason": "Angle fort + email disponible",
+      "confidence": "Moyenne",
+      "verdict": "Site ancien ou technique à vérifier - à prospecter",
+      "sources": "Site officiel probable : http://www.sigma-expertise.com/"
+    }
+  },
+  {
+    "slug": "premium-expertise-lyon",
+    "template": "expert-comptable",
+    "name": "Premium Expertise",
+    "sector": "Expertise comptable",
+    "city": "Lyon",
+    "phone": "04 78 83 41 41",
+    "phoneHref": "0478834141",
+    "email": "contact@groupe-abscisse.fr",
+    "address": "40 Rue Laure Diebold",
+    "currentSite": "https://abscisse-compta.fr/",
+    "demoPath": "/demo/premium-expertise-lyon",
+    "sourceOpportunity": "Site existant à auditer",
+    "primaryColor": "#172238",
+    "accentColor": "#c7a15a",
+    "tagline": "Une vitrine comptable plus lisible, plus crédible et plus orientée contact.",
+    "proof": "Moderniser la présentation du cabinet sans changer son positionnement.",
+    "intro": "J'ai regardé la présence web de Premium Expertise. J'ai préparé une maquette courte pour montrer comment rendre l'offre plus lisible, plus rassurante et plus simple à contacter.",
+    "heroTitle": "Premium Expertise, expertise comptable et accompagnement des dirigeants à Lyon",
+    "heroSummary": "Une page d’accueil plus claire pour présenter les missions du cabinet, rassurer les dirigeants et simplifier la prise de contact.",
+    "heroStats": [
+      {
+        "title": "TPE & dirigeants",
+        "text": "Des missions formulées pour les entrepreneurs et entreprises locales."
+      },
+      {
+        "title": "Parcours simplifié",
+        "text": "Des services, preuves et coordonnées plus faciles à trouver."
+      },
+      {
+        "title": "Lyon et alentours",
+        "text": "Des coordonnées locales visibles dès les premières secondes."
+      }
+    ],
+    "services": [
+      "Expertise comptable",
+      "Fiscalité",
+      "Paie & social",
+      "Création d’entreprise"
+    ],
+    "serviceCards": [
+      {
+        "title": "Expertise comptable",
+        "label": "Tenue, révision, bilans",
+        "text": "Une présentation claire des missions comptables pour aider les dirigeants à comprendre rapidement le périmètre d’accompagnement.",
+        "image": "https://images.pexels.com/photos/8296970/pexels-photo-8296970.jpeg?auto=compress&cs=tinysrgb&w=1400",
+        "featured": true
+      },
+      {
+        "title": "Fiscalité",
+        "label": "Déclarations & conseil",
+        "text": "Des repères simples pour expliquer les obligations fiscales, les échéances et les décisions à anticiper.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Paie & social",
+        "label": "Bulletins, charges, suivi RH",
+        "text": "Un suivi clair pour sécuriser les bulletins, les charges et les obligations courantes de l’employeur.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Création d’entreprise",
+        "label": "Choix, lancement, premiers outils",
+        "text": "Des repères pour créer, reprendre ou structurer une activité avec une base comptable propre.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Pilotage",
+        "label": "Trésorerie, marges, tableaux de bord",
+        "text": "Des points de suivi pour comprendre la rentabilité, la trésorerie et les priorités de gestion.",
+        "image": "https://images.pexels.com/photos/8297220/pexels-photo-8297220.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "featured": false
+      },
+      {
+        "title": "Contact local",
+        "label": "Téléphone, email, adresse",
+        "text": "Des coordonnées visibles rapidement pour réduire les frictions avant la prise de contact.",
+        "image": "https://images.pexels.com/photos/8439661/pexels-photo-8439661.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "featured": false
+      }
+    ],
+    "zones": [
+      "Lyon",
+      "Centre-ville",
+      "Métropole",
+      "Région"
+    ],
+    "review": "Une présentation claire, rassurante et directement orientée vers la prise de contact.",
+    "ctaLabel": "Envoyer un message",
+    "highlights": [
+      "Site existant à auditer",
+      "généraliste",
+      "Angle fort + email disponible"
+    ],
+    "trustIntro": "Les dirigeants veulent comprendre rapidement le périmètre d’accompagnement, les interlocuteurs possibles et la façon de lancer un premier échange.",
+    "trustPoints": [
+      "Offre présentée clairement",
+      "Coordonnées visibles et utilisables",
+      "Parcours pensé pour qualifier les demandes",
+      "Message adapté au positionnement du cabinet"
+    ],
+    "contactTitle": "Contacter Premium Expertise",
+    "contactIntro": "Un premier message permet de présenter la situation, le besoin comptable et les échéances à traiter.",
+    "footerSlogan": "Un accompagnement comptable clair, accessible et pensé pour les dirigeants qui veulent avancer sereinement.",
+    "faqs": [
+      {
+        "question": "Quels besoins comptables peut-on évoquer lors d’un premier échange ?",
+        "answer": "Comptabilité, fiscalité, paie, création ou pilotage : l’objectif est de clarifier le besoin et d’orienter vers le bon accompagnement."
+      },
+      {
+        "question": "Le cabinet accompagne-t-il les créateurs et dirigeants de TPE ?",
+        "answer": "Le parcours met en avant les demandes fréquentes des dirigeants : création, obligations comptables, échéances fiscales et suivi de gestion."
+      },
+      {
+        "question": "Comment se passe le premier contact ?",
+        "answer": "Vous pouvez appeler, envoyer un email ou décrire votre situation via le formulaire afin de préparer un échange utile."
+      },
+      {
+        "question": "Quels éléments préparer avant un rendez-vous ?",
+        "answer": "Le contexte de l’entreprise, les échéances proches, les documents disponibles et le motif de la demande suffisent pour démarrer."
+      }
+    ],
+    "prospecting": {
+      "channel": "Email",
+      "nextAction": "Générer démo + email",
+      "reason": "Angle fort + email disponible",
+      "confidence": "Moyenne",
+      "verdict": "Site existant à auditer - à prospecter",
+      "sources": "Site probable : https://abscisse-compta.fr/contact/"
+    }
+  },
+  {
+    "slug": "ac2f-cabinet-d-expertise-comptable-rennes",
+    "template": "expert-comptable",
+    "name": "AC2F | Cabinet d'expertise comptable",
+    "sector": "Expertise comptable",
+    "city": "Rennes",
+    "phone": "02 99 36 87 55",
+    "phoneHref": "0299368755",
+    "email": "contact@ac2f-ec.fr",
+    "address": "2C Allée Jacques Frimot",
+    "currentSite": "https://ac2f-ec.fr/",
+    "demoPath": "/demo/ac2f-cabinet-d-expertise-comptable-rennes",
+    "sourceOpportunity": "Site existant à auditer",
+    "primaryColor": "#172238",
+    "accentColor": "#c7a15a",
+    "tagline": "Une vitrine comptable plus lisible, plus crédible et plus orientée contact.",
+    "proof": "Moderniser la présentation du cabinet sans changer son positionnement.",
+    "intro": "J'ai regardé la présence web de AC2F | Cabinet d'expertise comptable. J'ai préparé une maquette courte pour montrer comment rendre l'offre plus lisible, plus rassurante et plus simple à contacter.",
+    "heroTitle": "AC2F | Cabinet d'expertise comptable, expertise comptable et accompagnement des dirigeants à Rennes",
+    "heroSummary": "Une page d’accueil plus claire pour présenter les missions du cabinet, rassurer les dirigeants et simplifier la prise de contact.",
+    "heroStats": [
+      {
+        "title": "TPE & dirigeants",
+        "text": "Des missions formulées pour les entrepreneurs et entreprises locales."
+      },
+      {
+        "title": "Parcours simplifié",
+        "text": "Des services, preuves et coordonnées plus faciles à trouver."
+      },
+      {
+        "title": "Rennes et alentours",
+        "text": "Des coordonnées locales visibles dès les premières secondes."
+      }
+    ],
+    "services": [
+      "Expertise comptable",
+      "Fiscalité",
+      "Paie & social",
+      "Création d’entreprise"
+    ],
+    "serviceCards": [
+      {
+        "title": "Expertise comptable",
+        "label": "Tenue, révision, bilans",
+        "text": "Une présentation claire des missions comptables pour aider les dirigeants à comprendre rapidement le périmètre d’accompagnement.",
+        "image": "https://images.pexels.com/photos/8296970/pexels-photo-8296970.jpeg?auto=compress&cs=tinysrgb&w=1400",
+        "featured": true
+      },
+      {
+        "title": "Fiscalité",
+        "label": "Déclarations & conseil",
+        "text": "Des repères simples pour expliquer les obligations fiscales, les échéances et les décisions à anticiper.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Paie & social",
+        "label": "Bulletins, charges, suivi RH",
+        "text": "Un suivi clair pour sécuriser les bulletins, les charges et les obligations courantes de l’employeur.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Création d’entreprise",
+        "label": "Choix, lancement, premiers outils",
+        "text": "Des repères pour créer, reprendre ou structurer une activité avec une base comptable propre.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Pilotage",
+        "label": "Trésorerie, marges, tableaux de bord",
+        "text": "Des points de suivi pour comprendre la rentabilité, la trésorerie et les priorités de gestion.",
+        "image": "https://images.pexels.com/photos/8297220/pexels-photo-8297220.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "featured": false
+      },
+      {
+        "title": "Contact local",
+        "label": "Téléphone, email, adresse",
+        "text": "Des coordonnées visibles rapidement pour réduire les frictions avant la prise de contact.",
+        "image": "https://images.pexels.com/photos/8439661/pexels-photo-8439661.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "featured": false
+      }
+    ],
+    "zones": [
+      "Rennes",
+      "Centre-ville",
+      "Métropole",
+      "Région"
+    ],
+    "review": "Une présentation claire, rassurante et directement orientée vers la prise de contact.",
+    "ctaLabel": "Envoyer un message",
+    "highlights": [
+      "Site existant à auditer",
+      "généraliste",
+      "Angle fort + email disponible"
+    ],
+    "trustIntro": "Les dirigeants veulent comprendre rapidement le périmètre d’accompagnement, les interlocuteurs possibles et la façon de lancer un premier échange.",
+    "trustPoints": [
+      "Offre présentée clairement",
+      "Coordonnées visibles et utilisables",
+      "Parcours pensé pour qualifier les demandes",
+      "Message adapté au positionnement du cabinet"
+    ],
+    "contactTitle": "Contacter AC2F | Cabinet d'expertise comptable",
+    "contactIntro": "Un premier message permet de présenter la situation, le besoin comptable et les échéances à traiter.",
+    "footerSlogan": "Un accompagnement comptable clair, accessible et pensé pour les dirigeants qui veulent avancer sereinement.",
+    "faqs": [
+      {
+        "question": "Quels besoins comptables peut-on évoquer lors d’un premier échange ?",
+        "answer": "Comptabilité, fiscalité, paie, création ou pilotage : l’objectif est de clarifier le besoin et d’orienter vers le bon accompagnement."
+      },
+      {
+        "question": "Le cabinet accompagne-t-il les créateurs et dirigeants de TPE ?",
+        "answer": "Le parcours met en avant les demandes fréquentes des dirigeants : création, obligations comptables, échéances fiscales et suivi de gestion."
+      },
+      {
+        "question": "Comment se passe le premier contact ?",
+        "answer": "Vous pouvez appeler, envoyer un email ou décrire votre situation via le formulaire afin de préparer un échange utile."
+      },
+      {
+        "question": "Quels éléments préparer avant un rendez-vous ?",
+        "answer": "Le contexte de l’entreprise, les échéances proches, les documents disponibles et le motif de la demande suffisent pour démarrer."
+      }
+    ],
+    "prospecting": {
+      "channel": "Email",
+      "nextAction": "Générer démo + email",
+      "reason": "Angle fort + email disponible",
+      "confidence": "Moyenne",
+      "verdict": "Site existant à auditer - à prospecter",
+      "sources": "Site officiel probable : https://ac2f-ec.fr/"
+    }
+  },
+  {
+    "slug": "cabinet-delouis-expert-comptable-lyon-lyon",
+    "template": "expert-comptable",
+    "name": "Cabinet Delouis - Expert comptable Lyon",
+    "sector": "Expertise comptable",
+    "city": "Lyon",
+    "phone": "04 78 24 03 88",
+    "phoneHref": "0478240388",
+    "email": "",
+    "address": "44b Rue Commandant Charcot",
+    "currentSite": "",
+    "demoPath": "/demo/cabinet-delouis-expert-comptable-lyon-lyon",
+    "sourceOpportunity": "Sans site confirmé",
+    "primaryColor": "#172238",
+    "accentColor": "#c7a15a",
+    "tagline": "Une première présence web claire, crédible et facile à contacter.",
+    "proof": "Créer une présence web locale crédible à partir des informations publiques.",
+    "intro": "Je n'ai pas trouvé de site officiel clair pour Cabinet Delouis - Expert comptable Lyon. J'ai préparé une maquette simple à partir de vos informations publiques pour montrer ce que pourrait donner une présence web plus lisible.",
+    "heroTitle": "Cabinet Delouis - Expert comptable Lyon, expertise comptable et accompagnement des dirigeants à Lyon",
+    "heroSummary": "Une présence web simple pour présenter le cabinet, rassurer les dirigeants et faciliter la prise de contact.",
+    "heroStats": [
+      {
+        "title": "TPE & dirigeants",
+        "text": "Des missions formulées pour les entrepreneurs et entreprises locales."
+      },
+      {
+        "title": "Présence locale",
+        "text": "Une page autonome pour ne plus dépendre uniquement des annuaires."
+      },
+      {
+        "title": "Lyon et alentours",
+        "text": "Des coordonnées locales visibles dès les premières secondes."
+      }
+    ],
+    "services": [
+      "Expertise comptable",
+      "Fiscalité",
+      "Paie & social",
+      "Création d’entreprise"
+    ],
+    "serviceCards": [
+      {
+        "title": "Expertise comptable",
+        "label": "Tenue, révision, bilans",
+        "text": "Une présentation claire des missions comptables pour aider les dirigeants à comprendre rapidement le périmètre d’accompagnement.",
+        "image": "https://images.pexels.com/photos/8296970/pexels-photo-8296970.jpeg?auto=compress&cs=tinysrgb&w=1400",
+        "featured": true
+      },
+      {
+        "title": "Fiscalité",
+        "label": "Déclarations & conseil",
+        "text": "Des repères simples pour expliquer les obligations fiscales, les échéances et les décisions à anticiper.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Paie & social",
+        "label": "Bulletins, charges, suivi RH",
+        "text": "Un suivi clair pour sécuriser les bulletins, les charges et les obligations courantes de l’employeur.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Création d’entreprise",
+        "label": "Choix, lancement, premiers outils",
+        "text": "Des repères pour créer, reprendre ou structurer une activité avec une base comptable propre.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Pilotage",
+        "label": "Trésorerie, marges, tableaux de bord",
+        "text": "Des points de suivi pour comprendre la rentabilité, la trésorerie et les priorités de gestion.",
+        "image": "https://images.pexels.com/photos/8297220/pexels-photo-8297220.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "featured": false
+      },
+      {
+        "title": "Contact local",
+        "label": "Téléphone, email, adresse",
+        "text": "Des coordonnées visibles rapidement pour réduire les frictions avant la prise de contact.",
+        "image": "https://images.pexels.com/photos/8439661/pexels-photo-8439661.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "featured": false
+      }
+    ],
+    "zones": [
+      "Lyon",
+      "Centre-ville",
+      "Métropole",
+      "Région"
+    ],
+    "review": "Une présentation claire, rassurante et directement orientée vers la prise de contact.",
+    "ctaLabel": "Appeler le cabinet",
+    "highlights": [
+      "Sans site confirmé",
+      "généraliste",
+      "Très bon angle, appel nécessaire"
+    ],
+    "trustIntro": "Les dirigeants veulent comprendre rapidement le périmètre d’accompagnement, les interlocuteurs possibles et la façon de lancer un premier échange.",
+    "trustPoints": [
+      "Offre présentée clairement",
+      "Coordonnées visibles et utilisables",
+      "Parcours pensé pour qualifier les demandes",
+      "Message adapté au positionnement du cabinet"
+    ],
+    "contactTitle": "Contacter Cabinet Delouis - Expert comptable Lyon",
+    "contactIntro": "Un premier message permet de présenter la situation, le besoin comptable et les échéances à traiter.",
+    "footerSlogan": "Une présence web claire pour présenter le cabinet, rassurer les dirigeants et faciliter la prise de contact.",
+    "faqs": [
+      {
+        "question": "Quels besoins comptables peut-on évoquer lors d’un premier échange ?",
+        "answer": "Comptabilité, fiscalité, paie, création ou pilotage : l’objectif est de clarifier le besoin et d’orienter vers le bon accompagnement."
+      },
+      {
+        "question": "Le cabinet accompagne-t-il les créateurs et dirigeants de TPE ?",
+        "answer": "Le parcours met en avant les demandes fréquentes des dirigeants : création, obligations comptables, échéances fiscales et suivi de gestion."
+      },
+      {
+        "question": "Comment se passe le premier contact ?",
+        "answer": "Vous pouvez appeler, envoyer un email ou décrire votre situation via le formulaire afin de préparer un échange utile."
+      },
+      {
+        "question": "Quels éléments préparer avant un rendez-vous ?",
+        "answer": "Le contexte de l’entreprise, les échéances proches, les documents disponibles et le motif de la demande suffisent pour démarrer."
+      }
+    ],
+    "prospecting": {
+      "channel": "Appel d'abord",
+      "nextAction": "Préparer appel + lien démo",
+      "reason": "Très bon angle, appel nécessaire",
+      "confidence": "Moyenne",
+      "verdict": "Sans site confirmé - à prospecter",
+      "sources": "Pappers indique site non disponible ; Compteo/OEC confirment l'activité. https://www.pappers.fr/entreprise/cabinet-herve-delouis-393510607 | https://www.compteo.fr/expert-comptable/cabinetdelouis-19723"
+    }
+  },
+  {
+    "slug": "expr-cab-expert-comptable-lyon",
+    "template": "expert-comptable",
+    "name": "EXPR CAB' - Expert-comptable",
+    "sector": "Expertise comptable",
+    "city": "Lyon",
+    "phone": "07 66 27 86 00",
+    "phoneHref": "0766278600",
+    "email": "",
+    "address": "129 Rue Vauban",
+    "currentSite": "",
+    "demoPath": "/demo/expr-cab-expert-comptable-lyon",
+    "sourceOpportunity": "Sans site confirmé",
+    "primaryColor": "#172238",
+    "accentColor": "#c7a15a",
+    "tagline": "Une première présence web claire, crédible et facile à contacter.",
+    "proof": "Créer une présence web locale crédible à partir des informations publiques.",
+    "intro": "Je n'ai pas trouvé de site officiel clair pour EXPR CAB' - Expert-comptable. J'ai préparé une maquette simple à partir de vos informations publiques pour montrer ce que pourrait donner une présence web plus lisible.",
+    "heroTitle": "EXPR CAB' - Expert-comptable, expertise comptable et accompagnement des dirigeants à Lyon",
+    "heroSummary": "Une présence web simple pour présenter le cabinet, rassurer les dirigeants et faciliter la prise de contact.",
+    "heroStats": [
+      {
+        "title": "TPE & dirigeants",
+        "text": "Des missions formulées pour les entrepreneurs et entreprises locales."
+      },
+      {
+        "title": "Présence locale",
+        "text": "Une page autonome pour ne plus dépendre uniquement des annuaires."
+      },
+      {
+        "title": "Lyon et alentours",
+        "text": "Des coordonnées locales visibles dès les premières secondes."
+      }
+    ],
+    "services": [
+      "Expertise comptable",
+      "Fiscalité",
+      "Paie & social",
+      "Création d’entreprise"
+    ],
+    "serviceCards": [
+      {
+        "title": "Expertise comptable",
+        "label": "Tenue, révision, bilans",
+        "text": "Une présentation claire des missions comptables pour aider les dirigeants à comprendre rapidement le périmètre d’accompagnement.",
+        "image": "https://images.pexels.com/photos/8296970/pexels-photo-8296970.jpeg?auto=compress&cs=tinysrgb&w=1400",
+        "featured": true
+      },
+      {
+        "title": "Fiscalité",
+        "label": "Déclarations & conseil",
+        "text": "Des repères simples pour expliquer les obligations fiscales, les échéances et les décisions à anticiper.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Paie & social",
+        "label": "Bulletins, charges, suivi RH",
+        "text": "Un suivi clair pour sécuriser les bulletins, les charges et les obligations courantes de l’employeur.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Création d’entreprise",
+        "label": "Choix, lancement, premiers outils",
+        "text": "Des repères pour créer, reprendre ou structurer une activité avec une base comptable propre.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Pilotage",
+        "label": "Trésorerie, marges, tableaux de bord",
+        "text": "Des points de suivi pour comprendre la rentabilité, la trésorerie et les priorités de gestion.",
+        "image": "https://images.pexels.com/photos/8297220/pexels-photo-8297220.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "featured": false
+      },
+      {
+        "title": "Contact local",
+        "label": "Téléphone, email, adresse",
+        "text": "Des coordonnées visibles rapidement pour réduire les frictions avant la prise de contact.",
+        "image": "https://images.pexels.com/photos/8439661/pexels-photo-8439661.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "featured": false
+      }
+    ],
+    "zones": [
+      "Lyon",
+      "Centre-ville",
+      "Métropole",
+      "Région"
+    ],
+    "review": "Une présentation claire, rassurante et directement orientée vers la prise de contact.",
+    "ctaLabel": "Appeler le cabinet",
+    "highlights": [
+      "Sans site confirmé",
+      "généraliste",
+      "Très bon angle, appel nécessaire"
+    ],
+    "trustIntro": "Les dirigeants veulent comprendre rapidement le périmètre d’accompagnement, les interlocuteurs possibles et la façon de lancer un premier échange.",
+    "trustPoints": [
+      "Offre présentée clairement",
+      "Coordonnées visibles et utilisables",
+      "Parcours pensé pour qualifier les demandes",
+      "Message adapté au positionnement du cabinet"
+    ],
+    "contactTitle": "Contacter EXPR CAB' - Expert-comptable",
+    "contactIntro": "Un premier message permet de présenter la situation, le besoin comptable et les échéances à traiter.",
+    "footerSlogan": "Une présence web claire pour présenter le cabinet, rassurer les dirigeants et faciliter la prise de contact.",
+    "faqs": [
+      {
+        "question": "Quels besoins comptables peut-on évoquer lors d’un premier échange ?",
+        "answer": "Comptabilité, fiscalité, paie, création ou pilotage : l’objectif est de clarifier le besoin et d’orienter vers le bon accompagnement."
+      },
+      {
+        "question": "Le cabinet accompagne-t-il les créateurs et dirigeants de TPE ?",
+        "answer": "Le parcours met en avant les demandes fréquentes des dirigeants : création, obligations comptables, échéances fiscales et suivi de gestion."
+      },
+      {
+        "question": "Comment se passe le premier contact ?",
+        "answer": "Vous pouvez appeler, envoyer un email ou décrire votre situation via le formulaire afin de préparer un échange utile."
+      },
+      {
+        "question": "Quels éléments préparer avant un rendez-vous ?",
+        "answer": "Le contexte de l’entreprise, les échéances proches, les documents disponibles et le motif de la demande suffisent pour démarrer."
+      }
+    ],
+    "prospecting": {
+      "channel": "Appel d'abord",
+      "nextAction": "Préparer appel + lien démo",
+      "reason": "Très bon angle, appel nécessaire",
+      "confidence": "Moyenne",
+      "verdict": "Sans site confirmé - à prospecter",
+      "sources": "Pappers et OEC confirment EURL active, adresse et expert-comptable. https://www.pappers.fr/entreprise/expr-cab-952644995 | https://annuaire.experts-comptables.org/expert-comptable/33000-expr-cab-lyon-69006"
+    }
+  },
+  {
+    "slug": "hl-accounting-lyon",
+    "template": "expert-comptable",
+    "name": "HL ACCOUNTING",
+    "sector": "Expertise comptable",
+    "city": "Lyon",
+    "phone": "04 78 89 02 67",
+    "phoneHref": "0478890267",
+    "email": "",
+    "address": "57 Rue de Crequi",
+    "currentSite": "",
+    "demoPath": "/demo/hl-accounting-lyon",
+    "sourceOpportunity": "Sans site confirmé",
+    "primaryColor": "#172238",
+    "accentColor": "#c7a15a",
+    "tagline": "Une première présence web claire, crédible et facile à contacter.",
+    "proof": "Créer une présence web locale crédible à partir des informations publiques.",
+    "intro": "Je n'ai pas trouvé de site officiel clair pour HL ACCOUNTING. J'ai préparé une maquette simple à partir de vos informations publiques pour montrer ce que pourrait donner une présence web plus lisible.",
+    "heroTitle": "HL ACCOUNTING, expertise comptable et accompagnement des dirigeants à Lyon",
+    "heroSummary": "Une présence web simple pour présenter le cabinet, rassurer les dirigeants et faciliter la prise de contact.",
+    "heroStats": [
+      {
+        "title": "TPE & dirigeants",
+        "text": "Des missions formulées pour les entrepreneurs et entreprises locales."
+      },
+      {
+        "title": "Présence locale",
+        "text": "Une page autonome pour ne plus dépendre uniquement des annuaires."
+      },
+      {
+        "title": "Lyon et alentours",
+        "text": "Des coordonnées locales visibles dès les premières secondes."
+      }
+    ],
+    "services": [
+      "Expertise comptable",
+      "Fiscalité",
+      "Paie & social",
+      "Création d’entreprise"
+    ],
+    "serviceCards": [
+      {
+        "title": "Expertise comptable",
+        "label": "Tenue, révision, bilans",
+        "text": "Une présentation claire des missions comptables pour aider les dirigeants à comprendre rapidement le périmètre d’accompagnement.",
+        "image": "https://images.pexels.com/photos/8296970/pexels-photo-8296970.jpeg?auto=compress&cs=tinysrgb&w=1400",
+        "featured": true
+      },
+      {
+        "title": "Fiscalité",
+        "label": "Déclarations & conseil",
+        "text": "Des repères simples pour expliquer les obligations fiscales, les échéances et les décisions à anticiper.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Paie & social",
+        "label": "Bulletins, charges, suivi RH",
+        "text": "Un suivi clair pour sécuriser les bulletins, les charges et les obligations courantes de l’employeur.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Création d’entreprise",
+        "label": "Choix, lancement, premiers outils",
+        "text": "Des repères pour créer, reprendre ou structurer une activité avec une base comptable propre.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Pilotage",
+        "label": "Trésorerie, marges, tableaux de bord",
+        "text": "Des points de suivi pour comprendre la rentabilité, la trésorerie et les priorités de gestion.",
+        "image": "https://images.pexels.com/photos/8297220/pexels-photo-8297220.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "featured": false
+      },
+      {
+        "title": "Contact local",
+        "label": "Téléphone, email, adresse",
+        "text": "Des coordonnées visibles rapidement pour réduire les frictions avant la prise de contact.",
+        "image": "https://images.pexels.com/photos/8439661/pexels-photo-8439661.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "featured": false
+      }
+    ],
+    "zones": [
+      "Lyon",
+      "Centre-ville",
+      "Métropole",
+      "Région"
+    ],
+    "review": "Une présentation claire, rassurante et directement orientée vers la prise de contact.",
+    "ctaLabel": "Appeler le cabinet",
+    "highlights": [
+      "Sans site confirmé",
+      "généraliste",
+      "Très bon angle, appel nécessaire"
+    ],
+    "trustIntro": "Les dirigeants veulent comprendre rapidement le périmètre d’accompagnement, les interlocuteurs possibles et la façon de lancer un premier échange.",
+    "trustPoints": [
+      "Offre présentée clairement",
+      "Coordonnées visibles et utilisables",
+      "Parcours pensé pour qualifier les demandes",
+      "Message adapté au positionnement du cabinet"
+    ],
+    "contactTitle": "Contacter HL ACCOUNTING",
+    "contactIntro": "Un premier message permet de présenter la situation, le besoin comptable et les échéances à traiter.",
+    "footerSlogan": "Une présence web claire pour présenter le cabinet, rassurer les dirigeants et faciliter la prise de contact.",
+    "faqs": [
+      {
+        "question": "Quels besoins comptables peut-on évoquer lors d’un premier échange ?",
+        "answer": "Comptabilité, fiscalité, paie, création ou pilotage : l’objectif est de clarifier le besoin et d’orienter vers le bon accompagnement."
+      },
+      {
+        "question": "Le cabinet accompagne-t-il les créateurs et dirigeants de TPE ?",
+        "answer": "Le parcours met en avant les demandes fréquentes des dirigeants : création, obligations comptables, échéances fiscales et suivi de gestion."
+      },
+      {
+        "question": "Comment se passe le premier contact ?",
+        "answer": "Vous pouvez appeler, envoyer un email ou décrire votre situation via le formulaire afin de préparer un échange utile."
+      },
+      {
+        "question": "Quels éléments préparer avant un rendez-vous ?",
+        "answer": "Le contexte de l’entreprise, les échéances proches, les documents disponibles et le motif de la demande suffisent pour démarrer."
+      }
+    ],
+    "prospecting": {
+      "channel": "Appel d'abord",
+      "nextAction": "Préparer appel + lien démo",
+      "reason": "Très bon angle, appel nécessaire",
+      "confidence": "Moyenne",
+      "verdict": "Sans site confirmé - à prospecter",
+      "sources": "Pappers et Compteo confirment profession d'expert-comptable et services. https://www.pappers.fr/entreprise/hl-accounting-843517731 | https://www.compteo.fr/expert-comptable/hlaccounting-19555"
+    }
+  },
+  {
+    "slug": "agexio-rennes",
+    "template": "expert-comptable",
+    "name": "Agexio",
+    "sector": "Expertise comptable",
+    "city": "Rennes",
+    "phone": "02 23 22 17 83",
+    "phoneHref": "0223221783",
+    "email": "",
+    "address": "10 Rue Franz Heller",
+    "currentSite": "",
+    "demoPath": "/demo/agexio-rennes",
+    "sourceOpportunity": "Sans site confirmé",
+    "primaryColor": "#172238",
+    "accentColor": "#c7a15a",
+    "tagline": "Une première présence web claire, crédible et facile à contacter.",
+    "proof": "Créer une présence web locale crédible à partir des informations publiques.",
+    "intro": "Je n'ai pas trouvé de site officiel clair pour Agexio. J'ai préparé une maquette simple à partir de vos informations publiques pour montrer ce que pourrait donner une présence web plus lisible.",
+    "heroTitle": "Agexio, expertise comptable et accompagnement des dirigeants à Rennes",
+    "heroSummary": "Une présence web simple pour présenter le cabinet, rassurer les dirigeants et faciliter la prise de contact.",
+    "heroStats": [
+      {
+        "title": "TPE & dirigeants",
+        "text": "Des missions formulées pour les entrepreneurs et entreprises locales."
+      },
+      {
+        "title": "Présence locale",
+        "text": "Une page autonome pour ne plus dépendre uniquement des annuaires."
+      },
+      {
+        "title": "Rennes et alentours",
+        "text": "Des coordonnées locales visibles dès les premières secondes."
+      }
+    ],
+    "services": [
+      "Expertise comptable",
+      "Fiscalité",
+      "Paie & social",
+      "Création d’entreprise"
+    ],
+    "serviceCards": [
+      {
+        "title": "Expertise comptable",
+        "label": "Tenue, révision, bilans",
+        "text": "Une présentation claire des missions comptables pour aider les dirigeants à comprendre rapidement le périmètre d’accompagnement.",
+        "image": "https://images.pexels.com/photos/8296970/pexels-photo-8296970.jpeg?auto=compress&cs=tinysrgb&w=1400",
+        "featured": true
+      },
+      {
+        "title": "Fiscalité",
+        "label": "Déclarations & conseil",
+        "text": "Des repères simples pour expliquer les obligations fiscales, les échéances et les décisions à anticiper.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Paie & social",
+        "label": "Bulletins, charges, suivi RH",
+        "text": "Un suivi clair pour sécuriser les bulletins, les charges et les obligations courantes de l’employeur.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Création d’entreprise",
+        "label": "Choix, lancement, premiers outils",
+        "text": "Des repères pour créer, reprendre ou structurer une activité avec une base comptable propre.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Pilotage",
+        "label": "Trésorerie, marges, tableaux de bord",
+        "text": "Des points de suivi pour comprendre la rentabilité, la trésorerie et les priorités de gestion.",
+        "image": "https://images.pexels.com/photos/8297220/pexels-photo-8297220.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "featured": false
+      },
+      {
+        "title": "Contact local",
+        "label": "Téléphone, email, adresse",
+        "text": "Des coordonnées visibles rapidement pour réduire les frictions avant la prise de contact.",
+        "image": "https://images.pexels.com/photos/8439661/pexels-photo-8439661.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "featured": false
+      }
+    ],
+    "zones": [
+      "Rennes",
+      "Centre-ville",
+      "Métropole",
+      "Région"
+    ],
+    "review": "Une présentation claire, rassurante et directement orientée vers la prise de contact.",
+    "ctaLabel": "Appeler le cabinet",
+    "highlights": [
+      "Sans site confirmé",
+      "généraliste",
+      "Très bon angle, appel nécessaire"
+    ],
+    "trustIntro": "Les dirigeants veulent comprendre rapidement le périmètre d’accompagnement, les interlocuteurs possibles et la façon de lancer un premier échange.",
+    "trustPoints": [
+      "Offre présentée clairement",
+      "Coordonnées visibles et utilisables",
+      "Parcours pensé pour qualifier les demandes",
+      "Message adapté au positionnement du cabinet"
+    ],
+    "contactTitle": "Contacter Agexio",
+    "contactIntro": "Un premier message permet de présenter la situation, le besoin comptable et les échéances à traiter.",
+    "footerSlogan": "Une présence web claire pour présenter le cabinet, rassurer les dirigeants et faciliter la prise de contact.",
+    "faqs": [
+      {
+        "question": "Quels besoins comptables peut-on évoquer lors d’un premier échange ?",
+        "answer": "Comptabilité, fiscalité, paie, création ou pilotage : l’objectif est de clarifier le besoin et d’orienter vers le bon accompagnement."
+      },
+      {
+        "question": "Le cabinet accompagne-t-il les créateurs et dirigeants de TPE ?",
+        "answer": "Le parcours met en avant les demandes fréquentes des dirigeants : création, obligations comptables, échéances fiscales et suivi de gestion."
+      },
+      {
+        "question": "Comment se passe le premier contact ?",
+        "answer": "Vous pouvez appeler, envoyer un email ou décrire votre situation via le formulaire afin de préparer un échange utile."
+      },
+      {
+        "question": "Quels éléments préparer avant un rendez-vous ?",
+        "answer": "Le contexte de l’entreprise, les échéances proches, les documents disponibles et le motif de la demande suffisent pour démarrer."
+      }
+    ],
+    "prospecting": {
+      "channel": "Appel d'abord",
+      "nextAction": "Préparer appel + lien démo",
+      "reason": "Très bon angle, appel nécessaire",
+      "confidence": "Moyenne",
+      "verdict": "Sans site confirmé - à prospecter",
+      "sources": "Pappers et OEC confirment activité comptable active. https://www.pappers.fr/entreprise/agexio-820776979 | https://annuaire.experts-comptables.org/expert-comptable/21775-agexio-rennes-35700"
+    }
+  },
+  {
+    "slug": "ouest-audit-rennes",
+    "template": "expert-comptable",
+    "name": "Ouest Audit",
+    "sector": "Expertise comptable & audit",
+    "city": "Rennes",
+    "phone": "02 99 14 47 90",
+    "phoneHref": "0299144790",
+    "email": "",
+    "address": "20 Rue du Bourg Nouveau",
+    "currentSite": "",
+    "demoPath": "/demo/ouest-audit-rennes",
+    "sourceOpportunity": "Sans site confirmé",
+    "primaryColor": "#172238",
+    "accentColor": "#9b6a2f",
+    "tagline": "Une première présence web claire, crédible et facile à contacter.",
+    "proof": "Créer une présence web locale crédible à partir des informations publiques.",
+    "intro": "Je n'ai pas trouvé de site officiel clair pour Ouest Audit. J'ai préparé une maquette simple à partir de vos informations publiques pour montrer ce que pourrait donner une présence web plus lisible.",
+    "heroTitle": "Ouest Audit, expertise comptable, audit et conseil à Rennes",
+    "heroSummary": "Une page structurée pour présenter expertise comptable, audit, conseil et faciliter la prise de contact.",
+    "heroStats": [
+      {
+        "title": "Audit & conseil",
+        "text": "Une présentation adaptée aux missions d’audit, de conseil et d’expertise comptable."
+      },
+      {
+        "title": "Présence locale",
+        "text": "Une page autonome pour ne plus dépendre uniquement des annuaires."
+      },
+      {
+        "title": "Rennes et alentours",
+        "text": "Des coordonnées locales visibles dès les premières secondes."
+      }
+    ],
+    "services": [
+      "Expertise comptable",
+      "Audit & conformité",
+      "Conseil dirigeant",
+      "Fiscalité"
+    ],
+    "serviceCards": [
+      {
+        "title": "Expertise comptable",
+        "label": "Tenue, révision, bilans",
+        "text": "Une présentation claire des missions comptables pour aider les dirigeants à comprendre rapidement le périmètre d’accompagnement.",
+        "image": "https://images.pexels.com/photos/8296970/pexels-photo-8296970.jpeg?auto=compress&cs=tinysrgb&w=1400",
+        "featured": true
+      },
+      {
+        "title": "Audit & conformité",
+        "label": "Fiabilité, contrôle, sécurisation",
+        "text": "Un espace pour valoriser les missions d’audit, de commissariat aux comptes et de sécurisation financière.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Conseil dirigeant",
+        "label": "Décisions, organisation, suivi",
+        "text": "Des repères utiles pour accompagner les choix de gestion, structurer les priorités et préparer les échanges importants.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Fiscalité",
+        "label": "Déclarations & échéances",
+        "text": "Des informations compréhensibles sur les obligations fiscales et les échéances à anticiper.",
+        "image": "",
+        "featured": false
+      },
+      {
+        "title": "Pilotage",
+        "label": "Trésorerie, marges, tableaux de bord",
+        "text": "Des points de suivi pour comprendre la rentabilité, la trésorerie et les priorités de gestion.",
+        "image": "https://images.pexels.com/photos/8297220/pexels-photo-8297220.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "featured": false
+      },
+      {
+        "title": "Contact local",
+        "label": "Téléphone, email, adresse",
+        "text": "Des coordonnées visibles rapidement pour réduire les frictions avant la prise de contact.",
+        "image": "https://images.pexels.com/photos/8439661/pexels-photo-8439661.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "featured": false
+      }
+    ],
+    "zones": [
+      "Rennes",
+      "Centre-ville",
+      "Métropole",
+      "Région"
+    ],
+    "review": "Une présentation claire, rassurante et directement orientée vers la prise de contact.",
+    "ctaLabel": "Appeler le cabinet",
+    "highlights": [
+      "Sans site confirmé",
+      "conseil / audit",
+      "Très bon angle, appel nécessaire"
+    ],
+    "trustIntro": "Les dirigeants veulent comprendre rapidement le périmètre d’accompagnement, les interlocuteurs possibles et la façon de lancer un premier échange.",
+    "trustPoints": [
+      "Offre présentée clairement",
+      "Coordonnées visibles et utilisables",
+      "Parcours pensé pour qualifier les demandes",
+      "Message adapté au positionnement du cabinet"
+    ],
+    "contactTitle": "Contacter Ouest Audit",
+    "contactIntro": "Un premier message permet de présenter la situation, le besoin comptable et les échéances à traiter.",
+    "footerSlogan": "Une présence web claire pour présenter le cabinet, rassurer les dirigeants et faciliter la prise de contact.",
+    "faqs": [
+      {
+        "question": "Quels sujets peut-on évoquer lors d’un premier échange ?",
+        "answer": "Expertise comptable, audit, conseil, échéances ou organisation interne : l’objectif est de clarifier le besoin et d’orienter vers le bon accompagnement."
+      },
+      {
+        "question": "Le cabinet accompagne-t-il les dirigeants de TPE et PME ?",
+        "answer": "Le parcours met en avant les demandes fréquentes des dirigeants : suivi comptable, fiscalité, pilotage, sécurisation et décisions de gestion."
+      },
+      {
+        "question": "Comment se passe le premier contact ?",
+        "answer": "Vous pouvez appeler, envoyer un email ou décrire votre situation via le formulaire afin de préparer un échange utile."
+      },
+      {
+        "question": "Quels éléments préparer avant un rendez-vous ?",
+        "answer": "Le contexte de l’entreprise, les échéances proches, les documents disponibles et le motif de la demande suffisent pour démarrer."
+      }
+    ],
+    "prospecting": {
+      "channel": "Appel d'abord",
+      "nextAction": "Préparer appel + lien démo",
+      "reason": "Très bon angle, appel nécessaire",
+      "confidence": "Moyenne",
+      "verdict": "Sans site confirmé - à prospecter",
+      "sources": "Pappers, Société.com et OEC confirment activité/adresse. https://www.pappers.fr/entreprise/ouest-audit-448165027 | https://annuaire.experts-comptables.org/expert-comptable/514-ouest-audit-rennes-35000"
+    }
+  }
+]
