@@ -134,7 +134,7 @@
       "verdict": "Site à réparer - à prospecter",
       "sources": "LinkedIn indique http://atheis.fr ; Webrate signale le site offline ; Pappers confirmé activités comptables/CAC. https://www.linkedin.com/company/atheis | https://webrate.org/site/atheis.fr/ | https://www.pappers.fr/entreprise/atheis-817403793"
     },
-    "heroImage": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=2400"
+    "heroImage": "/images/expert-comptable-hero-minimal.png"
   },
   {
     "slug": "cabinet-pauthier-rennes",
@@ -271,7 +271,7 @@
       "verdict": "Sans site confirmé - à prospecter",
       "sources": "Az-France indique site n.d. ; rapports Pappers citent lpr@cabinet-pauthier.fr ; OEC mentionne Pauthier Loic. https://www.az-france.com/entreprises/cabinet-pauthier-rennes-8-allee-rene-perrault | https://annuaire.experts-comptables.org/"
     },
-    "heroImage": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=2400"
+    "heroImage": "/images/expert-comptable-hero-minimal.png"
   },
   {
     "slug": "christophe-juteau-rennes",
@@ -408,7 +408,7 @@
       "verdict": "Sans site confirmé - à prospecter",
       "sources": "OEC et Pappers confirment adresse, activité et statut actif. https://annuaire.experts-comptables.org/expert-comptable/28521-juteau-christophe-rennes-35000 | https://www.pappers.fr/entreprise/juteau-christophe-423557834"
     },
-    "heroImage": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=2400"
+    "heroImage": "/images/expert-comptable-hero-minimal.png"
   },
   {
     "slug": "cmj-expertise-comptable-rennes",
@@ -545,7 +545,7 @@
       "verdict": "Sans site confirmé - à prospecter",
       "sources": "Allbiz, 36comptables et Compteo confirment cabinet, adresse, téléphone, email/services. https://www.allbiz.fr/cmj-expertise-comptable-02-23-30-03-40 | https://36comptables.com/annuaire/cmj-expertise-comptable | https://www.compteo.fr/expert-comptable/cmjexpertisecomptable-15962"
     },
-    "heroImage": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=2400"
+    "heroImage": "/images/expert-comptable-hero-minimal.png"
   },
   {
     "slug": "cabinet-farah-lyon",
@@ -682,7 +682,7 @@
       "verdict": "Site trouvé après vérification - à prospecter",
       "sources": "Site officiel, page coordonnées et mentions légales confirment adresse, téléphone, email et activité. https://www.cabinet-farah.fr/ | https://www.cabinet-farah.fr/coordonnées/ | https://www.cabinet-farah.fr/mentions_legales/"
     },
-    "heroImage": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=2400"
+    "heroImage": "/images/expert-comptable-hero-minimal.png"
   },
   {
     "slug": "bms-societe-d-expertise-comptable-rennes",
@@ -819,7 +819,7 @@
       "verdict": "Site trouvé après vérification - à prospecter",
       "sources": "Site officiel BMS et Allbiz confirment site/adresse ; contact indique chavagne@sabms.eu. https://www.sabms.eu/ | https://www.allbiz.fr/bms-soci%C3%A9t%C3%A9-dexpertise-comptable-02-99-60-99-60"
     },
-    "heroImage": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=2400"
+    "heroImage": "/images/expert-comptable-hero-minimal.png"
   },
   {
     "slug": "lf-experts-la-fiduciaire-de-l-entreprise-lyon",
@@ -956,7 +956,7 @@
       "verdict": "Site sous annuaire / vitrine faible - à prospecter",
       "sources": "Page officielle probable : https://infos.votrexpert.com/FIDUCIAIRE_ENTREPRISE/qui_sommes_nous/"
     },
-    "heroImage": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=2400"
+    "heroImage": "/images/expert-comptable-hero-minimal.png"
   },
   {
     "slug": "sigma-expertise-rennes",
@@ -1093,7 +1093,7 @@
       "verdict": "Site ancien ou technique à vérifier - à prospecter",
       "sources": "Site officiel probable : http://www.sigma-expertise.com/"
     },
-    "heroImage": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=2400"
+    "heroImage": "/images/expert-comptable-hero-minimal.png"
   },
   {
     "slug": "premium-expertise-lyon",
@@ -1230,7 +1230,7 @@
       "verdict": "Site existant à auditer - à prospecter",
       "sources": "Site probable : https://abscisse-compta.fr/contact/"
     },
-    "heroImage": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=2400"
+    "heroImage": "/images/expert-comptable-hero-minimal.png"
   },
   {
     "slug": "ac2f-cabinet-d-expertise-comptable-rennes",
@@ -1367,7 +1367,7 @@
       "verdict": "Site existant à auditer - à prospecter",
       "sources": "Site officiel probable : https://ac2f-ec.fr/"
     },
-    "heroImage": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=2400"
+    "heroImage": "/images/expert-comptable-hero-minimal.png"
   },
   {
     "slug": "cabinet-delouis-expert-comptable-lyon-lyon",
@@ -1504,7 +1504,7 @@
       "verdict": "Sans site confirmé - à prospecter",
       "sources": "Pappers indique site non disponible ; Compteo/OEC confirment l'activité. https://www.pappers.fr/entreprise/cabinet-herve-delouis-393510607 | https://www.compteo.fr/expert-comptable/cabinetdelouis-19723"
     },
-    "heroImage": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=2400"
+    "heroImage": "/images/expert-comptable-hero-minimal.png"
   },
   {
     "slug": "expr-cab-expert-comptable-lyon",
@@ -1641,7 +1641,7 @@
       "verdict": "Sans site confirmé - à prospecter",
       "sources": "Pappers et OEC confirment EURL active, adresse et expert-comptable. https://www.pappers.fr/entreprise/expr-cab-952644995 | https://annuaire.experts-comptables.org/expert-comptable/33000-expr-cab-lyon-69006"
     },
-    "heroImage": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=2400"
+    "heroImage": "/images/expert-comptable-hero-minimal.png"
   },
   {
     "slug": "hl-accounting-lyon",
@@ -1778,7 +1778,7 @@
       "verdict": "Sans site confirmé - à prospecter",
       "sources": "Pappers et Compteo confirment profession d'expert-comptable et services. https://www.pappers.fr/entreprise/hl-accounting-843517731 | https://www.compteo.fr/expert-comptable/hlaccounting-19555"
     },
-    "heroImage": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=2400"
+    "heroImage": "/images/expert-comptable-hero-minimal.png"
   },
   {
     "slug": "agexio-rennes",
@@ -1915,7 +1915,7 @@
       "verdict": "Sans site confirmé - à prospecter",
       "sources": "Pappers et OEC confirment activité comptable active. https://www.pappers.fr/entreprise/agexio-820776979 | https://annuaire.experts-comptables.org/expert-comptable/21775-agexio-rennes-35700"
     },
-    "heroImage": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=2400"
+    "heroImage": "/images/expert-comptable-hero-minimal.png"
   },
   {
     "slug": "ouest-audit-rennes",
@@ -2052,6 +2052,6 @@
       "verdict": "Sans site confirmé - à prospecter",
       "sources": "Pappers, Société.com et OEC confirment activité/adresse. https://www.pappers.fr/entreprise/ouest-audit-448165027 | https://annuaire.experts-comptables.org/expert-comptable/514-ouest-audit-rennes-35000"
     },
-    "heroImage": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=2400"
+    "heroImage": "/images/expert-comptable-hero-minimal.png"
   }
 ]
