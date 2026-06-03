@@ -719,11 +719,12 @@ blockquote {
 
 .fiduciary-hero-copy h1 {
   color: #ffffff;
-  font-size: 76px;
+  font-size: 68px;
   font-weight: 800;
-  line-height: 1.08;
+  line-height: 1.06;
   margin: 0;
   max-width: 930px;
+  text-wrap: balance;
 }
 
 .fiduciary-hero-panel {
@@ -2092,7 +2093,7 @@ blockquote {
   }
 
   .fiduciary-hero-copy h1 {
-    font-size: 58px;
+    font-size: 52px;
   }
 
   .fiduciary-hero-panel {
@@ -2272,7 +2273,7 @@ blockquote {
   }
 
   .fiduciary-hero-copy h1 {
-    font-size: 40px;
+    font-size: 38px;
     line-height: 1.08;
   }
 

@@ -17,7 +17,7 @@
     "tagline": "Comptabilité, fiscalité et conseil pour accompagner les dirigeants dans la durée.",
     "proof": "Un cabinet d’expertise comptable à Rennes pour sécuriser les obligations, anticiper les échéances et donner une lecture claire des chiffres.",
     "intro": "ATHEIS accompagne les dirigeants, indépendants et entreprises dans le suivi comptable, fiscal et social de leur activité.",
-    "heroTitle": "ATHEIS, expertise comptable et accompagnement des dirigeants à Rennes",
+    "heroTitle": "ATHEIS, cabinet comptable à Rennes",
     "heroSummary": "Comptabilité, fiscalité, paie et conseil : un accompagnement structuré pour suivre vos obligations, sécuriser vos échéances et piloter votre activité.",
     "heroStats": [
       {
@@ -154,7 +154,7 @@
     "tagline": "Comptabilité, fiscalité et conseil pour accompagner les dirigeants dans la durée.",
     "proof": "Un cabinet d’expertise comptable à Rennes pour sécuriser les obligations, anticiper les échéances et donner une lecture claire des chiffres.",
     "intro": "Cabinet Pauthier accompagne les dirigeants, indépendants et entreprises dans le suivi comptable, fiscal et social de leur activité.",
-    "heroTitle": "Cabinet Pauthier, expertise comptable et accompagnement des dirigeants à Rennes",
+    "heroTitle": "Cabinet Pauthier, expert-comptable à Rennes",
     "heroSummary": "Comptabilité, fiscalité, paie et conseil : un accompagnement structuré pour suivre vos obligations, sécuriser vos échéances et piloter votre activité.",
     "heroStats": [
       {
@@ -291,7 +291,7 @@
     "tagline": "Comptabilité, fiscalité et conseil pour accompagner les dirigeants dans la durée.",
     "proof": "Un cabinet d’expertise comptable à Rennes pour sécuriser les obligations, anticiper les échéances et donner une lecture claire des chiffres.",
     "intro": "Christophe JUTEAU accompagne les dirigeants, indépendants et entreprises dans le suivi comptable, fiscal et social de leur activité.",
-    "heroTitle": "Christophe JUTEAU, expertise comptable et accompagnement des dirigeants à Rennes",
+    "heroTitle": "Christophe JUTEAU, expert-comptable à Rennes",
     "heroSummary": "Comptabilité, fiscalité, paie et conseil : un accompagnement structuré pour suivre vos obligations, sécuriser vos échéances et piloter votre activité.",
     "heroStats": [
       {
@@ -428,7 +428,7 @@
     "tagline": "Comptabilité, fiscalité et conseil pour accompagner les dirigeants dans la durée.",
     "proof": "Un cabinet d’expertise comptable à Rennes pour sécuriser les obligations, anticiper les échéances et donner une lecture claire des chiffres.",
     "intro": "CMJ Expertise Comptable accompagne les dirigeants, indépendants et entreprises dans le suivi comptable, fiscal et social de leur activité.",
-    "heroTitle": "CMJ Expertise Comptable, expertise comptable et accompagnement des dirigeants à Rennes",
+    "heroTitle": "CMJ Expertise Comptable à Rennes",
     "heroSummary": "Comptabilité, fiscalité, paie et conseil : un accompagnement structuré pour suivre vos obligations, sécuriser vos échéances et piloter votre activité.",
     "heroStats": [
       {
@@ -565,7 +565,7 @@
     "tagline": "Expertise comptable, audit et conseil pour sécuriser les décisions des dirigeants.",
     "proof": "Un cabinet à Lyon pour fiabiliser les comptes, sécuriser les obligations et accompagner les décisions financières.",
     "intro": "CABINET FARAH accompagne les entreprises et leurs dirigeants dans leurs missions d’expertise comptable, d’audit, de fiscalité et de conseil.",
-    "heroTitle": "CABINET FARAH, expertise comptable, audit et conseil à Lyon",
+    "heroTitle": "Cabinet Farah, expertise comptable et audit à Lyon",
     "heroSummary": "Expertise comptable, audit, fiscalité et conseil : un accompagnement structuré pour fiabiliser les comptes, anticiper les échéances et éclairer les décisions.",
     "heroStats": [
       {
@@ -702,7 +702,7 @@
     "tagline": "Comptabilité, fiscalité et conseil pour accompagner les dirigeants dans la durée.",
     "proof": "Un cabinet d’expertise comptable à Rennes pour sécuriser les obligations, anticiper les échéances et donner une lecture claire des chiffres.",
     "intro": "BMS Société d'Expertise Comptable accompagne les dirigeants, indépendants et entreprises dans le suivi comptable, fiscal et social de leur activité.",
-    "heroTitle": "BMS Société d'Expertise Comptable, expertise comptable et accompagnement des dirigeants à Rennes",
+    "heroTitle": "BMS Expertise Comptable à Rennes",
     "heroSummary": "Comptabilité, fiscalité, paie et conseil : un accompagnement structuré pour suivre vos obligations, sécuriser vos échéances et piloter votre activité.",
     "heroStats": [
       {
@@ -822,143 +822,6 @@
     "heroImage": "/images/expert-comptable-hero-minimal.png"
   },
   {
-    "slug": "lf-experts-la-fiduciaire-de-l-entreprise-lyon",
-    "template": "expert-comptable",
-    "name": "LF Experts - La Fiduciaire de l'Entreprise",
-    "sector": "Expertise comptable",
-    "city": "Lyon",
-    "phone": "04 78 14 55 75",
-    "phoneHref": "0478145575",
-    "email": "office@lfexperts.fr",
-    "address": "124 Rue Sully",
-    "currentSite": "https://infos.votrexpert.com/FIDUCIAIRE_ENTREPRISE/qui_sommes_nous/",
-    "demoPath": "/demo/lf-experts-la-fiduciaire-de-l-entreprise-lyon",
-    "sourceOpportunity": "Site sous annuaire / vitrine faible",
-    "primaryColor": "#172238",
-    "accentColor": "#c7a15a",
-    "tagline": "Comptabilité, fiscalité et conseil pour accompagner les dirigeants dans la durée.",
-    "proof": "Un cabinet d’expertise comptable à Lyon pour sécuriser les obligations, anticiper les échéances et donner une lecture claire des chiffres.",
-    "intro": "LF Experts - La Fiduciaire de l'Entreprise accompagne les dirigeants, indépendants et entreprises dans le suivi comptable, fiscal et social de leur activité.",
-    "heroTitle": "LF Experts - La Fiduciaire de l'Entreprise, expertise comptable et accompagnement des dirigeants à Lyon",
-    "heroSummary": "Comptabilité, fiscalité, paie et conseil : un accompagnement structuré pour suivre vos obligations, sécuriser vos échéances et piloter votre activité.",
-    "heroStats": [
-      {
-        "title": "TPE, PME & dirigeants",
-        "text": "Un suivi adapté aux besoins quotidiens des entrepreneurs et entreprises locales."
-      },
-      {
-        "title": "Échéances sécurisées",
-        "text": "Comptes annuels, TVA, fiscalité et paie suivis avec méthode."
-      },
-      {
-        "title": "Lyon et alentours",
-        "text": "Un accompagnement de proximité pour avancer avec des chiffres fiables."
-      }
-    ],
-    "services": [
-      "Expertise comptable",
-      "Fiscalité",
-      "Paie & social",
-      "Création d’entreprise",
-      "Pilotage",
-      "Conseil dirigeant"
-    ],
-    "serviceCards": [
-      {
-        "title": "Expertise comptable",
-        "label": "Tenue, révision, bilans",
-        "text": "Tenue comptable, révision, comptes annuels et suivi régulier pour disposer de chiffres fiables tout au long de l’année.",
-        "image": "https://images.pexels.com/photos/8296970/pexels-photo-8296970.jpeg?auto=compress&cs=tinysrgb&w=1400",
-        "featured": true
-      },
-      {
-        "title": "Fiscalité",
-        "label": "Déclarations & échéances",
-        "text": "Préparation des déclarations, suivi des échéances et conseils pour anticiper les obligations fiscales importantes.",
-        "image": "",
-        "featured": false
-      },
-      {
-        "title": "Paie & social",
-        "label": "Bulletins, charges, suivi RH",
-        "text": "Gestion des bulletins, déclarations sociales et obligations courantes de l’employeur avec un suivi structuré.",
-        "image": "",
-        "featured": false
-      },
-      {
-        "title": "Création d’entreprise",
-        "label": "Choix, lancement, premiers outils",
-        "text": "Accompagnement des créateurs et repreneurs pour poser des bases comptables, fiscales et administratives solides.",
-        "image": "",
-        "featured": false
-      },
-      {
-        "title": "Pilotage",
-        "label": "Trésorerie, marges, tableaux de bord",
-        "text": "Indicateurs simples pour suivre la trésorerie, comprendre les marges et prioriser les décisions de gestion.",
-        "image": "https://images.pexels.com/photos/8297220/pexels-photo-8297220.jpeg?auto=compress&cs=tinysrgb&w=1200",
-        "featured": false
-      },
-      {
-        "title": "Conseil dirigeant",
-        "label": "Suivi, décisions, organisation",
-        "text": "Échanges réguliers pour anticiper les échéances, sécuriser les décisions et accompagner les moments clés de l’entreprise.",
-        "image": "https://images.pexels.com/photos/8439661/pexels-photo-8439661.jpeg?auto=compress&cs=tinysrgb&w=1200",
-        "featured": false
-      }
-    ],
-    "zones": [
-      "Lyon",
-      "Centre-ville",
-      "Métropole",
-      "Région"
-    ],
-    "review": "Un accompagnement clair, régulier et utile pour suivre les chiffres de l’entreprise avec sérénité.",
-    "ctaLabel": "Envoyer un message",
-    "highlights": [
-      "Expertise comptable",
-      "Fiscalité et paie",
-      "Conseil dirigeant"
-    ],
-    "trustIntro": "Dirigeants, indépendants et PME ont besoin d’un partenaire qui comprend les obligations, anticipe les échéances et transforme la comptabilité en information utile.",
-    "trustPoints": [
-      "Expertise comptable confirmée",
-      "Suivi personnalisé de chaque mandat",
-      "Échéances fiscales et sociales anticipées",
-      "Conseils clairs pour les dirigeants"
-    ],
-    "contactTitle": "Échanger avec LF Experts - La Fiduciaire de l'Entreprise sur votre comptabilité, votre fiscalité ou vos prochains enjeux.",
-    "contactIntro": "Décrivez votre situation, vos échéances et le niveau d’accompagnement recherché afin de préparer un premier échange utile.",
-    "footerSlogan": "Comptabilité, fiscalité, paie et conseil pour avancer avec des chiffres fiables et des décisions plus claires.",
-    "faqs": [
-      {
-        "question": "Quels besoins comptables peut-on évoquer lors d’un premier échange ?",
-        "answer": "Comptabilité, fiscalité, paie, création d’entreprise ou pilotage : l’échange permet de comprendre la situation et de définir le niveau de suivi adapté."
-      },
-      {
-        "question": "Le cabinet accompagne-t-il les créateurs et dirigeants de TPE ?",
-        "answer": "Oui. L’accompagnement peut commencer dès la création puis se poursuivre avec la tenue comptable, les déclarations, la paie et les comptes annuels."
-      },
-      {
-        "question": "Pouvons-nous reprendre une comptabilité déjà existante ?",
-        "answer": "Oui. Un premier diagnostic permet d’identifier les documents disponibles, les échéances proches et les points à sécuriser en priorité."
-      },
-      {
-        "question": "Comment se passe le premier entretien ?",
-        "answer": "Nous clarifions votre activité, vos obligations, vos outils actuels et le niveau d’accompagnement attendu afin de proposer un cadre de mission adapté."
-      }
-    ],
-    "prospecting": {
-      "channel": "Email",
-      "nextAction": "Générer démo + email",
-      "reason": "Angle fort + email disponible",
-      "confidence": "Moyenne",
-      "verdict": "Site sous annuaire / vitrine faible - à prospecter",
-      "sources": "Page officielle probable : https://infos.votrexpert.com/FIDUCIAIRE_ENTREPRISE/qui_sommes_nous/"
-    },
-    "heroImage": "/images/expert-comptable-hero-minimal.png"
-  },
-  {
     "slug": "sigma-expertise-rennes",
     "template": "expert-comptable",
     "name": "SIGMA EXPERTISE",
@@ -976,7 +839,7 @@
     "tagline": "Comptabilité, fiscalité et conseil pour accompagner les dirigeants dans la durée.",
     "proof": "Un cabinet d’expertise comptable à Rennes pour sécuriser les obligations, anticiper les échéances et donner une lecture claire des chiffres.",
     "intro": "SIGMA EXPERTISE accompagne les dirigeants, indépendants et entreprises dans le suivi comptable, fiscal et social de leur activité.",
-    "heroTitle": "SIGMA EXPERTISE, expertise comptable et accompagnement des dirigeants à Rennes",
+    "heroTitle": "SIGMA EXPERTISE à Rennes",
     "heroSummary": "Comptabilité, fiscalité, paie et conseil : un accompagnement structuré pour suivre vos obligations, sécuriser vos échéances et piloter votre activité.",
     "heroStats": [
       {
@@ -1113,7 +976,7 @@
     "tagline": "Comptabilité, fiscalité et conseil pour accompagner les dirigeants dans la durée.",
     "proof": "Un cabinet d’expertise comptable à Lyon pour sécuriser les obligations, anticiper les échéances et donner une lecture claire des chiffres.",
     "intro": "Premium Expertise accompagne les dirigeants, indépendants et entreprises dans le suivi comptable, fiscal et social de leur activité.",
-    "heroTitle": "Premium Expertise, expertise comptable et accompagnement des dirigeants à Lyon",
+    "heroTitle": "Premium Expertise à Lyon",
     "heroSummary": "Comptabilité, fiscalité, paie et conseil : un accompagnement structuré pour suivre vos obligations, sécuriser vos échéances et piloter votre activité.",
     "heroStats": [
       {
@@ -1250,7 +1113,7 @@
     "tagline": "Comptabilité, fiscalité et conseil pour accompagner les dirigeants dans la durée.",
     "proof": "Un cabinet d’expertise comptable à Rennes pour sécuriser les obligations, anticiper les échéances et donner une lecture claire des chiffres.",
     "intro": "AC2F | Cabinet d'expertise comptable accompagne les dirigeants, indépendants et entreprises dans le suivi comptable, fiscal et social de leur activité.",
-    "heroTitle": "AC2F | Cabinet d'expertise comptable, expertise comptable et accompagnement des dirigeants à Rennes",
+    "heroTitle": "AC2F, cabinet comptable à Rennes",
     "heroSummary": "Comptabilité, fiscalité, paie et conseil : un accompagnement structuré pour suivre vos obligations, sécuriser vos échéances et piloter votre activité.",
     "heroStats": [
       {
@@ -1387,7 +1250,7 @@
     "tagline": "Comptabilité, fiscalité et conseil pour accompagner les dirigeants dans la durée.",
     "proof": "Un cabinet d’expertise comptable à Lyon pour sécuriser les obligations, anticiper les échéances et donner une lecture claire des chiffres.",
     "intro": "Cabinet Delouis - Expert comptable Lyon accompagne les dirigeants, indépendants et entreprises dans le suivi comptable, fiscal et social de leur activité.",
-    "heroTitle": "Cabinet Delouis - Expert comptable Lyon, expertise comptable et accompagnement des dirigeants à Lyon",
+    "heroTitle": "Cabinet Delouis, expert-comptable à Lyon",
     "heroSummary": "Comptabilité, fiscalité, paie et conseil : un accompagnement structuré pour suivre vos obligations, sécuriser vos échéances et piloter votre activité.",
     "heroStats": [
       {
@@ -1524,7 +1387,7 @@
     "tagline": "Comptabilité, fiscalité et conseil pour accompagner les dirigeants dans la durée.",
     "proof": "Un cabinet d’expertise comptable à Lyon pour sécuriser les obligations, anticiper les échéances et donner une lecture claire des chiffres.",
     "intro": "EXPR CAB' - Expert-comptable accompagne les dirigeants, indépendants et entreprises dans le suivi comptable, fiscal et social de leur activité.",
-    "heroTitle": "EXPR CAB' - Expert-comptable, expertise comptable et accompagnement des dirigeants à Lyon",
+    "heroTitle": "EXPR CAB', expert-comptable à Lyon",
     "heroSummary": "Comptabilité, fiscalité, paie et conseil : un accompagnement structuré pour suivre vos obligations, sécuriser vos échéances et piloter votre activité.",
     "heroStats": [
       {
@@ -1661,7 +1524,7 @@
     "tagline": "Comptabilité, fiscalité et conseil pour accompagner les dirigeants dans la durée.",
     "proof": "Un cabinet d’expertise comptable à Lyon pour sécuriser les obligations, anticiper les échéances et donner une lecture claire des chiffres.",
     "intro": "HL ACCOUNTING accompagne les dirigeants, indépendants et entreprises dans le suivi comptable, fiscal et social de leur activité.",
-    "heroTitle": "HL ACCOUNTING, expertise comptable et accompagnement des dirigeants à Lyon",
+    "heroTitle": "HL ACCOUNTING à Lyon",
     "heroSummary": "Comptabilité, fiscalité, paie et conseil : un accompagnement structuré pour suivre vos obligations, sécuriser vos échéances et piloter votre activité.",
     "heroStats": [
       {
@@ -1798,7 +1661,7 @@
     "tagline": "Comptabilité, fiscalité et conseil pour accompagner les dirigeants dans la durée.",
     "proof": "Un cabinet d’expertise comptable à Rennes pour sécuriser les obligations, anticiper les échéances et donner une lecture claire des chiffres.",
     "intro": "Agexio accompagne les dirigeants, indépendants et entreprises dans le suivi comptable, fiscal et social de leur activité.",
-    "heroTitle": "Agexio, expertise comptable et accompagnement des dirigeants à Rennes",
+    "heroTitle": "Agexio, cabinet comptable à Rennes",
     "heroSummary": "Comptabilité, fiscalité, paie et conseil : un accompagnement structuré pour suivre vos obligations, sécuriser vos échéances et piloter votre activité.",
     "heroStats": [
       {
@@ -1935,7 +1798,7 @@
     "tagline": "Expertise comptable, audit et conseil pour sécuriser les décisions des dirigeants.",
     "proof": "Un cabinet à Rennes pour fiabiliser les comptes, sécuriser les obligations et accompagner les décisions financières.",
     "intro": "Ouest Audit accompagne les entreprises et leurs dirigeants dans leurs missions d’expertise comptable, d’audit, de fiscalité et de conseil.",
-    "heroTitle": "Ouest Audit, expertise comptable, audit et conseil à Rennes",
+    "heroTitle": "Ouest Audit, expertise comptable et audit à Rennes",
     "heroSummary": "Expertise comptable, audit, fiscalité et conseil : un accompagnement structuré pour fiabiliser les comptes, anticiper les échéances et éclairer les décisions.",
     "heroStats": [
       {
