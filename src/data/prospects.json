@@ -559,7 +559,7 @@
     "address": "84 Rue de Marseille",
     "currentSite": "https://www.cabinet-farah.fr/",
     "demoPath": "/demo/cabinet-farah-lyon",
-    "sourceOpportunity": "Site trouvé après vérification",
+    "sourceOpportunity": "Site standardisé Revue Fiduciaire à différencier",
     "primaryColor": "#172238",
     "accentColor": "#9b6a2f",
     "tagline": "Expertise comptable, audit et conseil pour sécuriser les décisions des dirigeants.",
@@ -677,10 +677,10 @@
     "prospecting": {
       "channel": "Email",
       "nextAction": "Générer démo + email",
-      "reason": "Angle fort + email disponible",
+      "reason": "Site officiel standardisé + email disponible",
       "confidence": "Forte",
-      "verdict": "Site trouvé après vérification - à prospecter",
-      "sources": "Site officiel, page coordonnées et mentions légales confirment adresse, téléphone, email et activité. https://www.cabinet-farah.fr/ | https://www.cabinet-farah.fr/coordonnées/ | https://www.cabinet-farah.fr/mentions_legales/"
+      "verdict": "Site standardisé Revue Fiduciaire - à prospecter",
+      "sources": "Site officiel sur socle Revue Fiduciaire, avec base documentaire et contenus standardisés ; coordonnées, missions et activité confirmées. https://www.cabinet-farah.fr/ | https://www.cabinet-farah.fr/qui_sommes_nous/ | https://www.cabinet-farah.fr/missions/"
     },
     "heroImage": "/images/expert-comptable-hero-minimal.png"
   },
@@ -696,7 +696,7 @@
     "address": "123 Rue du Temple de Blosne",
     "currentSite": "https://www.sabms.eu/",
     "demoPath": "/demo/bms-societe-d-expertise-comptable-rennes",
-    "sourceOpportunity": "Site trouvé après vérification",
+    "sourceOpportunity": "Site standardisé Revue Fiduciaire à différencier",
     "primaryColor": "#172238",
     "accentColor": "#c7a15a",
     "tagline": "Comptabilité, fiscalité et conseil pour accompagner les dirigeants dans la durée.",
@@ -814,10 +814,10 @@
     "prospecting": {
       "channel": "Email",
       "nextAction": "Générer démo + email",
-      "reason": "Angle fort + email disponible",
+      "reason": "Site officiel standardisé + email disponible",
       "confidence": "Forte",
-      "verdict": "Site trouvé après vérification - à prospecter",
-      "sources": "Site officiel BMS et Allbiz confirment site/adresse ; contact indique chavagne@sabms.eu. https://www.sabms.eu/ | https://www.allbiz.fr/bms-soci%C3%A9t%C3%A9-dexpertise-comptable-02-99-60-99-60"
+      "verdict": "Site standardisé Revue Fiduciaire - à prospecter",
+      "sources": "Site officiel sur socle Revue Fiduciaire, très proche dans la structure du site Cabinet Farah ; coordonnées et activité confirmées. https://www.sabms.eu/ | https://www.sabms.eu/contact/ | https://www.allbiz.fr/bms-soci%C3%A9t%C3%A9-dexpertise-comptable-02-99-60-99-60"
     },
     "heroImage": "/images/expert-comptable-hero-minimal.png"
   },
