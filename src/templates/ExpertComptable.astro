@@ -99,7 +99,8 @@ const contactIntro = prospect.contactIntro || "Un premier échange permet de com
 const footerSlogan = prospect.footerSlogan || "Devenir le partenaire comptable de confiance des entrepreneurs qui cherchent clarté, continuité et croissance.";
 const phoneHref = prospect.phoneHref || String(prospect.phone || "").replace(/[^\d+]/g, "");
 const hasEmail = Boolean(prospect.email);
-const contactHref = hasEmail ? `mailto:${prospect.email}` : `tel:${phoneHref}`;
+const hasPhone = Boolean(phoneHref);
+const contactHref = hasEmail ? `mailto:${prospect.email}` : hasPhone ? `tel:${phoneHref}` : "#contact";
 const hours = prospect.hours || "Lun-Ven 9h-18h";
 ---
 <BaseLayout title={`${prospect.name} | ${prospect.sector}`} description={prospect.proof} primaryColor={prospect.primaryColor} accentColor={prospect.accentColor}>
@@ -123,7 +124,7 @@ const hours = prospect.hours || "Lun-Ven 9h-18h";
           <a href="#contact">Contact</a>
         </nav>
 
-        <a class="fiduciary-header-cta" href={`tel:${phoneHref}`}>
+        <a class="fiduciary-header-cta" href={contactHref}>
           Contactez-nous
           <span aria-hidden="true">-&gt;</span>
         </a>
@@ -378,10 +379,12 @@ const hours = prospect.hours || "Lun-Ven 9h-18h";
           <span>{contactIntro}</span>
 
           <div class="fiduciary-contact-details" aria-label="Coordonnées du cabinet">
-            <a href={`tel:${phoneHref}`}>
-              <small>T&eacute;l&eacute;phone</small>
-              <strong>{prospect.phone}</strong>
-            </a>
+            {hasPhone && (
+              <a href={`tel:${phoneHref}`}>
+                <small>T&eacute;l&eacute;phone</small>
+                <strong>{prospect.phone}</strong>
+              </a>
+            )}
             {hasEmail && (
               <a href={`mailto:${prospect.email}`}>
                 <small>Email</small>
@@ -457,7 +460,7 @@ const hours = prospect.hours || "Lun-Ven 9h-18h";
         </nav>
 
         <div class="fiduciary-footer-separator" aria-hidden="true"></div>
-        <a class="fiduciary-footer-phone" href={`tel:${phoneHref}`}>{prospect.phone}</a>
+        {hasPhone && <a class="fiduciary-footer-phone" href={`tel:${phoneHref}`}>{prospect.phone}</a>}
         {hasEmail && <a class="fiduciary-footer-email" href={`mailto:${prospect.email}`}>{prospect.email}</a>}
         <span class="fiduciary-footer-address">{prospect.address}</span>
       </div>
