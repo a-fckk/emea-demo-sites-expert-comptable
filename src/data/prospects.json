@@ -2480,8 +2480,8 @@
   {
     "slug": "apex-rennes",
     "template": "expert-comptable",
-    "name": "Apex",
-    "sector": "Expertise CSE et conseil social",
+    "name": "Apex-Isast",
+    "sector": "Expertise CSE, dialogue social et conditions de travail",
     "city": "Rennes",
     "phone": "02 99 83 53 98",
     "phoneHref": "0299835398",
@@ -2489,76 +2489,76 @@
     "address": "22 Rue de la Rigourdiere",
     "currentSite": "https://www.apex-isast.fr/",
     "demoPath": "/demo/apex-rennes",
-    "sourceOpportunity": "Cabinet spécialisé à clarifier",
+    "sourceOpportunity": "Site spécialisé CSE à adapter",
     "primaryColor": "#172238",
     "accentColor": "#c7a15a",
-    "tagline": "Analyse économique, accompagnement des consultations et appui aux élus : un suivi clair pour comprendre les chiffres et préparer les décisions.",
-    "proof": "Un cabinet spécialisé à Rennes pour aider les élus et représentants à comprendre les chiffres, préparer les consultations et structurer leurs échanges.",
-    "intro": "Apex accompagne les représentants du personnel, CSE et organisations dans l’analyse économique et sociale.",
-    "heroTitle": "Apex, expertise et conseil pour les CSE à Rennes",
-    "heroSummary": "Analyse économique, accompagnement des consultations et appui aux élus : un suivi clair pour comprendre les chiffres et préparer les décisions.",
+    "tagline": "Expertise CSE, consultations, conditions de travail, comptabilité et formation des élus : un accompagnement pour négocier, anticiper et protéger les salariés.",
+    "proof": "Un cabinet spécialisé à Rennes pour aider les élus, CSE, CSSCT et organisations syndicales à comprendre les enjeux économiques, sociaux et de travail.",
+    "intro": "Apex-Isast accompagne les représentants du personnel, CSE, CSSCT et organisations syndicales dans leurs missions économiques, sociales et de santé au travail.",
+    "heroTitle": "Apex-Isast, expertise CSE et dialogue social à Rennes",
+    "heroSummary": "Consultations obligatoires, conditions de travail, comptabilité du CSE, formation et négociation : un appui clair pour défendre les intérêts des salariés.",
     "heroStats": [
       {
-        "title": "CSE & représentants",
-        "text": "Un accompagnement pensé pour rendre les données économiques compréhensibles et exploitables."
+        "title": "CSE, CSSCT & OS",
+        "text": "Un accompagnement dédié aux élus et représentants du personnel dans leurs missions économiques et sociales."
       },
       {
-        "title": "Analyses structurées",
-        "text": "Comptes, budgets et orientations préparés avec méthode pour les consultations."
+        "title": "Consultations CSE",
+        "text": "Situation économique, politique sociale, orientations stratégiques et consultations exceptionnelles."
       },
       {
-        "title": "Rennes et alentours",
-        "text": "Une présence locale pour accompagner les instances dans la durée."
+        "title": "Travail & négociation",
+        "text": "Risque grave, projets importants, nouvelles technologies, égalité professionnelle ou accords collectifs."
       }
     ],
     "services": [
-      "Expertise auprès des CSE",
-      "Analyse économique",
-      "Consultations obligatoires",
-      "Négociations",
+      "Attributions économiques et sociales",
+      "Conditions de travail",
+      "Comptabilité du CSE",
+      "Audit des comptes du CSE",
       "Formation des élus",
-      "Conseil social"
+      "Accompagnement à la négociation"
     ],
     "serviceCards": [
       {
-        "title": "Expertise CSE",
-        "label": "Comptes, orientations, consultations",
-        "text": "Lecture claire des comptes et des décisions économiques pour aider les élus à préparer leurs consultations.",
+        "title": "Attributions économiques et sociales",
+        "label": "Situation économique, politique sociale, orientations",
+        "text": "Analyse des informations remises au CSE pour préparer les consultations annuelles obligatoires et formuler les bonnes questions.",
         "image": "https://images.pexels.com/photos/8296970/pexels-photo-8296970.jpeg?auto=compress&cs=tinysrgb&w=1400",
         "featured": true
       },
       {
-        "title": "Analyse économique",
-        "label": "Activité, marges, trésorerie",
-        "text": "Analyse des documents financiers pour comprendre les tendances, les risques et les leviers de négociation.",
+        "title": "Consultations exceptionnelles",
+        "label": "PSE, droit d’alerte, concentration, OPA/OPE",
+        "text": "Appui aux élus lorsque l’entreprise traverse une opération sensible ou une décision structurante pour l’emploi et l’organisation.",
         "image": "",
         "featured": false
       },
       {
-        "title": "Dialogue social",
-        "label": "Appui aux élus",
-        "text": "Préparation des échanges avec la direction, formulation des questions et priorisation des points à éclaircir.",
+        "title": "Conditions de travail",
+        "label": "Risque grave, projet important, nouvelles technologies",
+        "text": "Analyse des conséquences concrètes sur l’organisation, la santé et les conditions de travail, notamment lors de projets de transformation.",
         "image": "",
         "featured": false
       },
       {
-        "title": "Formation",
-        "label": "Repères financiers",
-        "text": "Sessions pédagogiques pour rendre les comptes, budgets et indicateurs plus lisibles au quotidien.",
+        "title": "Comptabilité du CSE",
+        "label": "Tenue, attestation, budgets, ASC",
+        "text": "Accompagnement des comités dans la tenue des comptes, la gestion des budgets, l’audit du comité et l’optimisation des activités sociales et culturelles.",
         "image": "",
         "featured": false
       },
       {
-        "title": "Accompagnement stratégique",
-        "label": "Choix, alertes, décisions",
-        "text": "Un appui structuré pour transformer les chiffres en décisions utiles aux représentants du personnel.",
+        "title": "Formation des élus",
+        "label": "Repères économiques, rôle du CSE, méthode",
+        "text": "Des formations pour aider les élus à comprendre leurs prérogatives, les documents économiques et les leviers d’action du comité.",
         "image": "https://images.pexels.com/photos/8297220/pexels-photo-8297220.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "featured": false
       },
       {
-        "title": "Suivi annuel",
-        "label": "Continuité des analyses",
-        "text": "Des repères réguliers pour comparer les exercices, suivre les engagements et anticiper les prochains sujets.",
+        "title": "Accompagnement à la négociation",
+        "label": "Égalité professionnelle, PSE, accords de performance",
+        "text": "Préparation des échanges avec la direction pour mieux négocier, anticiper les difficultés et protéger les intérêts des salariés.",
         "image": "https://images.pexels.com/photos/8439661/pexels-photo-8439661.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "featured": false
       }
@@ -2569,50 +2569,50 @@
       "Métropole",
       "Région"
     ],
-    "review": "Une lecture plus claire des chiffres pour préparer les échanges et sécuriser les décisions des représentants.",
-    "ctaLabel": "Appeler le cabinet",
+    "review": "Un appui spécialisé pour transformer les informations économiques, sociales et de travail en questions utiles pour le CSE.",
+    "ctaLabel": "Contacter les experts",
     "highlights": [
-      "Expertise CSE",
-      "Analyse économique",
-      "Conseil social"
+      "Consultations CSE",
+      "Conditions de travail",
+      "Formation des élus"
     ],
-    "trustIntro": "Les élus ont besoin d’un partenaire capable de rendre les données économiques lisibles, de prioriser les questions importantes et de préparer les temps forts du dialogue social.",
+    "trustIntro": "Les élus ont besoin d’un partenaire capable de rendre les documents économiques lisibles, d’évaluer les impacts sociaux et d’aider le CSE à agir dans les temps forts du dialogue social.",
     "trustPoints": [
-      "Analyse économique pédagogique",
-      "Appui aux consultations obligatoires",
-      "Lecture claire des documents financiers",
-      "Conseil adapté aux représentants du personnel"
+      "Appui aux consultations annuelles obligatoires",
+      "Expertise sur les risques graves et projets importants",
+      "Comptabilité, gestion et audit des comptes du CSE",
+      "Formation et accompagnement à la négociation"
     ],
-    "contactTitle": "Échanger avec Apex sur vos enjeux CSE, économiques ou sociaux.",
-    "contactIntro": "Présentez votre contexte, les documents reçus et les échéances à venir afin de préparer un premier échange utile.",
-    "footerSlogan": "Analyse économique, conseil social et accompagnement des CSE pour aborder les chiffres avec plus de clarté.",
+    "contactTitle": "Échanger avec Apex-Isast sur vos enjeux CSE ou conditions de travail.",
+    "contactIntro": "Présentez votre instance, les documents reçus, les consultations en cours et les échéances à venir afin de préparer un premier échange utile.",
+    "footerSlogan": "Expertise CSE, conditions de travail, formation et accompagnement à la négociation pour renforcer le dialogue social.",
     "faqs": [
       {
         "question": "Quels sujets un CSE peut-il aborder lors d’un premier échange ?",
-        "answer": "Les comptes de l’entreprise, les orientations stratégiques, la politique sociale, les budgets ou les documents remis dans le cadre des consultations."
+        "answer": "Les consultations annuelles, une situation économique à clarifier, la politique sociale, les orientations stratégiques, un PSE, un droit d’alerte ou un projet important."
       },
       {
         "question": "L’accompagnement aide-t-il à préparer les consultations obligatoires ?",
-        "answer": "Oui. L’objectif est de clarifier les chiffres, repérer les points à questionner et aider les élus à structurer leurs échanges avec la direction."
+        "answer": "Oui. L’objectif est de rendre les informations compréhensibles, de repérer les points à questionner et d’aider les élus à structurer leurs échanges avec la direction."
       },
       {
-        "question": "Les analyses sont-elles compréhensibles pour des non-financiers ?",
-        "answer": "Oui. Les documents peuvent être présentés avec des repères clairs afin de rendre les enjeux économiques accessibles aux élus."
+        "question": "Le cabinet intervient-il aussi sur les conditions de travail ?",
+        "answer": "Oui. L’accompagnement peut porter sur un risque grave, un projet important, l’introduction de nouvelles technologies ou des transformations d’organisation."
       },
       {
-        "question": "Peut-on prévoir un suivi sur plusieurs temps forts de l’année ?",
-        "answer": "Oui. Un accompagnement peut être organisé autour des consultations, des réunions clés et des sujets économiques ou sociaux prioritaires."
+        "question": "Apex-Isast accompagne-t-il la comptabilité du CSE ?",
+        "answer": "Oui. Le cabinet peut intervenir sur la tenue ou l’attestation des comptes, la gestion des budgets, l’audit du comité et les activités sociales et culturelles."
       }
     ],
     "prospecting": {
       "channel": "Appel / email à trouver",
       "nextAction": "Vérifier contact avant envoi",
-      "reason": "Cabinet spécialisé à clarifier",
+      "reason": "Cabinet spécialisé CSE et dialogue social",
       "confidence": "Moyenne",
-      "verdict": "Cabinet spécialisé à clarifier - à prospecter",
-      "sources": "Documents publics Apex-Isast mentionnant Rennes.",
+      "verdict": "Cabinet spécialisé CSE et dialogue social - à prospecter avec message adapté",
+      "sources": "Site officiel Apex-Isast: https://www.apex-isast.fr/ ; contact: https://www.apex-isast.fr/contact/ ; comptabilité du CSE: https://www.apex-isast.fr/comptabilite-du-cse/",
       "currentSite": "https://www.apex-isast.fr/",
-      "note": "Specialiste CSE/IRP, probablement hors ICP generaliste.",
+      "note": "Template adapté sur CSE, CSSCT, conditions de travail, comptabilité du CSE, formation et négociation.",
       "rawName": "Apex Rennes"
     },
     "heroImage": "/images/expert-comptable-hero-minimal.png"
@@ -4720,8 +4720,8 @@
   {
     "slug": "groupeo-consolidation-rennes",
     "template": "expert-comptable",
-    "name": "Groupeo Consolidation",
-    "sector": "Consolidation et expertise comptable",
+    "name": "Groupéo Consolidation",
+    "sector": "Consolidation externalisée et reporting financier",
     "city": "Rennes",
     "phone": "06 71 09 23 27",
     "phoneHref": "0671092327",
@@ -4729,76 +4729,76 @@
     "address": "1 Rue Coulabin",
     "currentSite": "https://www.groupeo.bzh/",
     "demoPath": "/demo/groupeo-consolidation-rennes",
-    "sourceOpportunity": "Site existant à auditer",
+    "sourceOpportunity": "Site spécialisé consolidation à adapter",
     "primaryColor": "#172238",
     "accentColor": "#c7a15a",
-    "tagline": "Consolidation, reporting et pilotage financier : un accompagnement structuré pour fiabiliser les chiffres et les décisions de groupe.",
-    "proof": "Un cabinet à Rennes pour fiabiliser les comptes consolidés, structurer le reporting et accompagner les décisions financières.",
-    "intro": "Groupeo Consolidation accompagne les groupes, holdings et directions financières dans la consolidation et le pilotage de leurs chiffres.",
-    "heroTitle": "Groupeo Consolidation, consolidation et reporting à Rennes",
-    "heroSummary": "Consolidation, reporting et pilotage financier : un accompagnement structuré pour fiabiliser les chiffres et les décisions de groupe.",
+    "tagline": "Externalisation de consolidation, assistance ponctuelle, reporting et formation : un accompagnement pour produire une information consolidée fiable et intelligible.",
+    "proof": "Un cabinet à Rennes spécialisé dans la consolidation des comptes, le reporting groupe et la montée en compétences des équipes financières.",
+    "intro": "Groupéo Consolidation accompagne les dirigeants, directeurs financiers et équipes consolidation dans la production et l’appropriation de leur information consolidée.",
+    "heroTitle": "Groupéo Consolidation, consolidation externalisée à Rennes",
+    "heroSummary": "Externalisation adaptée, assistance technique, reporting mensuel et formation : une solution pour fiabiliser les données consolidées sans perdre la maîtrise de la communication financière.",
     "heroStats": [
       {
-        "title": "Groupes & filiales",
-        "text": "Un suivi adapté aux structures qui ont besoin de chiffres consolidés et comparables."
+        "title": "Groupes & directions financières",
+        "text": "Un accompagnement pensé pour les petits, moyens ou grands groupes qui doivent produire une information consolidée fiable."
       },
       {
-        "title": "Reporting fiabilisé",
-        "text": "Des échéances, formats et indicateurs organisés pour piloter plus sereinement."
+        "title": "Externalisation adaptée",
+        "text": "Tout ou partie de la consolidation peut être prise en charge, avec explication des travaux et transfert de compétences."
       },
       {
-        "title": "Rennes et alentours",
-        "text": "Un accompagnement de proximité pour les directions financières et dirigeants."
+        "title": "Reporting & formation",
+        "text": "Reporting mensuel, publications obligatoires ou facultatives, bases de consolidation, flux de trésorerie et IFRS."
       }
     ],
     "services": [
-      "Consolidation",
-      "Reporting groupe",
-      "Comptes annuels",
-      "Fiscalité",
-      "Tableaux de bord",
-      "Conseil direction financière"
+      "Externalisation de consolidation",
+      "Assistance ponctuelle",
+      "Reporting mensuel",
+      "Publications consolidées",
+      "Formation des équipes",
+      "Introduction aux normes IFRS"
     ],
     "serviceCards": [
       {
-        "title": "Consolidation",
-        "label": "Groupes, filiales, reporting",
-        "text": "Production et fiabilisation des comptes consolidés pour donner une lecture claire de la performance du groupe.",
+        "title": "Externalisation adaptée",
+        "label": "Tout ou partie de la consolidation",
+        "text": "Production de l’information consolidée avec une approche qui privilégie l’explication des travaux et la montée en compétences des équipes internes.",
         "image": "https://images.pexels.com/photos/8296970/pexels-photo-8296970.jpeg?auto=compress&cs=tinysrgb&w=1400",
         "featured": true
       },
       {
-        "title": "Reporting financier",
-        "label": "Tableaux de bord, délais, qualité",
-        "text": "Organisation des remontées d’information et des indicateurs pour piloter avec des chiffres homogènes.",
+        "title": "Assistance ponctuelle",
+        "label": "Opérations techniques & process internes",
+        "text": "Appui opérationnel sur une acquisition, un cadrage de preuve d’impôts ou l’amélioration du processus de réconciliation des opérations internes.",
         "image": "",
         "featured": false
       },
       {
-        "title": "Comptes annuels",
-        "label": "Révision, clôture, conformité",
-        "text": "Suivi comptable et fiscal des entités pour sécuriser les clôtures et les obligations courantes.",
+        "title": "Reporting mensuel",
+        "label": "Formats, calendrier, fiabilité",
+        "text": "Structuration du reporting pour disposer d’une information consolidée régulière, comparable et exploitable par la direction financière.",
         "image": "",
         "featured": false
       },
       {
-        "title": "Fiscalité",
-        "label": "Déclarations & échéances",
-        "text": "Anticipation des échéances fiscales et coordination des obligations liées aux différentes structures.",
+        "title": "Publications consolidées",
+        "label": "Trimestriel, semestriel, annuel",
+        "text": "Production de données consolidées pour des publications obligatoires ou facultatives, avec votre outil de consolidation ou celui du cabinet.",
         "image": "",
         "featured": false
       },
       {
-        "title": "Pilotage groupe",
-        "label": "Marges, trésorerie, prévisions",
-        "text": "Des indicateurs lisibles pour suivre la trésorerie, comparer les entités et préparer les arbitrages.",
+        "title": "Formation des équipes",
+        "label": "Bases, flux, capitaux propres",
+        "text": "Formation personnalisée pour comprendre les bases de la consolidation, le tableau de flux de trésorerie consolidé et la variation des capitaux propres.",
         "image": "https://images.pexels.com/photos/8297220/pexels-photo-8297220.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "featured": false
       },
       {
-        "title": "Conseil direction financière",
-        "label": "Structuration, outils, décisions",
-        "text": "Un accompagnement pour fiabiliser les processus financiers et soutenir les décisions de direction.",
+        "title": "Normes IFRS & appropriation",
+        "label": "Transmission & intelligibilité",
+        "text": "Un accompagnement pour rendre l’information consolidée intelligible et aider les équipes à se l’approprier avant de la présenter aux partenaires.",
         "image": "https://images.pexels.com/photos/8439661/pexels-photo-8439661.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "featured": false
       }
@@ -4809,50 +4809,50 @@
       "Métropole",
       "Région"
     ],
-    "review": "Un accompagnement structuré pour fiabiliser les données financières et donner une lecture consolidée claire.",
+    "review": "Une spécialisation consolidation pour produire une information fiable, réglementaire et compréhensible par les équipes comme par les partenaires.",
     "ctaLabel": "Envoyer un message",
     "highlights": [
-      "Consolidation",
-      "Reporting",
-      "Pilotage groupe"
+      "Consolidation externalisée",
+      "Reporting mensuel",
+      "Formation consolidation"
     ],
-    "trustIntro": "Les groupes ont besoin de données homogènes, d’échéances maîtrisées et d’indicateurs fiables pour prendre des décisions cohérentes.",
+    "trustIntro": "Les groupes ont besoin d’une information consolidée de qualité, produite dans les délais, conforme à la réglementation et suffisamment claire pour rester maîtrisée en interne.",
     "trustPoints": [
-      "Consolidation des comptes",
-      "Reporting structuré",
-      "Échéances de clôture sécurisées",
-      "Conseil direction financière"
+      "Externalisation partielle ou totale de la consolidation",
+      "Assistance technique sur opérations complexes",
+      "Respect des délais et de la réglementation",
+      "Transmission des savoirs aux équipes internes"
     ],
-    "contactTitle": "Échanger avec Groupeo Consolidation sur vos enjeux de consolidation ou de reporting.",
-    "contactIntro": "Décrivez votre organisation, vos échéances et les données à fiabiliser afin de préparer un premier échange utile.",
-    "footerSlogan": "Consolidation, reporting et pilotage financier pour avancer avec des chiffres fiables et comparables.",
+    "contactTitle": "Échanger avec Groupéo Consolidation sur vos enjeux de consolidation.",
+    "contactIntro": "Décrivez votre groupe, vos échéances, votre outil de consolidation et les travaux à externaliser ou à sécuriser afin de préparer un premier échange utile.",
+    "footerSlogan": "Consolidation externalisée, assistance ponctuelle, reporting et formation pour rendre l’information financière de groupe fiable et intelligible.",
     "faqs": [
       {
         "question": "Quels besoins peut-on évoquer lors d’un premier échange ?",
-        "answer": "Consolidation, reporting, organisation des clôtures, tableaux de bord ou fiabilisation des données financières."
+        "answer": "Externalisation de consolidation, reporting mensuel, publication consolidée, assistance ponctuelle sur une opération technique ou formation des équipes."
       },
       {
-        "question": "Le cabinet accompagne-t-il les groupes et holdings ?",
-        "answer": "Oui. L’accompagnement peut porter sur la consolidation des comptes, la coordination des entités et la production d’indicateurs homogènes."
+        "question": "Le cabinet peut-il prendre en charge seulement une partie de la consolidation ?",
+        "answer": "Oui. L’accompagnement peut être partiel ou total, selon l’organisation interne, les délais, les outils et le niveau de maîtrise souhaité par les équipes."
       },
       {
-        "question": "Peut-on améliorer un reporting existant ?",
-        "answer": "Oui. Un diagnostic permet d’identifier les sources, les délais, les formats et les points de contrôle à renforcer."
+        "question": "Groupéo intervient-il avec l’outil de consolidation du client ?",
+        "answer": "Oui. Le site indique que les travaux peuvent être menés avec l’outil de consolidation du client ou avec celui du cabinet."
       },
       {
-        "question": "Comment se passe le premier entretien ?",
-        "answer": "L’échange permet de comprendre l’organisation du groupe, les outils actuels, les échéances et le niveau d’accompagnement attendu."
+        "question": "La formation fait-elle partie de l’accompagnement ?",
+        "answer": "Oui. Les formations peuvent porter sur les bases de la consolidation, le tableau de flux de trésorerie consolidé, la variation des capitaux propres ou une introduction aux normes IFRS."
       }
     ],
     "prospecting": {
       "channel": "Email",
       "nextAction": "Générer démo + email",
-      "reason": "Site existant à auditer",
+      "reason": "Cabinet spécialisé consolidation et reporting",
       "confidence": "Moyenne",
-      "verdict": "Site existant à auditer - à prospecter",
+      "verdict": "Cabinet spécialisé consolidation et reporting - à prospecter avec message adapté",
       "sources": "Site officiel: https://www.groupeo.bzh/ ; contact: https://www.groupeo.bzh/formulaire-de-contact",
       "currentSite": "https://www.groupeo.bzh/",
-      "note": "Niche consolidation, interessant a juger manuellement.",
+      "note": "Template adapté sur consolidation externalisée, assistance ponctuelle, reporting mensuel et formation des équipes.",
       "rawName": "Groupeo Consolidation"
     },
     "heroImage": "/images/expert-comptable-hero-minimal.png"
