@@ -6260,23 +6260,23 @@
   {
     "slug": "fiduxia-nantes",
     "template": "expert-comptable",
-    "name": "FIDUXIA Nantes",
-    "sector": "Expertise comptable",
-    "city": "Nantes",
-    "phone": "02 28 22 82 46",
-    "phoneHref": "0228228246",
-    "email": null,
-    "address": "4 Rue de la Cornouaille",
+    "name": "FIDUXIA Grenoble",
+    "sector": "Expertise comptable et commissariat aux comptes",
+    "city": "Grenoble",
+    "phone": "04 76 23 00 70",
+    "phoneHref": "0476230070",
+    "email": "info@fiduxia.net",
+    "address": "91 rue Général Mangin",
     "currentSite": "https://www.fiduxia.net/",
     "demoPath": "/demo/fiduxia-nantes",
     "sourceOpportunity": "Site existant à auditer",
     "primaryColor": "#172238",
     "accentColor": "#c7a15a",
-    "tagline": "Comptabilité, fiscalité, paie et conseil : un accompagnement structuré pour suivre vos obligations, sécuriser vos échéances et piloter votre activité.",
-    "proof": "Un cabinet d’expertise comptable à Nantes pour sécuriser les obligations, anticiper les échéances et donner une lecture claire des chiffres.",
-    "intro": "FIDUXIA Nantes accompagne les dirigeants, indépendants et entreprises dans le suivi comptable, fiscal et social de leur activité.",
-    "heroTitle": "FIDUXIA Nantes, cabinet d’expertise comptable à Nantes",
-    "heroSummary": "Comptabilité, fiscalité, paie et conseil : un accompagnement structuré pour suivre vos obligations, sécuriser vos échéances et piloter votre activité.",
+    "tagline": "Comptabilité, fiscalité, paie, audit et conseil : un accompagnement structuré pour suivre vos obligations, sécuriser vos échéances et piloter votre activité.",
+    "proof": "Un cabinet d’expertise comptable et de commissariat aux comptes à Grenoble pour sécuriser les obligations, anticiper les échéances et donner une lecture claire des chiffres.",
+    "intro": "FIDUXIA Grenoble accompagne les dirigeants, indépendants et entreprises dans le suivi comptable, fiscal, social et l’audit légal ou contractuel.",
+    "heroTitle": "FIDUXIA Grenoble, cabinet d’expertise comptable à Grenoble",
+    "heroSummary": "Comptabilité, fiscalité, paie, audit et conseil : un accompagnement structuré pour suivre vos obligations, sécuriser vos échéances et piloter votre activité.",
     "heroStats": [
       {
         "title": "TPE, PME & dirigeants",
@@ -6287,17 +6287,17 @@
         "text": "Comptes annuels, TVA, fiscalité et paie suivis avec méthode."
       },
       {
-        "title": "Nantes et alentours",
-        "text": "Un accompagnement de proximité pour avancer avec des chiffres fiables."
+        "title": "Siège à Grenoble",
+        "text": "Un cabinet implanté rue Général Mangin, avec une présence également à Nantes."
       }
     ],
     "services": [
       "Expertise comptable",
-      "Fiscalité",
+      "Juridique & fiscal",
       "Paie & social",
-      "Création d’entreprise",
-      "Pilotage",
-      "Conseil dirigeant"
+      "Conseil & gestion",
+      "Audit légal",
+      "Commissariat aux comptes"
     ],
     "serviceCards": [
       {
@@ -6308,9 +6308,9 @@
         "featured": true
       },
       {
-        "title": "Fiscalité",
-        "label": "Déclarations & échéances",
-        "text": "Préparation des déclarations, suivi des échéances et conseils pour anticiper les obligations fiscales importantes.",
+        "title": "Juridique & fiscal",
+        "label": "Obligations, organisation, fiscalité du dirigeant",
+        "text": "Accompagnement dans les démarches fiscales courantes, l’organisation de l’entreprise et la fiscalité personnelle du dirigeant.",
         "image": "",
         "featured": false
       },
@@ -6322,54 +6322,54 @@
         "featured": false
       },
       {
-        "title": "Création d’entreprise",
-        "label": "Choix, lancement, premiers outils",
-        "text": "Accompagnement des créateurs et repreneurs pour poser des bases comptables, fiscales et administratives solides.",
+        "title": "Conseil & gestion",
+        "label": "Gestion générale et financière",
+        "text": "Conseil en gestion et financement pour accompagner les décisions de l’entreprise tout au long de sa vie.",
         "image": "",
         "featured": false
       },
       {
-        "title": "Pilotage",
-        "label": "Trésorerie, marges, tableaux de bord",
-        "text": "Des indicateurs simples pour suivre la trésorerie, comprendre les marges et prioriser les décisions de gestion.",
+        "title": "Audit légal et contractuel",
+        "label": "Commissariat aux comptes, contrôle, fiabilité",
+        "text": "Missions d’audit pour renforcer la fiabilité de l’information financière et répondre aux obligations légales ou contractuelles.",
         "image": "https://images.pexels.com/photos/8297220/pexels-photo-8297220.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "featured": false
       },
       {
-        "title": "Conseil dirigeant",
-        "label": "Suivi, décisions, organisation",
-        "text": "Échanges réguliers pour anticiper les échéances, sécuriser les décisions et accompagner les moments clés de l’entreprise.",
+        "title": "Commissariat aux comptes",
+        "label": "Audit, transparence, obligations",
+        "text": "Une expertise complémentaire pour sécuriser les comptes, les contrôles et les obligations des structures concernées.",
         "image": "https://images.pexels.com/photos/8439661/pexels-photo-8439661.jpeg?auto=compress&cs=tinysrgb&w=1200",
         "featured": false
       }
     ],
     "zones": [
-      "Nantes",
+      "Grenoble",
       "Centre-ville",
-      "Métropole",
-      "Région"
+      "Métropole grenobloise",
+      "Auvergne-Rhône-Alpes"
     ],
     "review": "Un accompagnement clair, régulier et utile pour suivre les chiffres de l’entreprise avec sérénité.",
     "ctaLabel": "Appeler le cabinet",
     "highlights": [
       "Expertise comptable",
-      "Fiscalité et paie",
-      "Conseil dirigeant"
+      "Juridique, fiscal et social",
+      "Audit légal"
     ],
     "trustIntro": "Dirigeants, indépendants et PME ont besoin d’un partenaire qui comprend les obligations, anticipe les échéances et transforme la comptabilité en information utile.",
     "trustPoints": [
       "Expertise comptable confirmée",
       "Suivi personnalisé de chaque mandat",
       "Échéances fiscales et sociales anticipées",
-      "Conseils clairs pour les dirigeants"
+      "Audit légal et commissariat aux comptes"
     ],
-    "contactTitle": "Échanger avec FIDUXIA Nantes sur votre comptabilité, votre fiscalité ou vos prochains enjeux.",
+    "contactTitle": "Échanger avec FIDUXIA Grenoble sur votre comptabilité, votre fiscalité ou vos prochains enjeux.",
     "contactIntro": "Décrivez votre situation, vos échéances et le niveau d’accompagnement recherché afin de préparer un premier échange utile.",
-    "footerSlogan": "Comptabilité, fiscalité, paie et conseil pour avancer avec des chiffres fiables et des décisions plus claires.",
+    "footerSlogan": "Comptabilité, fiscalité, paie, audit et conseil pour avancer avec des chiffres fiables et des décisions plus claires.",
     "faqs": [
       {
         "question": "Quels besoins comptables peut-on évoquer lors d’un premier échange ?",
-        "answer": "Comptabilité, fiscalité, paie, création d’entreprise ou pilotage : l’échange permet de comprendre la situation et de définir le niveau de suivi adapté."
+        "answer": "Comptabilité, fiscalité, paie, conseil en gestion ou audit : l’échange permet de comprendre la situation et de définir le niveau de suivi adapté."
       },
       {
         "question": "Le cabinet accompagne-t-il les créateurs et dirigeants de TPE ?",
@@ -6390,10 +6390,10 @@
       "reason": "Site existant à auditer",
       "confidence": "Moyenne",
       "verdict": "Site existant à auditer - à prospecter",
-      "sources": "Google Maps Nantes - recherche web 2026-06-04 ; URL recherchee manuellement quand possible. Site officiel trouve.",
+      "sources": "Site officiel FIDUXIA: https://www.fiduxia.net/ ; contact: https://www.fiduxia.net/contact ; siège social Grenoble identifié sur le site.",
       "currentSite": "https://www.fiduxia.net/",
-      "note": "A juger visuellement par toi.",
-      "rawName": "FIDUXIA NANTES"
+      "note": "Maquette adaptée sur le siège social de Grenoble : adresse, téléphone et email officiels.",
+      "rawName": "FIDUXIA GRENOBLE"
     },
     "heroImage": "/images/expert-comptable-hero-minimal.png"
   },
